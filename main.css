@@ -445,6 +445,8 @@ body {
   min-height: 100vh;
   display: flex;
   flex-direction: column;
+ 
+  overflow-x: hidden; 
 }
 
 .exam-topbar {
@@ -555,8 +557,9 @@ body {
   width: 100%;
   padding: 1.5rem;
   gap: 1.5rem;
-}
 
+  min-height: 0;
+}
 .exam-sidebar {
   width: 248px;
   flex-shrink: 0;
@@ -887,6 +890,7 @@ body {
   .auth-card { padding: 1.8rem 1.2rem; }
 }
 
+
 .screen-center {
   min-height: 100vh;
   display: flex;
@@ -898,3 +902,22 @@ body {
   padding: 2rem;
 }
 .screen-center p { color: var(--muted); font-size: 0.85rem; }
+.exam-shell {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  
+  overflow-x: hidden; 
+}
+
+.exam-body {
+  flex: 1;
+  display: flex;
+  max-width: 1300px;
+  margin: 0 auto;
+  width: 100%;
+  padding: 1.5rem;
+  gap: 1.5rem;
+
+  min-height: 0; 
+}
