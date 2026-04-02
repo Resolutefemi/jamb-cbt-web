@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0"/>
+  <title>The Pace Setter Academy — Dashboard</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com"/>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin/>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;600;700&family=DM+Mono:wght@400;500&family=Fraunces:ital,wght@0,700;1,700&display=swap" rel="stylesheet"/>
+
+  <!-- Supabase CDN must load BEFORE the module scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2"></script>
+
+  <link rel="stylesheet" href="main.css"/>
+</head>
+<body>
+  <div id="app">
+    <div class="screen-center">
+      <div class="spinner"></div>
+      <p>Loading…</p>
+    </div>
+  </div>
+
+  <script type="module">
+    import { dispatch } from './router.js';
+    import sb           from './supabase.js';
+    import store        from './store.js';
+
+    async function boot() {
+      const { data: { session } } = await sb.auth.getSession();
+      store.user = session?.user || null;
+
+      // Not logged in → back to login page
+      if (!store.user) {
+        window.location.href = 'index.html';
+        return;
+      }
+
+      // Default to dashboard if no hash set
+      if (!window.location.hash || window.location.hash === '#/auth') {
+        window.location.hash = '#/dashboard';
+      }
+
+      await dispatch();
+    }
+
+    boot();
+  </script>
+</body>
+</html>

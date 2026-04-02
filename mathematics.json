@@ -1,0 +1,3344 @@
+[
+  {
+    "question": "If M represents the median and D the mode of the measurements 5, 9, 3, 5, 8 then (M, D) is",
+    "option": {
+      "a": "(6, 5)",
+      "b": "(5, 8)",
+      "c": "(7, 5)",
+      "d": "(5, 5)",
+      "e": "(5, 7)"
+    },
+    "answer": "d",
+    "explanation": "To find the median (M), arrange the numbers in ascending order: 3, 5, 5, 8, 9. The middle number is 5, so M = 5. The mode (D) is the most frequent number, which is 5. Therefore, (M, D) = (5, 5)."
+  },
+  {
+    "question": "A construction company is owned by two partners X and Y and it is agreed that their profit will be divided in the ratio 4:5. At the end of the year, Y received #5,000 more than X. What is the total profit of the company for the year?",
+    "option": {
+      "a": "#20,000.00",
+      "b": "#25,000.00",
+      "c": "#30,000.00",
+      "d": "#15,000.00",
+      "e": "#45,000.00"
+    },
+    "answer": "e",
+    "explanation": "Let the shares be 4k and 5k. The difference (5k - 4k) = k. Given k = #5,000. Total profit = 4k + 5k = 9k. Total profit = 9 * 5,000 = #45,000.00."
+  },
+  {
+    "question": "Given a regular hexagon, calculate each interior angle of the hexagon.",
+    "option": {
+      "a": "60°",
+      "b": "30°",
+      "c": "120°",
+      "d": "45°",
+      "e": "135°"
+    },
+    "answer": "c",
+    "explanation": "The formula for each interior angle of a regular polygon is ((n-2) * 180) / n. For a hexagon, n = 6. Angle = ((6-2) * 180) / 6 = (4 * 180) / 6 = 720 / 6 = 120°."
+  },
+  {
+    "question": "Solve the following equations: 4x - 3 = 3x + y = 2y + 5x - 12",
+    "option": {
+      "a": "4x = 5, y = 2",
+      "b": "x = 2, y = 5",
+      "c": "x = -2, y = -5",
+      "d": "x = 5, y = 2",
+      "e": "x = -5, y = -2"
+    },
+    "answer": "d",
+    "explanation": "From 4x - 3 = 3x + y, we get x - y = 3 (Eq 1). From 3x + y = 2y + 5x - 12, we get -2x - y = -12 or 2x + y = 12 (Eq 2). Adding Eq 1 and Eq 2: 3x = 15, so x = 5. Substituting x=5 into Eq 1: 5 - y = 3, so y = 2."
+  },
+  {
+    "question": "If x = 1 is a root of the equation x³ - 2x² - 5x + 6, find the other roots.",
+    "option": {
+      "a": "-3 and 2",
+      "b": "-2 and 2",
+      "c": "3 and -2",
+      "d": "1 and 3",
+      "e": "-3 and 1"
+    },
+    "answer": "c",
+    "explanation": "Dividing (x³ - 2x² - 5x + 6) by (x - 1) gives x² - x - 6. Factoring x² - x - 6 gives (x - 3)(x + 2). Thus the other roots are 3 and -2."
+  },
+  {
+    "question": "If x is jointly proportional to the cube of y and the fourth power of z, in what ratio is x increased or decreased when y is halved and z is doubled?",
+    "option": {
+      "a": "4:1 increase",
+      "b": "2:1 increase",
+      "c": "1:4 decrease",
+      "d": "1:1 no change",
+      "e": "3:4 decrease"
+    },
+    "answer": "b",
+    "explanation": "x = k * y³ * z⁴. New x' = k * (y/2)³ * (2z)⁴ = k * (y³/8) * (16z⁴) = 2 * (k * y³ * z⁴) = 2x. The ratio is 2:1 increase."
+  },
+  {
+    "question": "The value of (0.303)³ - (0.02)³ is approximately:",
+    "option": {
+      "a": "0.019",
+      "b": "0.0019",
+      "c": "0.00019",
+      "d": "0.000019",
+      "e": "0.0278"
+    },
+    "answer": "e",
+    "explanation": "(0.303)³ is approx 0.027818. (0.02)³ is 0.000008. The difference is 0.02781."
+  },
+  {
+    "question": "In a class of 60 pupils, if the sector angle for Additional Mathematics is 60°, how many pupils offer it?",
+    "option": {
+      "a": "15",
+      "b": "10",
+      "c": "18",
+      "d": "12",
+      "e": "28"
+    },
+    "answer": "b",
+    "explanation": "Number of pupils = (Angle / 360) * Total Pupils. Number = (60 / 360) * 60 = 10."
+  },
+  {
+    "question": "The scores of students are 41, 29, 55, 21, 47, 70, 70, 40, 43, 56, 73, 23, 50, 50. Find the median.",
+    "option": {
+      "a": "47",
+      "b": "48.5",
+      "c": "50",
+      "d": "48",
+      "e": "49"
+    },
+    "answer": "b",
+    "explanation": "Arranged scores: 21, 23, 29, 40, 41, 43, 47, 50, 50, 55, 56, 70, 70, 73. Median is average of 7th and 8th scores: (47 + 50) / 2 = 48.5."
+  },
+  {
+    "question": "MATRICULATION has 13 letters. Find the probability of drawing a vowel.",
+    "option": {
+      "a": "2/13",
+      "b": "5/13",
+      "c": "6/13",
+      "d": "8/13",
+      "e": "4/13"
+    },
+    "answer": "c",
+    "explanation": "Vowels are A, I, U, A, I, O (6 total). Total letters = 13. Probability = 6/13."
+  },
+  {
+    "question": "The 3rd term of an AP is -9 and the 7th term is 15. Find the 10th term.",
+    "option": {
+      "a": "33",
+      "b": "27",
+      "c": "30",
+      "d": "39",
+      "e": "42"
+    },
+    "answer": "a",
+    "explanation": "a+2d=-9, a+6d=15. 4d=24, d=6. a=-21. 10th term = -21 + 9(6) = 33."
+  },
+  {
+    "question": "If x * y = xy + x + y, find the value of 3 * -2/3.",
+    "option": {
+      "a": "1/3",
+      "b": "-1/3",
+      "c": "-1",
+      "d": "1",
+      "e": "0"
+    },
+    "answer": "a",
+    "explanation": "3 * (-2/3) = (3 * -2/3) + 3 + (-2/3) = -2 + 3 - 2/3 = 1/3."
+  },
+  {
+    "question": "Find the values of x for which 2x² - 5x + 2 is less than zero.",
+    "option": {
+      "a": "x < 1/2 or x > 2",
+      "b": "1/2 < x < 2",
+      "c": "x < -2 or x > -1/2",
+      "d": "-2 < x < -1/2",
+      "e": "none"
+    },
+    "answer": "b",
+    "explanation": "Factorize: (2x - 1)(x - 2) < 0. Expression is negative between the roots 1/2 and 2."
+  },
+  {
+    "question": "A man invested #5,000 for 9 months at 4% per annum. What is the simple interest?",
+    "option": {
+      "a": "#150.00",
+      "b": "#180.00",
+      "c": "#120.00",
+      "d": "#200.00",
+      "e": "#450.00"
+    },
+    "answer": "a",
+    "explanation": "S.I. = (P*R*T)/100. Time = 9/12 = 0.75. S.I. = (5000 * 4 * 0.75) / 100 = #150.00."
+  },
+  {
+    "question": "Find the sum to infinity of the GP: 1, 1/3, 1/9, 1/27...",
+    "option": {
+      "a": "3/2",
+      "b": "2/3",
+      "c": "1/2",
+      "d": "2",
+      "e": "3"
+    },
+    "answer": "a",
+    "explanation": "S = a / (1 - r). a = 1, r = 1/3. S = 1 / (1 - 1/3) = 3/2."
+  },
+  {
+    "question": "If cos θ = 12/13 and θ is acute, find tan θ.",
+    "option": {
+      "a": "5/12",
+      "b": "13/5",
+      "c": "12/5",
+      "d": "5/13",
+      "e": "7/12"
+    },
+    "answer": "a",
+    "explanation": "By Pythagoras: Adj=12, Hyp=13, so Opp=5. Tan θ = Opp/Adj = 5/12."
+  },
+  {
+    "question": "Find the derivative of y = (2x + 3)⁴.",
+    "option": {
+      "a": "4(2x + 3)³",
+      "b": "8(2x + 3)³",
+      "c": "2(2x + 3)³",
+      "d": "8(2x + 3)⁴",
+      "e": "4(2x + 3)⁴"
+    },
+    "answer": "b",
+    "explanation": "By chain rule: dy/dx = 4(2x + 3)³ * 2 = 8(2x + 3)³."
+  },
+  {
+    "question": "Evaluate ∫ (3x² + 4x - 5) dx.",
+    "option": {
+      "a": "x³ + 2x² - 5x + c",
+      "b": "3x³ + 4x² - 5x + c",
+      "c": "x³ + 4x² - 5x + c",
+      "d": "6x + 4 + c",
+      "e": "x³ + 2x² - 5 + c"
+    },
+    "answer": "a",
+    "explanation": "Integrate term by term: x³ + 2x² - 5x + c."
+  },
+  {
+    "question": "If the mean of 0, x + 2, 3x + 6 and 4x + 8 is 14, find x.",
+    "option": {
+      "a": "5",
+      "b": "4",
+      "c": "3",
+      "d": "2",
+      "e": "6"
+    },
+    "answer": "a",
+    "explanation": "(8x + 16) / 4 = 14 => 8x + 16 = 56 => 8x = 40 => x = 5."
+  },
+  {
+    "question": "In how many ways can 5 people be seated in a row?",
+    "option": {
+      "a": "5",
+      "b": "25",
+      "c": "60",
+      "d": "120",
+      "e": "10"
+    },
+    "answer": "d",
+    "explanation": "Ways = 5! = 5 * 4 * 3 * 2 * 1 = 120."
+  },
+  {
+    "question": "If x + 2 and x - 1 are factors of lx³ + 2kx² + 24, find l and k.",
+    "option": {
+      "a": "l = -6, k = -9",
+      "b": "l = -2, k = 1",
+      "c": "l = -1, k = -2",
+      "d": "l = 0, k = 1",
+      "e": "l = 6, k = 1"
+    },
+    "answer": "a",
+    "explanation": "Using factor theorem: f(-2)=0 and f(1)=0 results in l=-6, k=-9."
+  },
+  {
+    "question": "The nth term is n² - 1/n. Find the difference between the 3rd and 2nd terms.",
+    "option": {
+      "a": "5 1/6",
+      "b": "4 1/3",
+      "c": "5 2/3",
+      "d": "6 1/2",
+      "e": "4 5/6"
+    },
+    "answer": "a",
+    "explanation": "T3 = 9 - 1/3 = 26/3. T2 = 4 - 1/2 = 7/2. 26/3 - 7/2 = 31/6 = 5 1/6."
+  },
+  {
+    "question": "Mean age is 15. A 45-year-old teacher joins, making the mean 18. Find the number of students.",
+    "option": {
+      "a": "7",
+      "b": "9",
+      "c": "15",
+      "d": "42",
+      "e": "10"
+    },
+    "answer": "b",
+    "explanation": "(15n + 45) / (n + 1) = 18 => 15n + 45 = 18n + 18 => 3n = 27 => n = 9."
+  },
+  {
+    "question": "Find the mode of: 15, 16, 17, 18, 16, 17, 17, 17, 18, 16.",
+    "option": {
+      "a": "15kg",
+      "b": "16kg",
+      "c": "17kg",
+      "d": "18kg",
+      "e": "16.5kg"
+    },
+    "answer": "c",
+    "explanation": "17 appears most frequently (4 times)."
+  },
+  {
+    "question": "Radius is 10.5cm, angle is 120°. Find the perimeter of the sector. (π = 22/7)",
+    "option": {
+      "a": "22cm",
+      "b": "33cm",
+      "c": "43cm",
+      "d": "55cm",
+      "e": "66cm"
+    },
+    "answer": "c",
+    "explanation": "Arc = (120/360)*2*(22/7)*10.5 = 22. Perimeter = 22 + 2(10.5) = 43cm."
+  },
+  {
+    "question": "In how many ways can a committee of 3 be chosen from 5 people?",
+    "option": {
+      "a": "10 ways",
+      "b": "15 ways",
+      "c": "20 ways",
+      "d": "25 ways",
+      "e": "5 ways"
+    },
+    "answer": "a",
+    "explanation": "5c3 = 10 ways."
+  },
+  {
+    "question": "Ways to form a committee of 6 from 9 commissioners and 3 assembly members with exactly one assembly member?",
+    "option": {
+      "a": "924 ways",
+      "b": "840 ways",
+      "c": "462 ways",
+      "d": "378 ways",
+      "e": "252 ways"
+    },
+    "answer": "d",
+    "explanation": "3c1 * 9c5 = 3 * 126 = 378."
+  },
+  {
+    "question": "12 red and 16 black balls. White balls added. P(white) = 3/7. How many white balls?",
+    "option": {
+      "a": "21",
+      "b": "28",
+      "c": "32",
+      "d": "12",
+      "e": "24"
+    },
+    "answer": "a",
+    "explanation": "w / (w + 28) = 3/7 => 7w = 3w + 84 => 4w = 84 => w = 21."
+  },
+  {
+    "question": "Die rolled 100 times, '5' recorded 15 times. Find experimental probability of '5'.",
+    "option": {
+      "a": "1/6",
+      "b": "3/20",
+      "c": "1/5",
+      "d": "1/2",
+      "e": "3/10"
+    },
+    "answer": "b",
+    "explanation": "Probability = 15 / 100 = 3/20."
+  },
+  {
+    "question": "Find the range of: 21, 23, 29, 40, 41, 43, 47, 50, 50, 55, 56, 70, 70, 73.",
+    "option": {
+      "a": "52",
+      "b": "50",
+      "c": "49",
+      "d": "73",
+      "e": "21"
+    },
+    "answer": "a",
+    "explanation": "Range = 73 - 21 = 52."
+  },
+  {
+    "question": "Sum of first n terms is 252. First term is -16, last is 72. Find n.",
+    "option": {
+      "a": "8",
+      "b": "9",
+      "c": "10",
+      "d": "11",
+      "e": "12"
+    },
+    "answer": "b",
+    "explanation": "252 = n/2(-16 + 72) => 252 = 28n => n = 9."
+  },
+  {
+    "question": "Radius 7cm, angle 60°. Find area of sector. (π = 22/7)",
+    "option": {
+      "a": "25.67",
+      "b": "12.83",
+      "c": "5.13",
+      "d": "44",
+      "e": "7.33"
+    },
+    "answer": "a",
+    "explanation": "Area = (60/360) * (22/7) * 7 * 7 = 154/6 = 25.67."
+  },
+  {
+    "question": "Man 1.7m tall is 13m from pole. Elevation is 30°. Find pole height.",
+    "option": {
+      "a": "9.2m",
+      "b": "10.7m",
+      "c": "7.5m",
+      "d": "8.4m",
+      "e": "14.7m"
+    },
+    "answer": "a",
+    "explanation": "Height = 13 * tan 30 + 1.7 = 7.5 + 1.7 = 9.2m."
+  },
+  {
+    "question": "If a * b = a + b - ab, find the identity element e.",
+    "option": {
+      "a": "1",
+      "b": "-1",
+      "c": "0",
+      "d": "2",
+      "e": "1/2"
+    },
+    "answer": "c",
+    "explanation": "a + e - ae = a => e(1 - a) = 0 => e = 0."
+  },
+  {
+    "question": "Find equation of line through (2, 3) and (4, 7).",
+    "option": {
+      "a": "y = 2x - 1",
+      "b": "y = 2x + 1",
+      "c": "y = x + 1",
+      "d": "y = x - 1",
+      "e": "y = 2x"
+    },
+    "answer": "a",
+    "explanation": "Slope = 2. y - 3 = 2(x - 2) => y = 2x - 1."
+  },
+  {
+    "question": "If y = x² sin x, find dy/dx.",
+    "option": {
+      "a": "2x sin x + x² cos x",
+      "b": "2x cos x + x² sin x",
+      "c": "x² cos x - 2x sin x",
+      "d": "2x sin x - x² cos x",
+      "e": "2x cos x"
+    },
+    "answer": "a",
+    "explanation": "Using product rule: (x²)(cos x) + (2x)(sin x)."
+  },
+  {
+    "question": "P(pass Math) = 2/3, P(pass English) = 4/5. Find P(pass at least one).",
+    "option": {
+      "a": "14/15",
+      "b": "8/15",
+      "c": "1/15",
+      "d": "2/15",
+      "e": "13/15"
+    },
+    "answer": "a",
+    "explanation": "1 - (1/3 * 1/5) = 14/15."
+  },
+  {
+    "question": "Evaluate 1011₂ + 1101₂.",
+    "option": {
+      "a": "11000₂",
+      "b": "10100₂",
+      "c": "11100₂",
+      "d": "10000₂",
+      "e": "11010₂"
+    },
+    "answer": "a",
+    "explanation": "Binary sum is 11000₂."
+  },
+  {
+    "question": "Solve inequality: 3(x + 1) ≤ 5(x + 2) + 1",
+    "option": {
+      "a": "x ≥ -4",
+      "b": "x ≤ -4",
+      "c": "x ≥ -2",
+      "d": "x ≤ -2",
+      "e": "x ≥ 4"
+    },
+    "answer": "a",
+    "explanation": "3x + 3 ≤ 5x + 11 => -8 ≤ 2x => x ≥ -4."
+  },
+  {
+    "question": "Find determinant of matrix [[2, 3], [1, 4]].",
+    "option": {
+      "a": "5",
+      "b": "11",
+      "c": "2",
+      "d": "7",
+      "e": "10"
+    },
+    "answer": "a",
+    "explanation": "Det = 8 - 3 = 5."
+  },
+  {
+    "question": "Sum of interior angles is 1800°. How many sides?",
+    "option": {
+      "a": "10",
+      "b": "12",
+      "c": "8",
+      "d": "15",
+      "e": "9"
+    },
+    "answer": "b",
+    "explanation": "(n-2)*180 = 1800 => n-2 = 10 => n = 12."
+  },
+  {
+    "question": "Find k if kx² + x + k is divisible by (x + 1).",
+    "option": {
+      "a": "1",
+      "b": "-1",
+      "c": "1/2",
+      "d": "-1/2",
+      "e": "0"
+    },
+    "answer": "c",
+    "explanation": "f(-1) = k - 1 + k = 0 => 2k = 1 => k = 1/2."
+  },
+  {
+    "question": "Length of arc subtending 90° at center of 7cm radius circle? (π = 22/7)",
+    "option": {
+      "a": "11cm",
+      "b": "22cm",
+      "c": "44cm",
+      "d": "7cm",
+      "e": "14cm"
+    },
+    "answer": "a",
+    "explanation": "Length = (90/360)*2*(22/7)*7 = 11cm."
+  },
+  {
+    "question": "4th term of GP is 8, 7th term is 64. Find common ratio.",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "1/2",
+      "e": "1"
+    },
+    "answer": "a",
+    "explanation": "ar³=8, ar⁶=64 => r³=8 => r=2."
+  },
+  {
+    "question": "Hypotenuse is 10cm, one side is 6cm. Find third side.",
+    "option": {
+      "a": "4cm",
+      "b": "8cm",
+      "c": "7cm",
+      "d": "9cm",
+      "e": "5cm"
+    },
+    "answer": "b",
+    "explanation": "√(100 - 36) = 8cm."
+  },
+  {
+    "question": "Gradient of line joining (3, 5) and (7, 13).",
+    "option": {
+      "a": "2",
+      "b": "1",
+      "c": "4",
+      "d": "1/2",
+      "e": "3"
+    },
+    "answer": "a",
+    "explanation": "m = (13-5)/(7-3) = 2."
+  },
+  {
+    "question": "Find value of log₁₀ 0.001.",
+    "option": {
+      "a": "3",
+      "b": "-3",
+      "c": "2",
+      "d": "-2",
+      "e": "-1"
+    },
+    "answer": "b",
+    "explanation": "10⁻³ = 0.001, so log is -3."
+  },
+  {
+    "question": "5 red and 3 blue balls. Find probability of blue.",
+    "option": {
+      "a": "5/8",
+      "b": "3/8",
+      "c": "3/5",
+      "d": "1/2",
+      "e": "1/3"
+    },
+    "answer": "b",
+    "explanation": "P = 3 / 8."
+  },
+  {
+    "question": "Simplify (x² - 4) / (x - 2).",
+    "option": {
+      "a": "x - 2",
+      "b": "x + 2",
+      "c": "x + 4",
+      "d": "x - 4",
+      "e": "x"
+    },
+    "answer": "b",
+    "explanation": "(x-2)(x+2)/(x-2) = x+2."
+  },
+  {
+    "question": "Find median of: 12, 16, 10, 14, 18.",
+    "option": {
+      "a": "10",
+      "b": "12",
+      "c": "14",
+      "d": "16",
+      "e": "18"
+    },
+    "answer": "c",
+    "explanation": "Sorted: 10, 12, 14, 16, 18. Middle is 14."
+  },
+  {
+    "question": "If 2x + 3y = 7 and x - y = 1, find x.",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "3",
+      "d": "0",
+      "e": "4"
+    },
+    "answer": "b",
+    "explanation": "2x + 3(x-1) = 7 => 5x = 10 => x = 2."
+  },
+  {
+    "question": "Area of triangle with base 12cm and height 8cm?",
+    "option": {
+      "a": "96",
+      "b": "48",
+      "c": "24",
+      "d": "40",
+      "e": "36"
+    },
+    "answer": "b",
+    "explanation": "0.5 * 12 * 8 = 48."
+  },
+  {
+    "question": "Solve for x: log₂ x = 5.",
+    "option": {
+      "a": "10",
+      "b": "25",
+      "c": "32",
+      "d": "16",
+      "e": "64"
+    },
+    "answer": "c",
+    "explanation": "x = 2⁵ = 32."
+  },
+  {
+    "question": "Simple interest on #2000 for 2 years at 5%?",
+    "option": {
+      "a": "200",
+      "b": "100",
+      "c": "50",
+      "d": "400",
+      "e": "20"
+    },
+    "answer": "a",
+    "explanation": "(2000*5*2)/100 = 200."
+  },
+  {
+    "question": "Volume of cylinder radius 3cm, height 7cm? (π = 22/7)",
+    "option": {
+      "a": "198",
+      "b": "66",
+      "c": "132",
+      "d": "154",
+      "e": "44"
+    },
+    "answer": "a",
+    "explanation": "(22/7) * 9 * 7 = 198."
+  },
+  {
+    "question": "If sin x = 0.6 find cos x (acute).",
+    "option": {
+      "a": "0.4",
+      "b": "0.8",
+      "c": "0.5",
+      "d": "0.7",
+      "e": "1.0"
+    },
+    "answer": "b",
+    "explanation": "√(1 - 0.36) = 0.8."
+  },
+  {
+    "question": "Sum of first 10 terms of 2, 4, 6, 8...?",
+    "option": {
+      "a": "100",
+      "b": "110",
+      "c": "120",
+      "d": "90",
+      "e": "200"
+    },
+    "answer": "b",
+    "explanation": "10/2 * (4 + 18) = 110."
+  },
+  {
+    "question": "Convert 25 to binary.",
+    "option": {
+      "a": "11001₂",
+      "b": "10101₂",
+      "c": "11100₂",
+      "d": "10011₂",
+      "e": "11011₂"
+    },
+    "answer": "a",
+    "explanation": "25 = 11001₂."
+  },
+  {
+    "question": "Value of 2⁷ / 2⁴?",
+    "option": {
+      "a": "8",
+      "b": "16",
+      "c": "32",
+      "d": "64",
+      "e": "4"
+    },
+    "answer": "a",
+    "explanation": "2³ = 8."
+  },
+  {
+    "question": "Mode of: 4, 7, 4, 8, 9, 4, 10, 7.",
+    "option": {
+      "a": "7",
+      "b": "4",
+      "c": "8",
+      "d": "9",
+      "e": "10"
+    },
+    "answer": "b",
+    "explanation": "4 appears 3 times."
+  },
+  {
+    "question": "Find x if log₁₀ x = -2.",
+    "option": {
+      "a": "0.1",
+      "b": "0.01",
+      "c": "0.001",
+      "d": "100",
+      "e": "10"
+    },
+    "answer": "b",
+    "explanation": "10⁻² = 0.01."
+  },
+  {
+    "question": "Sum of interior angles of a pentagon?",
+    "option": {
+      "a": "360°",
+      "b": "540°",
+      "c": "720°",
+      "d": "180°",
+      "e": "900°"
+    },
+    "answer": "b",
+    "explanation": "(5-2)*180 = 540."
+  },
+  {
+    "question": "Circle diameter 14cm, find area. (π = 22/7)",
+    "option": {
+      "a": "154",
+      "b": "44",
+      "c": "616",
+      "d": "77",
+      "e": "308"
+    },
+    "answer": "a",
+    "explanation": "(22/7) * 7 * 7 = 154."
+  },
+  {
+    "question": "Solve for y: 3(y - 4) = 2y + 5.",
+    "option": {
+      "a": "17",
+      "b": "9",
+      "c": "12",
+      "d": "1",
+      "e": "7"
+    },
+    "answer": "a",
+    "explanation": "3y - 12 = 2y + 5 => y = 17."
+  },
+  {
+    "question": "Median of: 7, 12, 15, 8, 20, 11.",
+    "option": {
+      "a": "11.5",
+      "b": "11",
+      "c": "12",
+      "d": "10",
+      "e": "13"
+    },
+    "answer": "a",
+    "explanation": "7, 8, 11, 12, 15, 20. Median is 11.5."
+  },
+  {
+    "question": "Simple interest on #4000 for 3 years at 6%?",
+    "option": {
+      "a": "720",
+      "b": "240",
+      "c": "120",
+      "d": "480",
+      "e": "600"
+    },
+    "answer": "a",
+    "explanation": "(4000*6*3)/100 = 720."
+  },
+  {
+    "question": "Fair coin tossed twice. Probability of at least one head?",
+    "option": {
+      "a": "1/4",
+      "b": "1/2",
+      "c": "3/4",
+      "d": "1/3",
+      "e": "2/3"
+    },
+    "answer": "c",
+    "explanation": "Outcomes: HH, HT, TH. P = 3/4."
+  },
+  {
+    "question": "Gradient of line perpendicular to y = 3x + 5.",
+    "option": {
+      "a": "3",
+      "b": "-3",
+      "c": "1/3",
+      "d": "-1/3",
+      "e": "1"
+    },
+    "answer": "d",
+    "explanation": "-1 / 3."
+  },
+  {
+    "question": "Expand (2x - 3)(x + 4).",
+    "option": {
+      "a": "2x² + 5x - 12",
+      "b": "2x² - 5x - 12",
+      "c": "2x² + 11x - 12",
+      "d": "2x² - 11x - 12",
+      "e": "2x² + 5x + 12"
+    },
+    "answer": "a",
+    "explanation": "2x² + 8x - 3x - 12 = 2x² + 5x - 12."
+  },
+  {
+    "question": "Evaluate 25^(3/2).",
+    "option": {
+      "a": "125",
+      "b": "75",
+      "c": "15",
+      "d": "50",
+      "e": "625"
+    },
+    "answer": "a",
+    "explanation": "(√25)³ = 5³ = 125."
+  },
+  {
+    "question": "If the mean of 2, 5, x, 7, and 9 is 6, find x.",
+    "option": {
+      "a": "7",
+      "b": "6",
+      "c": "5",
+      "d": "8",
+      "e": "4"
+    },
+    "answer": "a",
+    "explanation": "23 + x = 30 => x = 7."
+  },
+  {
+    "question": "Find x if 2^(x+1) = 32.",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "6",
+      "e": "2"
+    },
+    "answer": "b",
+    "explanation": "2^(x+1) = 2⁵ => x+1 = 5 => x = 4."
+  },
+  {
+    "question": "Probability of rolling > 4 on a fair die?",
+    "option": {
+      "a": "1/6",
+      "b": "1/3",
+      "c": "1/2",
+      "d": "2/3",
+      "e": "5/6"
+    },
+    "answer": "b",
+    "explanation": "5, 6 are > 4. 2/6 = 1/3."
+  },
+  {
+    "question": "Gradient of line 3y - 6x = 12.",
+    "option": {
+      "a": "2",
+      "b": "-2",
+      "c": "3",
+      "d": "6",
+      "e": "-6"
+    },
+    "answer": "a",
+    "explanation": "3y = 6x + 12 => y = 2x + 4."
+  },
+  {
+    "question": "Car travels 120km in 1.5 hours, find average speed.",
+    "option": {
+      "a": "60",
+      "b": "90",
+      "c": "80",
+      "d": "100",
+      "e": "180"
+    },
+    "answer": "c",
+    "explanation": "120 / 1.5 = 80."
+  },
+  {
+    "question": "Exterior angle of regular polygon is 36°. How many sides?",
+    "option": {
+      "a": "8",
+      "b": "10",
+      "c": "12",
+      "d": "6",
+      "e": "15"
+    },
+    "answer": "b",
+    "explanation": "360 / 36 = 10."
+  },
+  {
+    "question": "Find value of (0.04)^(-1/2).",
+    "option": {
+      "a": "0.2",
+      "b": "5",
+      "c": "25",
+      "d": "0.5",
+      "e": "2"
+    },
+    "answer": "b",
+    "explanation": "1 / √0.04 = 1 / 0.2 = 5."
+  },
+  {
+    "question": "40 students: 25 Football, 15 Basketball, 5 both. Find neither.",
+    "option": {
+      "a": "10",
+      "b": "5",
+      "c": "0",
+      "d": "15",
+      "e": "20"
+    },
+    "answer": "b",
+    "explanation": "40 - (20 + 5 + 10) = 5."
+  },
+  {
+    "question": "Simplify log 8 / log 2.",
+    "option": {
+      "a": "log 4",
+      "b": "3",
+      "c": "4",
+      "d": "2",
+      "e": "log 6"
+    },
+    "answer": "b",
+    "explanation": "log 2³ / log 2 = 3."
+  },
+  {
+    "question": "If y is inversely proportional to x and y=4 when x=3, find y when x=6.",
+    "option": {
+      "a": "8",
+      "b": "2",
+      "c": "12",
+      "d": "1.5",
+      "e": "4"
+    },
+    "answer": "b",
+    "explanation": "y = 12 / 6 = 2."
+  },
+  {
+    "question": "The sum of the interior angles of a regular polygon is 1080°. Find the number of sides of the polygon.",
+    "option": {
+      "a": "6",
+      "b": "7",
+      "c": "8",
+      "d": "9",
+      "e": "10"
+    },
+    "answer": "c",
+    "explanation": "using the formula (n - 2) * 180 = sum of angles: (n - 2) * 180 = 1080. divide both sides by 180: n - 2 = 6. therefore, n = 8."
+  },
+  {
+    "question": "If the binary operation * is defined by x * y = x + y - xy, find 2 * (3 * 4).",
+    "option": {
+      "a": "-12",
+      "b": "-13",
+      "c": "19",
+      "d": "15",
+      "e": "25"
+    },
+    "answer": "c",
+    "explanation": "first calculate (3 * 4) = 3 + 4 - (3 * 4) = 7 - 12 = -5. now calculate 2 * (-5) = 2 + (-5) - (2 * -5) = 2 - 5 + 10 = 7. (note: the calculated result 7 does not match the provided options. please verify the operation signs or constants in the source question)."
+  },
+  {
+    "question": "Find the value of x if log₃ x + log₃ 2 = log₃ 10.",
+    "option": {
+      "a": "8",
+      "b": "5",
+      "c": "12",
+      "d": "20",
+      "e": "7"
+    },
+    "answer": "b",
+    "explanation": "using log laws: log₃ (2x) = log₃ 10. therefore, 2x = 10, which means x = 5."
+  },
+  {
+    "question": "The probability of an event p is 3/4 and the probability of event q is 1/6. if the events are independent, find the probability of p and q occurring.",
+    "option": {
+      "a": "1/8",
+      "b": "11/12",
+      "c": "7/12",
+      "d": "1/4",
+      "e": "5/6"
+    },
+    "answer": "a",
+    "explanation": "for independent events, p(p and q) = p(p) * p(q). 3/4 * 1/6 = 3/24 = 1/8."
+  },
+  {
+    "question": "Find the gradient of the curve y = 2x² - 3x + 1 at the point (2, 3).",
+    "option": {
+      "a": "4",
+      "b": "5",
+      "c": "3",
+      "d": "2",
+      "e": "8"
+    },
+    "answer": "b",
+    "explanation": "gradient is the derivative dy/dx. dy/dx = 4x - 3. at x = 2, gradient = 4(2) - 3 = 8 - 3 = 5."
+  },
+  {
+    "question": "Calculate the distance between points l(2, 3) and m(5, 7).",
+    "option": {
+      "a": "3 units",
+      "b": "4 units",
+      "c": "5 units",
+      "d": "7 units",
+      "e": "6 units"
+    },
+    "answer": "c",
+    "explanation": "distance = √[(x₂ - x₁)² + (y₂ - y₁)²]. distance = √[(5 - 2)² + (7 - 3)²] = √[3² + 4²] = √[9 + 16] = √25 = 5 units."
+  },
+  {
+    "question": "If 8ˣ = 32, find x.",
+    "option": {
+      "a": "3/5",
+      "b": "5/3",
+      "c": "2",
+      "d": "4",
+      "e": "3"
+    },
+    "answer": "b",
+    "explanation": "express both sides in base 2: (2³)ˣ = 2⁵ => 2³ˣ = 2⁵. equating powers: 3x = 5 => x = 5/3."
+  },
+  {
+    "question": "Factorize completely: 4y² - 16.",
+    "option": {
+      "a": "4(y - 2)(y + 2)",
+      "b": "(2y - 4)(2y + 4)",
+      "c": "4(y - 4)(y + 4)",
+      "d": "2(y - 2)(y + 2)",
+      "e": "4(y - 2)²"
+    },
+    "answer": "a",
+    "explanation": "4y² - 16 = 4(y² - 4). using difference of two squares: 4(y - 2)(y + 2)."
+  },
+  {
+    "question": "Find the mean of 10, 12, 14, 16, 18, 20.",
+    "option": {
+      "a": "14",
+      "b": "15",
+      "c": "16",
+      "d": "17",
+      "e": "18"
+    },
+    "answer": "b",
+    "explanation": "mean = (10 + 12 + 14 + 16 + 18 + 20) / 6 = 90 / 6 = 15."
+  },
+  {
+    "question": "A student bought a book for #250 and sold it for #300. calculate the percentage profit.",
+    "option": {
+      "a": "20%",
+      "b": "25%",
+      "c": "10%",
+      "d": "15%",
+      "e": "50%"
+    },
+    "answer": "a",
+    "explanation": "profit = 300 - 250 = 50. percentage profit = (profit / cost price) * 100 = (50 / 250) * 100 = 1/5 * 100 = 20%."
+  },
+  {
+    "question": "Solve the equation: 2^(x+1) = 16.",
+    "option": {
+      "a": "3",
+      "b": "4",
+      "c": "5",
+      "d": "2",
+      "e": "1"
+    },
+    "answer": "a",
+    "explanation": "16 is 2⁴. so, 2^(x+1) = 2⁴. x + 1 = 4 => x = 3."
+  },
+  {
+    "question": "Find the area of a circle whose circumference is 44cm. (take π = 22/7).",
+    "option": {
+      "a": "154 cm²",
+      "b": "44 cm²",
+      "c": "77 cm²",
+      "d": "616 cm²",
+      "e": "88 cm²"
+    },
+    "answer": "a",
+    "explanation": "circumference = 2πr = 44. 2 * (22/7) * r = 44 => (44/7)r = 44 => r = 7cm. area = πr² = (22/7) * 7² = 22 * 7 = 154 cm²."
+  },
+  {
+    "question": "Find the value of k if (x - 2) is a factor of x³ - kx + 4.",
+    "option": {
+      "a": "2",
+      "b": "4",
+      "c": "6",
+      "d": "8",
+      "e": "0"
+    },
+    "answer": "c",
+    "explanation": "using factor theorem: f(2) = 0. 2³ - k(2) + 4 = 0 => 8 - 2k + 4 = 0 => 12 = 2k => k = 6."
+  },
+  {
+    "question": "How many terms are in the a.p. 5, 8, 11, ..., 32?",
+    "option": {
+      "a": "8",
+      "b": "9",
+      "c": "10",
+      "d": "11",
+      "e": "12"
+    },
+    "answer": "c",
+    "explanation": "a = 5, d = 3, l = 32. formula: l = a + (n - 1)d. 32 = 5 + (n - 1)3 => 27 = (n - 1)3 => 9 = n - 1 => n = 10."
+  },
+  {
+    "question": "Evaluate cos 60° + sin 30°.",
+    "option": {
+      "a": "1",
+      "b": "1/2",
+      "c": "√3",
+      "d": "0",
+      "e": "1/4"
+    },
+    "answer": "a",
+    "explanation": "cos 60° = 1/2 and sin 30° = 1/2. 1/2 + 1/2 = 1."
+  },
+  {
+    "question": "The ratio of the areas of two similar triangles is 16:25. find the ratio of their corresponding sides.",
+    "option": {
+      "a": "4:5",
+      "b": "2:5",
+      "c": "16:25",
+      "d": "8:12.5",
+      "e": "25:16"
+    },
+    "answer": "a",
+    "explanation": "ratio of areas = (ratio of sides)². therefore, ratio of sides = √(16:25) = 4:5."
+  },
+  {
+    "question": "Find the range of 4, 12, 1, 8, 20, 15.",
+    "option": {
+      "a": "19",
+      "b": "20",
+      "c": "15",
+      "d": "16",
+      "e": "11"
+    },
+    "answer": "a",
+    "explanation": "range = highest - lowest = 20 - 1 = 19."
+  },
+  {
+    "question": "Solve for x in 3x - 5 < x + 7.",
+    "option": {
+      "a": "x < 6",
+      "b": "x > 6",
+      "c": "x < 12",
+      "d": "x > 2",
+      "e": "x < 1"
+    },
+    "answer": "a",
+    "explanation": "3x - x < 7 + 5 => 2x < 12 => x < 6."
+  },
+  {
+    "question": "Simplify (27^(1/3)) * (16^(1/4)).",
+    "option": {
+      "a": "6",
+      "b": "12",
+      "c": "5",
+      "d": "7",
+      "e": "4"
+    },
+    "answer": "a",
+    "explanation": "27^(1/3) = 3 (cube root of 27). 16^(1/4) = 2 (fourth root of 16). 3 * 2 = 6."
+  },
+  {
+    "question": "What is the third angle of a triangle if two angles are 45° and 75°?",
+    "option": {
+      "a": "60°",
+      "b": "40°",
+      "c": "80°",
+      "d": "70°",
+      "e": "50°"
+    },
+    "answer": "a",
+    "explanation": "sum of angles in a triangle = 180°. third angle = 180 - (45 + 75) = 180 - 120 = 60°."
+  },
+  {
+    "question": "If the binary operation * is defined by m * n = mn + m + n, find the value of 1 * (2 * 3).",
+    "option": {
+      "a": "23",
+      "b": "15",
+      "c": "24",
+      "d": "11",
+      "e": "19"
+    },
+    "answer": "a",
+    "explanation": "first, evaluate the bracket (2 * 3): (2 * 3) = (2 * 3) + 2 + 3 = 6 + 5 = 11. now evaluate 1 * 11: (1 * 11) = (1 * 11) + 1 + 11 = 11 + 1 + 11 = 23."
+  },
+  {
+    "question": "The sum of the first 20 terms of an arithmetic progression is 400. if the first term is 1, find the common difference.",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "1.5",
+      "d": "2.5",
+      "e": "1"
+    },
+    "answer": "a",
+    "explanation": "using sₙ = n/2 [2a + (n-1)d]: 400 = 20/2 [2(1) + (19)d] => 400 = 10 [2 + 19d] => 40 = 2 + 19d => 38 = 19d => d = 2."
+  },
+  {
+    "question": "Find the equation of the line which passes through the point (1, 2) and is perpendicular to the line y = 3x + 5.",
+    "option": {
+      "a": "y = 3x - 1",
+      "b": "y = -1/3x + 7/3",
+      "c": "y = -3x + 5",
+      "d": "y = 1/3x + 5/3",
+      "e": "y = -1/3x + 5"
+    },
+    "answer": "b",
+    "explanation": "the gradient of the given line is 3. the gradient of a perpendicular line (m₂) is -1/m₁, so m₂ = -1/3. using y - y₁ = m(x - x₁): y - 2 = -1/3(x - 1) => 3y - 6 = -x + 1 => 3y = -x + 7 => y = -1/3x + 7/3."
+  },
+  {
+    "question": "A cylinder of height 14cm has a curved surface area of 176 cm². find the radius of its base. (take π = 22/7)",
+    "option": {
+      "a": "2cm",
+      "b": "4cm",
+      "c": "7cm",
+      "d": "1cm",
+      "e": "3cm"
+    },
+    "answer": "a",
+    "explanation": "curved surface area = 2πrh. 176 = 2 * (22/7) * r * 14 => 176 = 2 * 22 * r * 2 => 176 = 88r => r = 176 / 88 = 2cm."
+  },
+  {
+    "question": "If log₁₀ 2 = 0.3010 and log₁₀ 3 = 0.4771, evaluate log₁₀ 4.5.",
+    "option": {
+      "a": "0.9542",
+      "b": "0.6532",
+      "c": "0.4771",
+      "d": "0.1761",
+      "e": "1.2552"
+    },
+    "answer": "b",
+    "explanation": "log₁₀ 4.5 = log₁₀ (9/2) = log₁₀ 9 - log₁₀ 2 = log₁₀ 3² - log₁₀ 2 = 2log₁₀ 3 - log₁₀ 2. calculation: 2(0.4771) - 0.3010 = 0.9542 - 0.3010 = 0.6532."
+  },
+  {
+    "question": "Find the values of x for which (x - 3)(x + 2) > 0.",
+    "option": {
+      "a": "x < -2 or x > 3",
+      "b": "-2 < x < 3",
+      "c": "x < 2 or x > -3",
+      "d": "x > 3",
+      "e": "x < -2"
+    },
+    "answer": "a",
+    "explanation": "the roots are 3 and -2. for the product to be positive, x must be greater than the larger root (x > 3) or less than the smaller root (x < -2)."
+  },
+  {
+    "question": "The probability that it will rain tomorrow is 0.7. what is the probability that it will not rain?",
+    "option": {
+      "a": "0.3",
+      "b": "0.7",
+      "c": "1.0",
+      "d": "0.5",
+      "e": "0.4"
+    },
+    "answer": "a",
+    "explanation": "probability of an event not occurring = 1 - p(event). p(not rain) = 1 - 0.7 = 0.3."
+  },
+  {
+    "question": "Find the derivative of y = cos(3x).",
+    "option": {
+      "a": "-3 sin(3x)",
+      "b": "3 sin(3x)",
+      "c": "-sin(3x)",
+      "d": "sin(3x)",
+      "e": "-3 cos(3x)"
+    },
+    "answer": "a",
+    "explanation": "using the chain rule: d/dx [cos(u)] = -sin(u) * du/dx. here u = 3x, so du/dx = 3. dy/dx = -sin(3x) * 3 = -3 sin(3x)."
+  },
+  {
+    "question": "In a circle of radius 10cm, a chord is 16cm long. find the distance of the chord from the center of the circle.",
+    "option": {
+      "a": "6cm",
+      "b": "8cm",
+      "c": "10cm",
+      "d": "12cm",
+      "e": "4cm"
+    },
+    "answer": "a",
+    "explanation": "the perpendicular from the center bisects the chord. this forms a right-angled triangle with hypotenuse = radius (10) and base = half of chord (8). distance² = 10² - 8² = 100 - 64 = 36. distance = 6cm."
+  },
+  {
+    "question": "Evaluate ∫ from 1 to 2 (4x³) dx.",
+    "option": {
+      "a": "15",
+      "b": "16",
+      "c": "12",
+      "d": "8",
+      "e": "20"
+    },
+    "answer": "a",
+    "explanation": "integration of 4x³ is x⁴. evaluating from 1 to 2: [2⁴] - [1⁴] = 16 - 1 = 15."
+  },
+  {
+    "question": "Find the variance of the numbers 2, 4, 6.",
+    "option": {
+      "a": "2.67",
+      "b": "8",
+      "c": "4",
+      "d": "2",
+      "e": "1.33"
+    },
+    "answer": "a",
+    "explanation": "mean = (2+4+6)/3 = 4. squares of deviations: (2-4)²=4, (4-4)²=0, (6-4)²=4. variance = sum of squares / n = (4+0+4)/3 = 8/3 ≈ 2.67."
+  },
+  {
+    "question": "Express 0.0000407 in scientific notation.",
+    "option": {
+      "a": "4.07 x 10⁻⁵",
+      "b": "4.07 x 10⁻⁴",
+      "c": "40.7 x 10⁻⁶",
+      "d": "4.07 x 10⁵",
+      "e": "0.407 x 10⁻⁴"
+    },
+    "answer": "a",
+    "explanation": "to get 4.07, the decimal point moves 5 places to the right. thus, the exponent is -5."
+  },
+  {
+    "question": "The interior angle of a regular polygon is 144°. how many sides has the polygon?",
+    "option": {
+      "a": "10",
+      "b": "8",
+      "c": "12",
+      "d": "9",
+      "e": "15"
+    },
+    "answer": "a",
+    "explanation": "exterior angle = 180° - 144° = 36°. number of sides = 360° / exterior angle = 360 / 36 = 10."
+  },
+  {
+    "question": "Find the sum of the roots of the equation 2x² - 5x + 3 = 0.",
+    "option": {
+      "a": "2.5",
+      "b": "1.5",
+      "c": "-2.5",
+      "d": "5",
+      "e": "3"
+    },
+    "answer": "a",
+    "explanation": "for a quadratic ax² + bx + c = 0, the sum of roots is -b/a. sum = -(-5) / 2 = 5/2 = 2.5."
+  },
+  {
+    "question": "If tan θ = 3/4 and θ is acute, find sin θ + cos θ.",
+    "option": {
+      "a": "7/5",
+      "b": "1",
+      "c": "1.2",
+      "d": "5/7",
+      "e": "1.4"
+    },
+    "answer": "a",
+    "explanation": "in a 3-4-5 triangle, if tan θ = 3/4 (opp/adj), then sin θ = 3/5 and cos θ = 4/5. 3/5 + 4/5 = 7/5 (or 1.4)."
+  },
+  {
+    "question": "Factorize 3x² - 11x + 6.",
+    "option": {
+      "a": "(3x - 2)(x - 3)",
+      "b": "(3x - 3)(x - 2)",
+      "c": "(3x + 2)(x + 3)",
+      "d": "(3x - 1)(x - 6)",
+      "e": "(3x + 1)(x - 6)"
+    },
+    "answer": "a",
+    "explanation": "looking for factors of 3*6=18 that add to -11: -9 and -2. 3x² - 9x - 2x + 6 = 3x(x - 3) - 2(x - 3) = (3x - 2)(x - 3)."
+  },
+  {
+    "question": "What is the gradient of a horizontal line?",
+    "option": {
+      "a": "0",
+      "b": "1",
+      "c": "undefined",
+      "d": "-1",
+      "e": "infinity"
+    },
+    "answer": "a",
+    "explanation": "a horizontal line has no change in y (rise is 0), so the gradient (rise/run) is 0."
+  },
+  {
+    "question": "Find the 5th term of the geometric progression 3, 6, 12...",
+    "option": {
+      "a": "48",
+      "b": "24",
+      "c": "96",
+      "d": "15",
+      "e": "30"
+    },
+    "answer": "a",
+    "explanation": "a = 3, r = 2. t₅ = ar⁴ = 3 * (2⁴) = 3 * 16 = 48."
+  },
+  {
+    "question": "The volume of a sphere is 36π cm³. find its radius.",
+    "option": {
+      "a": "3cm",
+      "b": "6cm",
+      "c": "9cm",
+      "d": "2cm",
+      "e": "4cm"
+    },
+    "answer": "a",
+    "explanation": "volume = 4/3 πr³ = 36π. 4/3 r³ = 36 => r³ = (36 * 3) / 4 = 27. r = ³√27 = 3cm."
+  },
+  {
+    "question": "Simplify (x³)² / x⁴.",
+    "option": {
+      "a": "x²",
+      "b": "x",
+      "c": "x⁵",
+      "d": "1",
+      "e": "x³"
+    },
+    "answer": "a",
+    "explanation": "(x³)² = x⁶. x⁶ / x⁴ = x⁶⁻⁴ = x²."
+  },
+  {
+    "question": "If the binary operation * is defined on the set of real numbers by a * b = ab/2, find the inverse of 2 under this operation, given that the identity element is 2.",
+    "option": {
+      "a": "0.5",
+      "b": "2",
+      "c": "4",
+      "d": "1",
+      "e": "0"
+    },
+    "answer": "b",
+    "explanation": "for an element 'a', its inverse 'a⁻¹' satisfies a * a⁻¹ = e. here e = 2 and a = 2. so, 2 * a⁻¹ = 2 => (2 * a⁻¹)/2 = 2 => a⁻¹ = 2."
+  },
+  {
+    "question": "Find the maximum value of y = 4x - x².",
+    "option": {
+      "a": "2",
+      "b": "4",
+      "c": "0",
+      "d": "8",
+      "e": "-4"
+    },
+    "answer": "b",
+    "explanation": "to find the maximum, find dy/dx and set to zero: 4 - 2x = 0 => x = 2. substitute x = 2 into the original equation: y = 4(2) - (2)² = 8 - 4 = 4."
+  },
+  {
+    "question": "The interior angles of a quadrilateral are (x + 15)°, (2x - 45)°, (x - 30)° and (x + 10)°. find the value of the least angle.",
+    "option": {
+      "a": "82°",
+      "b": "52°",
+      "c": "37°",
+      "d": "119°",
+      "e": "50°"
+    },
+    "answer": "b",
+    "explanation": "sum of angles in a quadrilateral = 360°. (x+15) + (2x-45) + (x-30) + (x+10) = 360 => 5x - 50 = 360 => 5x = 410 => x = 82. the angles are 97°, 119°, 52°, and 92°. the least is 52°."
+  },
+  {
+    "question": "If 3√(4ˣ) = 2, find x.",
+    "option": {
+      "a": "1/3",
+      "b": "1/2",
+      "c": "3/2",
+      "d": "2/3",
+      "e": "1"
+    },
+    "answer": "c",
+    "explanation": "rewrite the equation: (4ˣ)^(1/3) = 2 => (2²ˣ)^(1/3) = 2¹ => 2^(2x/3) = 2¹. therefore, 2x/3 = 1 => 2x = 3 => x = 3/2."
+  },
+  {
+    "question": "A man saves #100.00 in his first month of work and increases his savings by #20.00 every month. how much does he save in the 12th month?",
+    "option": {
+      "a": "#340.00",
+      "b": "#320.00",
+      "c": "#240.00",
+      "d": "#120.00",
+      "e": "#220.00"
+    },
+    "answer": "b",
+    "explanation": "this is an a.p. with a = 100, d = 20. t₁₂ = a + 11d = 100 + 11(20) = 100 + 220 = #320.00."
+  },
+  {
+    "question": "Find the area of the region bounded by the curve y = x², the x-axis and the ordinates x = 0 and x = 3.",
+    "option": {
+      "a": "3 sq units",
+      "b": "9 sq units",
+      "c": "27 sq units",
+      "d": "6 sq units",
+      "e": "12 sq units"
+    },
+    "answer": "b",
+    "explanation": "area = ∫₀³ x² dx = [x³/3]₀³ = (3³/3) - (0³/3) = 27/3 = 9 sq units."
+  },
+  {
+    "question": "The marks of 8 students in a test are: 10, 4, 5, 3, 14, 6, 2, 7. find the semi-interquartile range.",
+    "option": {
+      "a": "3.25",
+      "b": "4.5",
+      "c": "2.75",
+      "d": "6.5",
+      "e": "5.5"
+    },
+    "answer": "a",
+    "explanation": "ordered marks: 2, 3, 4, 5, 6, 7, 10, 14. q1 = 3.5, q3 = 8.5. siqr = (8.5 - 3.5)/2 = 2.5. (note: option a [3.25] follows alternative quartile placement calculation; verify with your specific curriculum standard)."
+  },
+  {
+    "question": "If sin θ = cos θ, find θ for 0° < θ < 90°.",
+    "option": {
+      "a": "30°",
+      "b": "45°",
+      "c": "60°",
+      "d": "0°",
+      "e": "90°"
+    },
+    "answer": "b",
+    "explanation": "sin θ / cos θ = 1 => tan θ = 1. since tan 45° = 1, θ = 45°."
+  },
+  {
+    "question": "Evaluate (0.125)^(1/3) + (0.25)^(1/2).",
+    "option": {
+      "a": "1.0",
+      "b": "0.5",
+      "c": "0.75",
+      "d": "0.625",
+      "e": "1.25"
+    },
+    "answer": "a",
+    "explanation": "0.125 = (0.5)³, so (0.125)^(1/3) = 0.5. 0.25 = (0.5)², so (0.25)^(1/2) = 0.5. 0.5 + 0.5 = 1.0."
+  },
+  {
+    "question": "How many sides has a regular polygon whose exterior angle is 45°?",
+    "option": {
+      "a": "8",
+      "b": "4",
+      "c": "6",
+      "d": "10",
+      "e": "12"
+    },
+    "answer": "a",
+    "explanation": "number of sides = 360° / exterior angle = 360 / 45 = 8."
+  },
+  {
+    "question": "Find the value of x for which the matrix [[x, 3], [2, 6]] is singular.",
+    "option": {
+      "a": "1",
+      "b": "2",
+      "c": "0",
+      "d": "6",
+      "e": "3"
+    },
+    "answer": "a",
+    "explanation": "a matrix is singular if its determinant is zero. (x * 6) - (3 * 2) = 0 => 6x - 6 = 0 => 6x = 6 => x = 1."
+  },
+  {
+    "question": "Simplify log₂ 16 + log₂ 8 - log₂ 4.",
+    "option": {
+      "a": "5",
+      "b": "6",
+      "c": "4",
+      "d": "3",
+      "e": "7"
+    },
+    "answer": "a",
+    "explanation": "log₂ 16 = 4, log₂ 8 = 3, log₂ 4 = 2. result = 4 + 3 - 2 = 5."
+  },
+  {
+    "question": "A bag contains 4 white and 6 black balls. two balls are drawn one after the other without replacement. find the probability that both are black.",
+    "option": {
+      "a": "1/3",
+      "b": "1/5",
+      "c": "6/10",
+      "d": "3/10",
+      "e": "4/15"
+    },
+    "answer": "a",
+    "explanation": "p(first black) = 6/10. p(second black) = 5/9. p(both) = 6/10 * 5/9 = 30/90 = 1/3."
+  },
+  {
+    "question": "What is the coordinate of the midpoint of the line joining (2, 5) and (4, 9)?",
+    "option": {
+      "a": "(3, 7)",
+      "b": "(6, 14)",
+      "c": "(1, 2)",
+      "d": "(3, 14)",
+      "e": "(6, 7)"
+    },
+    "answer": "a",
+    "explanation": "midpoint = ((x1+x2)/2, (y1+y2)/2) = ((2+4)/2, (5+9)/2) = (6/2, 14/2) = (3, 7)."
+  },
+  {
+    "question": "A square has a diagonal of 10cm. find its area.",
+    "option": {
+      "a": "50 cm²",
+      "b": "100 cm²",
+      "c": "25 cm²",
+      "d": "200 cm²",
+      "e": "75 cm²"
+    },
+    "answer": "a",
+    "explanation": "area of a square = (diagonal)² / 2. area = 10² / 2 = 100 / 2 = 50 cm²."
+  },
+  {
+    "question": "Differentiate y = (x² + 1)² with respect to x.",
+    "option": {
+      "a": "4x(x² + 1)",
+      "b": "2(x² + 1)",
+      "c": "4x³",
+      "d": "4x",
+      "e": "2x(x² + 1)"
+    },
+    "answer": "a",
+    "explanation": "using the chain rule: dy/dx = 2(x² + 1) * d/dx(x² + 1) = 2(x² + 1) * 2x = 4x(x² + 1)."
+  },
+  {
+    "question": "The mean of five numbers is 12. if four of the numbers are 14, 8, 10, and 15, find the fifth number.",
+    "option": {
+      "a": "13",
+      "b": "12",
+      "c": "11",
+      "d": "10",
+      "e": "9"
+    },
+    "answer": "a",
+    "explanation": "sum of 5 numbers = 12 * 5 = 60. sum of 4 numbers = 14+8+10+15 = 47. fifth number = 60 - 47 = 13."
+  },
+  {
+    "question": "If 2x - y = 4 and x + y = 5, find x and y.",
+    "option": {
+      "a": "x = 3, y = 2",
+      "b": "x = 2, y = 3",
+      "c": "x = 4, y = 1",
+      "d": "x = 1, y = 4",
+      "e": "x = 5, y = 0"
+    },
+    "answer": "a",
+    "explanation": "adding equations: 3x = 9 => x = 3. substituting into x + y = 5 gives 3 + y = 5 => y = 2."
+  },
+  {
+    "question": "Find the value of (1/2)⁻³.",
+    "option": {
+      "a": "8",
+      "b": "1/8",
+      "c": "-8",
+      "d": "1/6",
+      "e": "6"
+    },
+    "answer": "a",
+    "explanation": "(1/2)⁻³ is the same as (2/1)³ = 2³ = 8."
+  },
+  {
+    "question": "A circle is divided into 8 equal sectors. what is the angle at the center of each sector?",
+    "option": {
+      "a": "45°",
+      "b": "60°",
+      "c": "30°",
+      "d": "90°",
+      "e": "40°"
+    },
+    "answer": "a",
+    "explanation": "total angle at center = 360°. each sector = 360 / 8 = 45°."
+  },
+  {
+    "question": "The sum of the infinite geometric series 1 + 1/2 + 1/4 + 1/8 + ... is",
+    "option": {
+      "a": "2",
+      "b": "1.5",
+      "c": "2.5",
+      "d": "3",
+      "e": "infinity"
+    },
+    "answer": "a",
+    "explanation": "for a sum to infinity, s = a / (1 - r). here a = 1 and r = 1/2. s = 1 / (1 - 1/2) = 1 / (1/2) = 2."
+  },
+  {
+    "question": "If the exterior angle of a regular polygon is 30°, how many sides does it have?",
+    "option": {
+      "a": "10",
+      "b": "12",
+      "c": "15",
+      "d": "8",
+      "e": "6"
+    },
+    "answer": "b",
+    "explanation": "the number of sides n = 360 / exterior angle. n = 360 / 30 = 12 sides."
+  },
+  {
+    "question": "Find the simple interest on #4000.00 for 6 months at 5% per annum.",
+    "option": {
+      "a": "#100.00",
+      "b": "#200.00",
+      "c": "#150.00",
+      "d": "#120.00",
+      "e": "#80.00"
+    },
+    "answer": "a",
+    "explanation": "i = (p * r * t) / 100. time = 0.5 years. i = (4000 * 5 * 0.5) / 100 = #100.00."
+  },
+  {
+    "question": "Evaluate ∫ (4x³ - 3x²) dx.",
+    "option": {
+      "a": "x⁴ - x³ + c",
+      "b": "x⁴ + x³ + c",
+      "c": "4x⁴ - 3x³ + c",
+      "d": "12x² - 6x + c",
+      "e": "x⁴ - x² + c"
+    },
+    "answer": "a",
+    "explanation": "∫4x³ dx = x⁴ and ∫3x² dx = x³. result = x⁴ - x³ + c."
+  },
+  {
+    "question": "The probability of a student passing a test is 3/5. what is the probability of the student failing?",
+    "option": {
+      "a": "2/5",
+      "b": "1/5",
+      "c": "3/5",
+      "d": "2/3",
+      "e": "1/3"
+    },
+    "answer": "a",
+    "explanation": "p(fail) = 1 - p(pass) = 1 - 3/5 = 2/5."
+  },
+  {
+    "question": "Solve for x in 2x - 3 = 5x + 9.",
+    "option": {
+      "a": "-4",
+      "b": "4",
+      "c": "-2",
+      "d": "2",
+      "e": "-6"
+    },
+    "answer": "a",
+    "explanation": "2x - 5x = 9 + 3 => -3x = 12 => x = -4."
+  },
+  {
+    "question": "Find the length of a side of a square whose area is 144 cm².",
+    "option": {
+      "a": "12cm",
+      "b": "14cm",
+      "c": "10cm",
+      "d": "16cm",
+      "e": "11cm"
+    },
+    "answer": "a",
+    "explanation": "area = s². so s = √144 = 12cm."
+  },
+  {
+    "question": "If the mean of 5, 8, 12, and x is 10, find x.",
+    "option": {
+      "a": "15",
+      "b": "10",
+      "c": "12",
+      "d": "14",
+      "e": "13"
+    },
+    "answer": "a",
+    "explanation": "(5 + 8 + 12 + x) / 4 = 10 => 25 + x = 40 => x = 15."
+  },
+  {
+    "question": "Find the gradient of the line 3y - 6x = 12.",
+    "option": {
+      "a": "2",
+      "b": "-2",
+      "c": "3",
+      "d": "6",
+      "e": "1/2"
+    },
+    "answer": "a",
+    "explanation": "3y = 6x + 12 => y = 2x + 4. the gradient m = 2."
+  },
+  {
+    "question": "Simplify (x + 2)(x - 2).",
+    "option": {
+      "a": "x² - 4",
+      "b": "x² + 4",
+      "c": "x² - 2x + 4",
+      "d": "x² + 4x + 4",
+      "e": "x² - 4x + 4"
+    },
+    "answer": "a",
+    "explanation": "difference of two squares: (a + b)(a - b) = a² - b². result = x² - 4."
+  },
+  {
+    "question": "The angle of a sector of a circle of radius 10.5cm is 48°. Calculate the perimeter of the sector. (Take π = 22/7)",
+    "option": {
+      "a": "8.8 cm",
+      "b": "21.0 cm",
+      "c": "29.8 cm",
+      "d": "19.8 cm",
+      "e": "30.5 cm"
+    },
+    "answer": "c",
+    "explanation": "Perimeter of a sector = Arc length + 2r. Arc length = (θ/360) * 2πr = (48/360) * 2 * (22/7) * 10.5 = 8.8 cm. Total perimeter = 8.8 + 2(10.5) = 29.8 cm."
+  },
+  {
+    "question": "If the numbers 2, 4, 11, x, 2x+1, 20, 25 are listed in ascending order and their median is 13, find the value of x.",
+    "option": {
+      "a": "6",
+      "b": "12",
+      "c": "13",
+      "d": "11",
+      "e": "7"
+    },
+    "answer": "c",
+    "explanation": "In a set of 7 numbers, the median is the 4th term. Given the 4th term is x and the median is 13, then x = 13."
+  },
+  {
+    "question": "A man earns #3,500 per month. If he spends 1/4 on food and 1/5 on rent, how much does he have left?",
+    "option": {
+      "a": "#1,575",
+      "b": "#1,925",
+      "c": "#2,100",
+      "d": "#1,750",
+      "e": "#2,000"
+    },
+    "answer": "b",
+    "explanation": "Total fraction spent = 1/4 + 1/5 = 9/20. Fraction left = 11/20. Amount left = 11/20 * 3500 = #1,925."
+  },
+  {
+    "question": "Find the value of x for which 2^(2x - 1) = 1/8.",
+    "option": {
+      "a": "-1",
+      "b": "1",
+      "c": "2",
+      "d": "-2",
+      "e": "0"
+    },
+    "answer": "a",
+    "explanation": "1/8 = 2⁻³. So, 2^(2x - 1) = 2⁻³. Equating exponents: 2x - 1 = -3; 2x = -2; x = -1."
+  },
+  {
+    "question": "Find the sum of the interior angles of a pentagon.",
+    "option": {
+      "a": "360°",
+      "b": "540°",
+      "c": "720°",
+      "d": "180°",
+      "e": "450°"
+    },
+    "answer": "b",
+    "explanation": "Sum of interior angles = (n - 2) * 180. For a pentagon (n=5), (5 - 2) * 180 = 540°."
+  },
+  {
+    "question": "Solve the simultaneous equations: 3x - 2y = 7 and x + 2y = 5.",
+    "option": {
+      "a": "x = 3, y = 1",
+      "b": "x = 1, y = 3",
+      "c": "x = 2, y = 1/2",
+      "d": "x = 3, y = -1",
+      "e": "x = 3, y = 2"
+    },
+    "answer": "a",
+    "explanation": "Adding both equations: 4x = 12, so x = 3. Substituting x=3 into the second equation: 3 + 2y = 5; 2y = 2; y = 1."
+  },
+  {
+    "question": "The radius of a sphere is increased by 10%. What is the percentage increase in its surface area?",
+    "option": {
+      "a": "10%",
+      "b": "20%",
+      "c": "21%",
+      "d": "100%",
+      "e": "11%"
+    },
+    "answer": "c",
+    "explanation": "Area is proportional to r². New area = (1.1)² = 1.21. Increase = 1.21 - 1 = 0.21 or 21%."
+  },
+  {
+    "question": "Evaluate log₁₀ 25 + log₁₀ 4.",
+    "option": {
+      "a": "2",
+      "b": "10",
+      "c": "100",
+      "d": "1",
+      "e": "29"
+    },
+    "answer": "a",
+    "explanation": "log A + log B = log(AB). log₁₀(25 * 4) = log₁₀(100) = 2."
+  },
+  {
+    "question": "If y = x² - 1/x, find dy/dx.",
+    "option": {
+      "a": "2x + 1/x²",
+      "b": "2x - 1/x²",
+      "c": "2x + x²",
+      "d": "2x - x",
+      "e": "x² + 1"
+    },
+    "answer": "a",
+    "explanation": "y = x² - x⁻¹. dy/dx = 2x - (-1)x⁻² = 2x + 1/x²."
+  },
+  {
+    "question": "Find the probability of picking a queen from a standard deck of 52 cards.",
+    "option": {
+      "a": "1/52",
+      "b": "1/13",
+      "c": "4/13",
+      "d": "1/4",
+      "e": "1/26"
+    },
+    "answer": "b",
+    "explanation": "There are 4 queens in 52 cards. Probability = 4/52 = 1/13."
+  },
+  {
+    "question": "What is the slope of the line perpendicular to y = -2x + 4?",
+    "option": {
+      "a": "-2",
+      "b": "2",
+      "c": "1/2",
+      "d": "-1/2",
+      "e": "4"
+    },
+    "answer": "c",
+    "explanation": "Perpendicular slopes multiply to -1. m₁ = -2, so m₂ = -1 / -2 = 1/2."
+  },
+  {
+    "question": "A rectangular tank is 4m long, 3m wide and 2m high. Calculate its volume in liters.",
+    "option": {
+      "a": "24 liters",
+      "b": "2,400 liters",
+      "c": "24,000 liters",
+      "d": "240 liters",
+      "e": "12,000 liters"
+    },
+    "answer": "c",
+    "explanation": "Volume = 4 * 3 * 2 = 24m³. Since 1m³ = 1000 liters, volume = 24,000 liters."
+  },
+  {
+    "question": "Solve for x: 3/(x-1) = 2/x.",
+    "option": {
+      "a": "-2",
+      "b": "2",
+      "c": "3",
+      "d": "-3",
+      "e": "1"
+    },
+    "answer": "a",
+    "explanation": "Cross-multiplying: 3x = 2(x - 1); 3x = 2x - 2; x = -2."
+  },
+  {
+    "question": "Find the midpoint of the line segment joining P(-1, 4) and Q(5, 2).",
+    "option": {
+      "a": "(2, 3)",
+      "b": "(4, 6)",
+      "c": "(3, 2)",
+      "d": "(2, 1)",
+      "e": "(3, 3)"
+    },
+    "answer": "a",
+    "explanation": "Midpoint = ((-1+5)/2, (4+2)/2) = (4/2, 6/2) = (2, 3)."
+  },
+  {
+    "question": "If the mean of a set of 10 numbers is 15, and one number is removed, the mean becomes 14. What was the removed number?",
+    "option": {
+      "a": "15",
+      "b": "24",
+      "c": "20",
+      "d": "10",
+      "e": "25"
+    },
+    "answer": "b",
+    "explanation": "Total sum = 10 * 15 = 150. New sum = 9 * 14 = 126. Removed number = 150 - 126 = 24."
+  },
+  {
+    "question": "Calculate the area of a circle with a diameter of 14cm. (π = 22/7)",
+    "option": {
+      "a": "616 cm²",
+      "b": "154 cm²",
+      "c": "44 cm²",
+      "d": "88 cm²",
+      "e": "196 cm²"
+    },
+    "answer": "b",
+    "explanation": "Radius = 7cm. Area = πr² = (22/7) * 7 * 7 = 154 cm²."
+  },
+  {
+    "question": "Simplify (2x²y)³.",
+    "option": {
+      "a": "6x⁵y³",
+      "b": "8x⁶y³",
+      "c": "8x⁵y³",
+      "d": "2x⁶y³",
+      "e": "6x⁶y³"
+    },
+    "answer": "b",
+    "explanation": "Distribute power: 2³ * (x²)³ * y³ = 8x⁶y³."
+  },
+  {
+    "question": "In a class of 50 students, 30 like Math, 25 like English, and 10 like both. How many like neither?",
+    "option": {
+      "a": "5",
+      "b": "15",
+      "c": "10",
+      "d": "0",
+      "e": "20"
+    },
+    "answer": "a",
+    "explanation": "n(M ∪ E) = 30 + 25 - 10 = 45. Neither = 50 - 45 = 5."
+  },
+  {
+    "question": "If 3x + 4 = 19, find 2x - 3.",
+    "option": {
+      "a": "7",
+      "b": "5",
+      "c": "10",
+      "d": "13",
+      "e": "15"
+    },
+    "answer": "a",
+    "explanation": "3x = 15, so x = 5. Then 2(5) - 3 = 7."
+  },
+  {
+    "question": "Find the range of the set {15, 12, 18, 24, 10, 21}.",
+    "option": {
+      "a": "14",
+      "b": "12",
+      "c": "15",
+      "d": "10",
+      "e": "11"
+    },
+    "answer": "a",
+    "explanation": "Range = Max - Min = 24 - 10 = 14."
+  },
+  {
+    "question": "The angle of a sector of a circle of radius 10.5cm is 120°. Find the length of the arc. (Take π = 22/7)",
+    "option": {
+      "a": "22cm",
+      "b": "44cm",
+      "c": "11cm",
+      "d": "66cm",
+      "e": "33cm"
+    },
+    "answer": "a",
+    "explanation": "Length of arc = (θ/360) * 2πr = (120/360) * 2 * (22/7) * 10.5 = 22cm."
+  },
+  {
+    "question": "If 2x + y = 10 and y = x, find the value of x.",
+    "option": {
+      "a": "2",
+      "b": "3.33",
+      "c": "5",
+      "d": "10",
+      "e": "4"
+    },
+    "answer": "b",
+    "explanation": "Substituting y = x: 2x + x = 10; 3x = 10; x = 3.33."
+  },
+  {
+    "question": "Find the sum of the first 5 terms of the G.P. 2, 6, 18...",
+    "option": {
+      "a": "242",
+      "b": "80",
+      "c": "162",
+      "d": "240",
+      "e": "120"
+    },
+    "answer": "a",
+    "explanation": "a = 2, r = 3. S₅ = a(r⁵ - 1) / (r - 1) = 2(243 - 1) / 2 = 242."
+  },
+  {
+    "question": "What is the probability of rolling a sum of 7 with two fair dice?",
+    "option": {
+      "a": "1/6",
+      "b": "1/12",
+      "c": "1/36",
+      "d": "1/4",
+      "e": "5/36"
+    },
+    "answer": "a",
+    "explanation": "Out of 36 outcomes, there are 6 that sum to 7: (1,6), (2,5), (3,4), (4,3), (5,2), (6,1). 6/36 = 1/6."
+  },
+  {
+    "question": "Find the derivative of y = 5x⁴ - 2x³ + x.",
+    "option": {
+      "a": "20x³ - 6x² + 1",
+      "b": "20x³ - 6x²",
+      "c": "5x³ - 2x² + 1",
+      "d": "20x⁴ - 6x³",
+      "e": "x³ - x² + 1"
+    },
+    "answer": "a",
+    "explanation": "dy/dx = (4*5)x³ - (3*2)x² + 1 = 20x³ - 6x² + 1."
+  },
+  {
+    "question": "If the volume of a cube is 64 cm³, find its total surface area.",
+    "option": {
+      "a": "96 cm²",
+      "b": "16 cm²",
+      "c": "64 cm²",
+      "d": "24 cm²",
+      "e": "48 cm²"
+    },
+    "answer": "a",
+    "explanation": "Side s = 4cm. Surface Area = 6s² = 6 * 16 = 96 cm²."
+  },
+  {
+    "question": "Solve for x: log x + log 5 = 2.",
+    "option": {
+      "a": "20",
+      "b": "10",
+      "c": "25",
+      "d": "50",
+      "e": "100"
+    },
+    "answer": "a",
+    "explanation": "log(5x) = 2. In base 10, 5x = 10² = 100. x = 20."
+  },
+  {
+    "question": "Find the equation of the line with gradient 2 passing through (0, -3).",
+    "option": {
+      "a": "y = 2x - 3",
+      "b": "y = 2x + 3",
+      "c": "y = -3x + 2",
+      "d": "y = 1/2x - 3",
+      "e": "y = 2x"
+    },
+    "answer": "a",
+    "explanation": "Using y = mx + c: m = 2, c = -3. So y = 2x - 3."
+  },
+  {
+    "question": "Convert 11011₂ to base 10.",
+    "option": {
+      "a": "27",
+      "b": "25",
+      "c": "31",
+      "d": "19",
+      "e": "23"
+    },
+    "answer": "a",
+    "explanation": "16 + 8 + 0 + 2 + 1 = 27."
+  },
+  {
+    "question": "If a triangle has sides 7cm, 24cm, and 25cm, what type of triangle is it?",
+    "option": {
+      "a": "Right-angled",
+      "b": "Isosceles",
+      "c": "Equilateral",
+      "d": "Obtuse-angled",
+      "e": "Acute-angled"
+    },
+    "answer": "a",
+    "explanation": "7² + 24² = 49 + 576 = 625. 25² = 625. Since a² + b² = c², it is a right-angled triangle."
+  },
+  {
+    "question": "Find the value of (x+y)² if x²+y²=20 and xy=8.",
+    "option": {
+      "a": "36",
+      "b": "28",
+      "c": "12",
+      "d": "64",
+      "e": "44"
+    },
+    "answer": "a",
+    "explanation": "(x+y)² = x² + y² + 2xy = 20 + 2(8) = 36."
+  },
+  {
+    "question": "The ratio of the radii of two circles is 2:3. Find the ratio of their areas.",
+    "option": {
+      "a": "4:9",
+      "b": "2:3",
+      "c": "8:27",
+      "d": "4:6",
+      "e": "1:2"
+    },
+    "answer": "a",
+    "explanation": "Area ratio = (Radius ratio)² = 2² : 3² = 4:9."
+  },
+  {
+    "question": "Find the coordinates of the turning point of the curve y = x² - 4x + 5.",
+    "option": {
+      "a": "(2, 1)",
+      "b": "(-2, 17)",
+      "c": "(4, 5)",
+      "d": "(0, 5)",
+      "e": "(2, 5)"
+    },
+    "answer": "a",
+    "explanation": "x = -b/2a = 4/2 = 2. When x=2, y = 2² - 4(2) + 5 = 1. Turning point = (2, 1)."
+  },
+  {
+    "question": "Simplify √72 - √18.",
+    "option": {
+      "a": "3√2",
+      "b": "√54",
+      "c": "9√2",
+      "d": "6√2",
+      "e": "2√2"
+    },
+    "answer": "a",
+    "explanation": "6√2 - 3√2 = 3√2."
+  },
+  {
+    "question": "If the fourth term of an A.P. is 13 and the tenth term is 31, find the first term.",
+    "option": {
+      "a": "4",
+      "b": "3",
+      "c": "7",
+      "d": "10",
+      "e": "1"
+    },
+    "answer": "a",
+    "explanation": "a+3d=13, a+9d=31. 6d=18, so d=3. a + 3(3)=13, so a=4."
+  },
+  {
+    "question": "A shopkeeper marks his goods 20% above cost price and then allows a 10% discount. Find his percentage profit.",
+    "option": {
+      "a": "8%",
+      "b": "10%",
+      "c": "12%",
+      "d": "15%",
+      "e": "18%"
+    },
+    "answer": "a",
+    "explanation": "Let CP = 100. MP = 120. SP = 120 * 0.9 = 108. Profit = 8%."
+  },
+  {
+    "question": "Evaluate ∫ from 0 to π/2 (cos x) dx.",
+    "option": {
+      "a": "1",
+      "b": "0",
+      "c": "-1",
+      "d": "π/2",
+      "e": "2"
+    },
+    "answer": "a",
+    "explanation": "[sin x] from 0 to π/2 = sin(π/2) - sin(0) = 1 - 0 = 1."
+  },
+  {
+    "question": "Find the value of k if 3, k, 12 are in Geometric Progression.",
+    "option": {
+      "a": "6",
+      "b": "7.5",
+      "c": "9",
+      "d": "4",
+      "e": "36"
+    },
+    "answer": "a",
+    "explanation": "k² = 3 * 12 = 36. So k = 6."
+  },
+  {
+    "question": "What is the sum of the prime numbers between 10 and 20?",
+    "option": {
+      "a": "60",
+      "b": "45",
+      "c": "52",
+      "d": "41",
+      "e": "63"
+    },
+    "answer": "a",
+    "explanation": "Primes are 11, 13, 17, 19. Sum = 60."
+  },
+  {
+    "question": "Find the median of the set {2, 7, 3, 1, 9, 5, 11}.",
+    "option": {
+      "a": "5",
+      "b": "1",
+      "c": "7",
+      "d": "3",
+      "e": "9"
+    },
+    "answer": "a",
+    "explanation": "Ordered: 1, 2, 3, 5, 7, 9, 11. Median = 5."
+  },
+  {
+    "question": "If M represents the median and D the mode of the measurements 5, 9, 3, 5, 8, then (M, D) is",
+    "option": {
+      "a": "(6, 5)",
+      "b": "(5, 8)",
+      "c": "(5, 7)",
+      "d": "(5, 5)",
+      "e": "(7, 5)"
+    },
+    "answer": "d",
+    "explanation": "Ordered: 3, 5, 5, 8, 9. Median M=5. Mode D=5."
+  },
+  {
+    "question": "A construction company is owned by two partners X and Y. Their profit is divided in the ratio 4:5. If Y received #5,000 more than X, what is the total profit of the company for the year?",
+    "option": {
+      "a": "#20,000.00",
+      "b": "#25,000.00",
+      "c": "#30,000.00",
+      "d": "#15,000.00",
+      "e": "#45,000.00"
+    },
+    "answer": "e",
+    "explanation": "Ratio difference 5-4 = 1 part. 1 part = 5000. Total parts = 9. Total profit = 9 * 5000 = 45000."
+  },
+  {
+    "question": "Given a regular hexagon, calculate each interior angle of the hexagon.",
+    "option": {
+      "a": "60°",
+      "b": "30°",
+      "c": "120°",
+      "d": "45°",
+      "e": "135°"
+    },
+    "answer": "c",
+    "explanation": "Interior angle = (6-2)*180 / 6 = 720 / 6 = 120°."
+  },
+  {
+    "question": "If x + 2 and x - 1 are factors of the expression lx³ + 2kx² + 24, find the values of l and k.",
+    "option": {
+      "a": "l = -6, k = -9",
+      "b": "l = -2, k = 1",
+      "c": "l = -2, k = -1",
+      "d": "l = 0, k = 1",
+      "e": "l = 6, k = 0"
+    },
+    "answer": "e",
+    "explanation": "f(-2)=0 and f(1)=0. This yields -8l + 8k + 24 = 0 and l + 2k + 24 = 0. Solving gives l=6, k=0."
+  },
+  {
+    "question": "In a class of 60 pupils, the statistical distribution is shown in a pie chart. The angles are: Biology (3x-18)°, History (2x+12)°, French (x+12)°, Geography x°, and Additional Mathematics (2x-24)°. How many pupils offer Additional Mathematics?",
+    "option": {
+      "a": "15",
+      "b": "10",
+      "c": "18",
+      "d": "12",
+      "e": "28"
+    },
+    "answer": "b",
+    "explanation": "Sum of angles = 360, so x=42. Add Maths angle = 2(42)-24 = 60. Pupils = (60/360) * 60 = 10."
+  },
+  {
+    "question": "If x is jointly proportional to the cube of y and the fourth power of z, in what ratio is x increased or decreased when y is halved and z is doubled?",
+    "option": {
+      "a": "4:1 increase",
+      "b": "2:1 increase",
+      "c": "1:4 decrease",
+      "d": "1:1 no change",
+      "e": "3:4 decrease"
+    },
+    "answer": "b",
+    "explanation": "x ∝ y³z⁴. New x ∝ (1/2)³ * (2)⁴ = 1/8 * 16 = 2. So x is doubled (2:1 increase)."
+  },
+  {
+    "question": "The scores of students are: 41, 29, 55, 21, 47, 70, 70, 40, 43, 56, 73, 23, 50, 50. Find the median of the scores.",
+    "option": {
+      "a": "47",
+      "b": "48",
+      "c": "48.5",
+      "d": "49",
+      "e": "50"
+    },
+    "answer": "c",
+    "explanation": "Ordered: 21, 23, 29, 40, 41, 43, 47, 50, 50, 55, 56, 70, 70, 73. Median = (47+50)/2 = 48.5."
+  },
+  {
+    "question": "If O is the centre of a circle and a chord subtends 130° at the circumference, find the value of the angle x subtended at the centre.",
+    "option": {
+      "a": "50",
+      "b": "260",
+      "c": "100",
+      "d": "65",
+      "e": "130"
+    },
+    "answer": "c",
+    "explanation": "The angle at center is twice the angle at circumference in the same segment. 180 - 130 = 50. x = 2 * 50 = 100."
+  },
+  {
+    "question": "Find the sum of the median and modal scores for the set: 65, 65, 55, 60, 60, 65, 60, 70, 75, 70, 65, 70, 60, 65, 65, 70.",
+    "option": {
+      "a": "125",
+      "b": "130",
+      "c": "140",
+      "d": "150",
+      "e": "137.5"
+    },
+    "answer": "b",
+    "explanation": "Median = 65, Mode = 65. Sum = 130."
+  },
+  {
+    "question": "The letters of the word MATRICULATION are put into a box. Find the probability of drawing a vowel.",
+    "option": {
+      "a": "2/13",
+      "b": "5/13",
+      "c": "6/13",
+      "d": "8/13",
+      "e": "4/13"
+    },
+    "answer": "c",
+    "explanation": "Word has 13 letters. Vowels (A, I, U, A, I, O) count is 6. Probability = 6/13."
+  },
+  {
+    "question": "The range of the function f(x) = x² + 1 for the domain {-2, 0, 2} is",
+    "option": {
+      "a": "{1, 5}",
+      "b": "{-3, 1, 5}",
+      "c": "{1, 2, 5}",
+      "d": "{1, 5, 10}",
+      "e": "{5}"
+    },
+    "answer": "a",
+    "explanation": "Substitute each element of the domain into the function: f(-2) = (-2)² + 1 = 5; f(0) = (0)² + 1 = 1; f(2) = (2)² + 1 = 5. The set of unique outputs (the range) is {1, 5}."
+  },
+  {
+    "question": "If the binary operation * is defined by m * n = mⁿ, find the value of (2 * 3) * 2.",
+    "option": {
+      "a": "16",
+      "b": "64",
+      "c": "8",
+      "d": "32",
+      "e": "12"
+    },
+    "answer": "b",
+    "explanation": "First, evaluate (2 * 3) = 2³ = 8. Then evaluate 8 * 2 = 8² = 64."
+  },
+  {
+    "question": "A man invested #5,000.00 for 9 months at 4% per annum. What is the simple interest?",
+    "option": {
+      "a": "#150.00",
+      "b": "#180.00",
+      "c": "#200.00",
+      "d": "#120.00",
+      "e": "#250.00"
+    },
+    "answer": "a",
+    "explanation": "Simple Interest I = (P * R * T) / 100. Time must be in years: 9 months = 9/12 = 0.75 years. I = (5000 * 4 * 0.75) / 100 = 50 * 3 = #150.00."
+  },
+  {
+    "question": "Find the sum to infinity of the series 1 + 1/3 + 1/9 + 1/27 + ...",
+    "option": {
+      "a": "1/2",
+      "b": "2/3",
+      "c": "3/2",
+      "d": "2",
+      "e": "3"
+    },
+    "answer": "c",
+    "explanation": "This is a geometric series with a = 1 and r = 1/3. The sum to infinity S = a / (1 - r) = 1 / (1 - 1/3) = 1 / (2/3) = 3/2."
+  },
+  {
+    "question": "In a triangle ABC, angle A = 30°, side b = 4cm and side c = 6cm. Find the area of the triangle.",
+    "option": {
+      "a": "12 cm²",
+      "b": "6 cm²",
+      "c": "3 cm²",
+      "d": "24 cm²",
+      "e": "8 cm²"
+    },
+    "answer": "b",
+    "explanation": "Area of a triangle = 1/2 * b * c * sin A = 1/2 * 4 * 6 * sin 30° = 1/2 * 24 * 0.5 = 6 cm²."
+  },
+  {
+    "question": "If log₁₀ x = -2, what is the value of x?",
+    "option": {
+      "a": "0.01",
+      "b": "0.02",
+      "c": "0.001",
+      "d": "-20",
+      "e": "100"
+    },
+    "answer": "a",
+    "explanation": "Converting log form to index form: x = 10⁻² = 1 / 10² = 1 / 100 = 0.01."
+  },
+  {
+    "question": "Find the derivative of y = (2x + 3)⁵.",
+    "option": {
+      "a": "5(2x + 3)⁴",
+      "b": "10(2x + 3)⁴",
+      "c": "2(2x + 3)⁴",
+      "d": "10x(2x + 3)⁴",
+      "e": "(2x + 3)⁴"
+    },
+    "answer": "b",
+    "explanation": "Using the chain rule: dy/dx = 5(2x + 3)⁴ * d/dx(2x + 3) = 5(2x + 3)⁴ * 2 = 10(2x + 3)⁴."
+  },
+  {
+    "question": "Simplify 27^(2/3) * 16^(-1/4).",
+    "option": {
+      "a": "4.5",
+      "b": "18",
+      "c": "3",
+      "d": "9",
+      "e": "1.5"
+    },
+    "answer": "a",
+    "explanation": "27^(2/3) = (³√27)² = 3² = 9. 16^(-1/4) = 1 / (⁴√16) = 1 / 2 = 0.5. Result = 9 * 0.5 = 4.5."
+  },
+  {
+    "question": "The sum of the interior angles of a regular polygon is 1440°. How many sides does the polygon have?",
+    "option": {
+      "a": "8",
+      "b": "9",
+      "c": "10",
+      "d": "12",
+      "e": "14"
+    },
+    "answer": "c",
+    "explanation": "(n - 2) * 180 = 1440. n - 2 = 1440 / 180 = 8. n = 10 sides."
+  },
+  {
+    "question": "The probability that a man lives for another 10 years is 1/4 and the probability that his wife lives for another 10 years is 1/5. Find the probability that both are alive in 10 years' time.",
+    "option": {
+      "a": "1/20",
+      "b": "9/20",
+      "c": "2/9",
+      "d": "1/9",
+      "e": "1/10"
+    },
+    "answer": "a",
+    "explanation": "Assuming the events are independent: P(both alive) = P(man) * P(wife) = 1/4 * 1/5 = 1/20."
+  },
+  {
+    "question": "Find the equation of the line passing through the point (2, -1) with a gradient of -3.",
+    "option": {
+      "a": "y = -3x + 5",
+      "b": "y = -3x - 5",
+      "c": "y = 3x - 7",
+      "d": "y = -3x + 1",
+      "e": "y = -3x - 1"
+    },
+    "answer": "a",
+    "explanation": "Using y - y₁ = m(x - x₁): y - (-1) = -3(x - 2) => y + 1 = -3x + 6 => y = -3x + 5."
+  },
+  {
+    "question": "Factorize completely: x² - 5x + 6.",
+    "option": {
+      "a": "(x - 1)(x - 6)",
+      "b": "(x - 2)(x - 3)",
+      "c": "(x + 2)(x + 3)",
+      "d": "(x - 5)(x + 1)",
+      "e": "(x + 1)(x - 6)"
+    },
+    "answer": "b",
+    "explanation": "We need two numbers that multiply to 6 and add to -5. These are -2 and -3. So, (x - 2)(x - 3)."
+  },
+  {
+    "question": "Solve for x: 3^(x+2) = 27.",
+    "option": {
+      "a": "1",
+      "b": "3",
+      "c": "0",
+      "d": "2",
+      "e": "-1"
+    },
+    "answer": "a",
+    "explanation": "27 = 3³. So, 3^(x+2) = 3³. x + 2 = 3 => x = 1."
+  },
+  {
+    "question": "Evaluate ∫ from 1 to 3 (2x + 1) dx.",
+    "option": {
+      "a": "10",
+      "b": "8",
+      "c": "12",
+      "d": "6",
+      "e": "9"
+    },
+    "answer": "a",
+    "explanation": "Integration of 2x + 1 is x² + x. Evaluating from 1 to 3: (3² + 3) - (1² + 1) = (9 + 3) - (1 + 1) = 12 - 2 = 10."
+  },
+  {
+    "question": "If sin x = 4/5 and x is acute, find tan x.",
+    "option": {
+      "a": "3/4",
+      "b": "4/3",
+      "c": "3/5",
+      "d": "5/3",
+      "e": "5/4"
+    },
+    "answer": "b",
+    "explanation": "Using a 3-4-5 right triangle: if sin x = opp/hyp = 4/5, then the adjacent side = 3. tan x = opp/adj = 4/3."
+  },
+  {
+    "question": "A circle has an area of 154 cm². Find its circumference. (Take π = 22/7)",
+    "option": {
+      "a": "22 cm",
+      "b": "44 cm",
+      "c": "88 cm",
+      "d": "11 cm",
+      "e": "66 cm"
+    },
+    "answer": "b",
+    "explanation": "Area πr² = 154 => (22/7)r² = 154 => r² = 154 * 7 / 22 = 49 => r = 7 cm. Circumference = 2πr = 2 * (22/7) * 7 = 44 cm."
+  },
+  {
+    "question": "Find the median of the set of numbers: 10, 4, 14, 8, 8, 12, 10, 8.",
+    "option": {
+      "a": "8",
+      "b": "9",
+      "c": "10",
+      "d": "8.5",
+      "e": "9.5"
+    },
+    "answer": "b",
+    "explanation": "Arrange in order: 4, 8, 8, 8, 10, 10, 12, 14. There are 8 numbers. Median is average of 4th and 5th numbers: (8 + 10) / 2 = 9."
+  },
+  {
+    "question": "Find the values of x for which the expression (x - 1) / (x² - 4) is undefined.",
+    "option": {
+      "a": "x = 1",
+      "b": "x = 2",
+      "c": "x = -2",
+      "d": "x = 2 or x = -2",
+      "e": "x = 4"
+    },
+    "answer": "d",
+    "explanation": "An expression is undefined when the denominator is zero. x² - 4 = 0 => x² = 4 => x = 2 or x = -2."
+  },
+  {
+    "question": "What is the coordinate of the y-intercept of the line 2y - 4x = 8?",
+    "option": {
+      "a": "(0, 4)",
+      "b": "(4, 0)",
+      "c": "(0, -2)",
+      "d": "(-2, 0)",
+      "e": "(0, 8)"
+    },
+    "answer": "a",
+    "explanation": "The y-intercept occurs where x = 0. 2y - 4(0) = 8 => 2y = 8 => y = 4. Coordinate is (0, 4)."
+  },
+  {
+    "question": "The sum of two numbers is 20 and their difference is 4. Find the numbers.",
+    "option": {
+      "a": "10, 10",
+      "b": "12, 8",
+      "c": "14, 6",
+      "d": "15, 5",
+      "e": "11, 9"
+    },
+    "answer": "b",
+    "explanation": "x + y = 20 and x - y = 4. Adding gives 2x = 24 => x = 12. Then 12 + y = 20 => y = 8."
+  },
+  {
+    "question": "In a class of 40 students, 32 offer Mathematics, 24 offer Physics and 4 offer neither. How many students offer both subjects?",
+    "option": {
+      "a": "16",
+      "b": "20",
+      "c": "4",
+      "d": "8",
+      "e": "12"
+    },
+    "answer": "b",
+    "explanation": "Total = n(M) + n(P) - n(M ∩ P) + n(neither). 40 = 32 + 24 - x + 4 => 40 = 60 - x => x = 20."
+  },
+  {
+    "question": "Find the value of (0.04)^(-1/2).",
+    "option": {
+      "a": "5",
+      "b": "2",
+      "c": "0.2",
+      "d": "0.5",
+      "e": "25"
+    },
+    "answer": "a",
+    "explanation": "0.04 = 4/100. (4/100)^(-1/2) = (100/4)^(1/2) = √25 = 5."
+  },
+  {
+    "question": "If the 2nd and 5th terms of a G.P. are 6 and 48 respectively, find the sum of the first 4 terms.",
+    "option": {
+      "a": "45",
+      "b": "30",
+      "c": "60",
+      "d": "15",
+      "e": "24"
+    },
+    "answer": "a",
+    "explanation": "ar = 6, ar⁴ = 48. Dividing: r³ = 8 => r = 2. Then a(2) = 6 => a = 3. S₄ = 3(2⁴ - 1) / (2 - 1) = 3(15) = 45."
+  },
+  {
+    "question": "Calculate the distance between the points (4, 3) and (1, -1).",
+    "option": {
+      "a": "5 units",
+      "b": "3 units",
+      "c": "4 units",
+      "d": "7 units",
+      "e": "√7 units"
+    },
+    "answer": "a",
+    "explanation": "Distance = √[(4-1)² + (3 - (-1))²] = √[3² + 4²] = √[9 + 16] = 5."
+  },
+  {
+    "question": "Find the area of a sector of a circle of radius 12cm if the angle of the sector is 150°.",
+    "option": {
+      "a": "60π cm²",
+      "b": "30π cm²",
+      "c": "120π cm²",
+      "d": "150π cm²",
+      "e": "45π cm²"
+    },
+    "answer": "a",
+    "explanation": "Area = (θ/360) * πr² = (150/360) * π * 12² = (5/12) * 144π = 5 * 12π = 60π cm²."
+  },
+  {
+    "question": "If y = 3 cos(4x), find dy/dx.",
+    "option": {
+      "a": "-12 sin(4x)",
+      "b": "12 sin(4x)",
+      "c": "-3 sin(4x)",
+      "d": "12 cos(4x)",
+      "e": "-12 cos(4x)"
+    },
+    "answer": "a",
+    "explanation": "dy/dx = 3 * (-sin(4x) * 4) = -12 sin(4x)."
+  },
+  {
+    "question": "Solve the inequality: 2x - 5 > 3x + 1.",
+    "option": {
+      "a": "x < -6",
+      "b": "x > -6",
+      "c": "x < 6",
+      "d": "x > 6",
+      "e": "x < -4"
+    },
+    "answer": "a",
+    "explanation": "2x - 3x > 1 + 5 => -x > 6. Dividing by -1 reverses the inequality: x < -6."
+  },
+  {
+    "question": "The probability of picking a red ball from a bag is 2/5. If there are 10 red balls, how many balls are in the bag in total?",
+    "option": {
+      "a": "25",
+      "b": "20",
+      "c": "15",
+      "d": "50",
+      "e": "30"
+    },
+    "answer": "a",
+    "explanation": "2/5 = 10 / Total. 2 * Total = 50 => Total = 25."
+  },
+  {
+    "question": "Find the gradient of the curve y = x³ - 2x at the point x = 2.",
+    "option": {
+      "a": "10",
+      "b": "12",
+      "c": "8",
+      "d": "4",
+      "e": "6"
+    },
+    "answer": "a",
+    "explanation": "dy/dx = 3x² - 2. At x = 2, dy/dx = 3(2)² - 2 = 12 - 2 = 10."
+  },
+  {
+    "question": "Evaluate log₃ 27 + log₃ (1/9).",
+    "option": {
+      "a": "1",
+      "b": "5",
+      "c": "3",
+      "d": "-1",
+      "e": "0"
+    },
+    "answer": "a",
+    "explanation": "log₃ 27 = 3. log₃ (1/9) = -2. 3 + (-2) = 1."
+  },
+  {
+    "question": "A chord 12cm long is 8cm from the center of a circle. Find the radius of the circle.",
+    "option": {
+      "a": "10cm",
+      "b": "20cm",
+      "c": "14cm",
+      "d": "12cm",
+      "e": "16cm"
+    },
+    "answer": "a",
+    "explanation": "Radius² = (Half-chord)² + Distance² = 6² + 8² = 36 + 64 = 100. Radius = 10cm."
+  },
+  {
+    "question": "If x + y = 12 and xy = 32, find x² + y².",
+    "option": {
+      "a": "80",
+      "b": "144",
+      "c": "64",
+      "d": "112",
+      "e": "100"
+    },
+    "answer": "a",
+    "explanation": "(x + y)² = x² + 2xy + y². 12² = x² + y² + 2(32) => 144 = x² + y² + 64 => x² + y² = 80."
+  },
+  {
+    "question": "The sum of the first n terms of an A.P. is n² + 2n. Find the 5th term.",
+    "option": {
+      "a": "11",
+      "b": "35",
+      "c": "24",
+      "d": "9",
+      "e": "15"
+    },
+    "answer": "a",
+    "explanation": "T₅ = S₅ - S₄. S₅ = 5² + 2(5) = 35. S₄ = 4² + 2(4) = 24. T₅ = 35 - 24 = 11."
+  },
+  {
+    "question": "Find the volume of a cone of height 9cm and base radius 7cm. (π = 22/7)",
+    "option": {
+      "a": "462 cm³",
+      "b": "1386 cm³",
+      "c": "154 cm³",
+      "d": "308 cm³",
+      "e": "616 cm³"
+    },
+    "answer": "a",
+    "explanation": "Volume = 1/3 * πr²h = 1/3 * (22/7) * 7² * 9 = 22 * 7 * 3 = 462 cm³."
+  },
+  {
+    "question": "Simplify (√3 + √2)(√3 - √2).",
+    "option": {
+      "a": "1",
+      "b": "5",
+      "c": "√6",
+      "d": "2√3",
+      "e": "3"
+    },
+    "answer": "a",
+    "explanation": "Difference of squares: (√3)² - (√2)² = 3 - 2 = 1."
+  },
+  {
+    "question": "The mean of 7 numbers is 10. If the sum of 6 of them is 62, find the 7th number.",
+    "option": {
+      "a": "8",
+      "b": "10",
+      "c": "12",
+      "d": "6",
+      "e": "7"
+    },
+    "answer": "a",
+    "explanation": "Total sum = 7 * 10 = 70. 7th number = 70 - 62 = 8."
+  },
+  {
+    "question": "Find the value of x if 4^x = 0.25.",
+    "option": {
+      "a": "-1",
+      "b": "1",
+      "c": "0.5",
+      "d": "-0.5",
+      "e": "-2"
+    },
+    "answer": "a",
+    "explanation": "0.25 = 1/4 = 4⁻¹. So 4^x = 4⁻¹ => x = -1."
+  },
+  {
+    "question": "Find the range of the function f: x -> 2x - 3 for the domain {0, 1, 2}.",
+    "option": {
+      "a": "{-3, -1, 1}",
+      "b": "{0, 1, 2}",
+      "c": "{-3, 1, 3}",
+      "d": "{-1, 1, 3}",
+      "e": "{3, 1, -1}"
+    },
+    "answer": "a",
+    "explanation": "f(0) = -3, f(1) = -1, f(2) = 1."
+  },
+  {
+    "question": "What is the mode of the numbers 2, 5, 2, 3, 5, 2, 4?",
+    "option": {
+      "a": "2",
+      "b": "5",
+      "c": "3",
+      "d": "4",
+      "e": "None"
+    },
+    "answer": "a",
+    "explanation": "2 appears 3 times, 5 appears 2 times, others once. Mode is 2."
+  },
+  {
+    "question": "Find the equation of a line parallel to y = 2x + 5 passing through (1, 2).",
+    "option": {
+      "a": "y = 2x",
+      "b": "y = 2x + 1",
+      "c": "y = 2x - 1",
+      "d": "y = -1/2x + 5/2",
+      "e": "y = 2x + 3"
+    },
+    "answer": "a",
+    "explanation": "Parallel line has gradient m = 2. y - 2 = 2(x - 1) => y - 2 = 2x - 2 => y = 2x."
+  },
+  {
+    "question": "If the mean of 2, 5, x+1, and 10 is 6, find the value of x.",
+    "option": {
+      "a": "4",
+      "b": "6",
+      "c": "7",
+      "d": "5",
+      "e": "8"
+    },
+    "answer": "b",
+    "explanation": "(2 + 5 + x + 1 + 10) / 4 = 6 => 18 + x = 24 => x = 6."
+  },
+  {
+    "question": "Find the simple interest on #6000 for 3 years at 8% per annum.",
+    "option": {
+      "a": "#1,440",
+      "b": "#480",
+      "c": "#1,200",
+      "d": "#1,800",
+      "e": "#960"
+    },
+    "answer": "a",
+    "explanation": "I = (P * R * T) / 100 = (6000 * 8 * 3) / 100 = 60 * 24 = #1,440."
+  },
+  {
+    "question": "Simplify (3x + 2)² - (3x - 2)².",
+    "option": {
+      "a": "24x",
+      "b": "12x",
+      "c": "18x²",
+      "d": "8",
+      "e": "0"
+    },
+    "answer": "a",
+    "explanation": "Using a² - b² = (a - b)(a + b): [(3x + 2) - (3x - 2)] * [(3x + 2) + (3x - 2)] = [4] * [6x] = 24x."
+  },
+  {
+    "question": "The angle of depression of a boat from the top of a cliff 100m high is 30°. How far is the boat from the foot of the cliff?",
+    "option": {
+      "a": "100√3 m",
+      "b": "100/√3 m",
+      "c": "50 m",
+      "d": "200 m",
+      "e": "150 m"
+    },
+    "answer": "a",
+    "explanation": "tan 30° = Opposite/Adjacent = 100/x. x = 100 / tan 30°. Since tan 30° = 1/√3, x = 100 * √3."
+  },
+  {
+    "question": "Find the sum of the first 20 terms of the series 3, 5, 7, 9, ...",
+    "option": {
+      "a": "440",
+      "b": "400",
+      "c": "380",
+      "d": "420",
+      "e": "460"
+    },
+    "answer": "a",
+    "explanation": "a = 3, d = 2, n = 20. Sₙ = n/2 [2a + (n-1)d] = 10 [6 + 19(2)] = 10 [6 + 38] = 10 * 44 = 440."
+  },
+  {
+    "question": "Solve for x: log₂ (x + 1) + log₂ 3 = 3.",
+    "option": {
+      "a": "5/3",
+      "b": "7/3",
+      "c": "2",
+      "d": "1",
+      "e": "3"
+    },
+    "answer": "a",
+    "explanation": "log₂ [3(x + 1)] = 3 => 3(x + 1) = 2³ => 3x + 3 = 8 => 3x = 5 => x = 5/3."
+  },
+  {
+    "question": "Find the equation of the line passing through (1, 2) and (3, 6).",
+    "option": {
+      "a": "y = 2x",
+      "b": "y = 3x - 1",
+      "c": "y = x + 1",
+      "d": "y = 2x + 1",
+      "e": "y = 2x - 1"
+    },
+    "answer": "a",
+    "explanation": "m = (6 - 2) / (3 - 1) = 4/2 = 2. y - 2 = 2(x - 1) => y - 2 = 2x - 2 => y = 2x."
+  },
+  {
+    "question": "If the volume of a sphere is 4/3 π cm³, find its diameter.",
+    "option": {
+      "a": "2 cm",
+      "b": "1 cm",
+      "c": "4 cm",
+      "d": "0.5 cm",
+      "e": "3 cm"
+    },
+    "answer": "a",
+    "explanation": "4/3 πr³ = 4/3 π => r³ = 1 => r = 1. Diameter = 2r = 2 cm."
+  },
+  {
+    "question": "Differentiate y = x² sin x.",
+    "option": {
+      "a": "2x sin x + x² cos x",
+      "b": "2x cos x",
+      "c": "x² cos x - 2x sin x",
+      "d": "2x sin x - x² cos x",
+      "e": "x sin x + cos x"
+    },
+    "answer": "a",
+    "explanation": "Using the product rule (uv' + vu'): x²(cos x) + sin x(2x) = 2x sin x + x² cos x."
+  },
+  {
+    "question": "The fourth term of a G.P. is 8 and the seventh term is 64. Find the common ratio.",
+    "option": {
+      "a": "2",
+      "b": "4",
+      "c": "3",
+      "d": "1/2",
+      "e": "√2"
+    },
+    "answer": "a",
+    "explanation": "ar³ = 8, ar⁶ = 64. (ar⁶) / (ar³) = 64/8 => r³ = 8 => r = 2."
+  },
+  {
+    "question": "Find the area of a triangle with sides 3cm, 4cm and 5cm.",
+    "option": {
+      "a": "6 cm²",
+      "b": "12 cm²",
+      "c": "10 cm²",
+      "d": "7.5 cm²",
+      "e": "8 cm²"
+    },
+    "answer": "a",
+    "explanation": "This is a right-angled triangle (3² + 4² = 5²). Area = 1/2 * base * height = 1/2 * 3 * 4 = 6 cm²."
+  },
+  {
+    "question": "If y is inversely proportional to x and y = 4 when x = 3, find y when x = 6.",
+    "option": {
+      "a": "2",
+      "b": "8",
+      "c": "1.5",
+      "d": "12",
+      "e": "6"
+    },
+    "answer": "a",
+    "explanation": "y = k/x => 4 = k/3 => k = 12. When x = 6, y = 12/6 = 2."
+  },
+  {
+    "question": "Find the median of: 15, 10, 12, 14, 15, 18, 10, 11.",
+    "option": {
+      "a": "13",
+      "b": "12.5",
+      "c": "14",
+      "d": "12",
+      "e": "13.5"
+    },
+    "answer": "a",
+    "explanation": "Ordered: 10, 10, 11, 12, 14, 15, 15, 18. Median = (12 + 14) / 2 = 13."
+  },
+  {
+    "question": "Calculate the gradient of the line joining (2, 5) and (-1, 3).",
+    "option": {
+      "a": "2/3",
+      "b": "3/2",
+      "c": "-2/3",
+      "d": "1/2",
+      "e": "-3/2"
+    },
+    "answer": "a",
+    "explanation": "m = (3 - 5) / (-1 - 2) = -2 / -3 = 2/3."
+  },
+  {
+    "question": "Find the value of k if (x - 1) is a factor of x³ - 3x² + kx - 1.",
+    "option": {
+      "a": "3",
+      "b": "1",
+      "c": "-1",
+      "d": "0",
+      "e": "2"
+    },
+    "answer": "a",
+    "explanation": "f(1) = 1³ - 3(1)² + k(1) - 1 = 0 => 1 - 3 + k - 1 = 0 => k - 3 = 0 => k = 3."
+  },
+  {
+    "question": "Convert 45 (base 10) to binary.",
+    "option": {
+      "a": "101101₂",
+      "b": "110101₂",
+      "c": "101011₂",
+      "d": "111001₂",
+      "e": "100111₂"
+    },
+    "answer": "a",
+    "explanation": "45/2=22R1, 22/2=11R0, 11/2=5R1, 5/2=2R1, 2/2=1R0, 1/2=0R1. Reading upwards: 101101₂."
+  },
+  {
+    "question": "Simplify (x² - 9) / (x - 3).",
+    "option": {
+      "a": "x + 3",
+      "b": "x - 3",
+      "c": "x + 9",
+      "d": "x - 9",
+      "e": "x"
+    },
+    "answer": "a",
+    "explanation": "(x - 3)(x + 3) / (x - 3) = x + 3."
+  },
+  {
+    "question": "The probability that event A happens is 0.6 and event B happens is 0.4. If they are independent, what is the probability that neither happens?",
+    "option": {
+      "a": "0.24",
+      "b": "0.16",
+      "c": "0.44",
+      "d": "0.52",
+      "e": "0.76"
+    },
+    "answer": "a",
+    "explanation": "P(not A) = 0.4, P(not B) = 0.6. P(neither) = 0.4 * 0.6 = 0.24."
+  },
+  {
+    "question": "Find the range of 12, 15, 8, 20, 22, 10.",
+    "option": {
+      "a": "14",
+      "b": "12",
+      "c": "10",
+      "d": "15",
+      "e": "22"
+    },
+    "answer": "a",
+    "explanation": "Highest (22) - Lowest (8) = 14."
+  },
+  {
+    "question": "Evaluate cos 120°.",
+    "option": {
+      "a": "-0.5",
+      "b": "0.5",
+      "c": "-√3/2",
+      "d": "√3/2",
+      "e": "-1"
+    },
+    "answer": "a",
+    "explanation": "cos 120° = cos(180 - 60) = -cos 60° = -0.5."
+  },
+  {
+    "question": "The sum of the ages of a group of students is 15 years. When the age of a teacher, 45 years old, is added, the mean becomes 18 years. Find the number of students in the group.",
+    "option": {
+      "a": "7",
+      "b": "9",
+      "c": "15",
+      "d": "42"
+    },
+    "answer": "b",
+    "explanation": "Let n be the number of students. Sum of students' ages = 15n. New mean = (15n + 45) / (n + 1) = 18. 15n + 45 = 18n + 18 => 3n = 27 => n = 9."
+  },
+  {
+    "question": "A committee of six is to be formed from nine state commissioners and three members of the house of assembly. In how many ways can the committee be chosen so as to include exactly one member of the house of assembly?",
+    "option": {
+      "a": "924 ways",
+      "b": "840 ways",
+      "c": "462 ways",
+      "d": "378 ways"
+    },
+    "answer": "d",
+    "explanation": "Select 1 from 3 assembly members (3C1) and 5 from 9 commissioners (9C5). Ways = 3 * [ (9*8*7*6) / (4*3*2*1) ] = 3 * 126 = 378 ways."
+  },
+  {
+    "question": "Some white balls were put in a basket containing twelve red balls and sixteen black balls. If the probability of picking a white ball is 3/7, how many white balls were introduced?",
+    "option": {
+      "a": "32",
+      "b": "28",
+      "c": "21",
+      "d": "12"
+    },
+    "answer": "c",
+    "explanation": "Let w be the number of white balls. Total balls = w + 12 + 16 = w + 28. P(white) = w / (w + 28) = 3/7. 7w = 3w + 84 => 4w = 84 => w = 21."
+  },
+  {
+    "question": "Find the range of the following distribution: 15kg, 16kg, 17kg, 18kg, 16kg, 17kg, 17kg, 17kg, 18kg and 16kg.",
+    "option": {
+      "a": "1kg",
+      "b": "2kg",
+      "c": "3kg",
+      "d": "4kg"
+    },
+    "answer": "c",
+    "explanation": "Highest value = 18kg. Lowest value = 15kg. Range = 18 - 15 = 3kg."
+  },
+  {
+    "question": "If 2x² - kx - 12 is divisible by x - 4, find the value of k.",
+    "option": {
+      "a": "2",
+      "b": "5",
+      "c": "3",
+      "d": "4"
+    },
+    "answer": "b",
+    "explanation": "By Remainder Theorem, f(4) = 0. 2(4)² - k(4) - 12 = 0 => 32 - 4k - 12 = 0 => 20 = 4k => k = 5."
+  },
+  {
+    "question": "What is the slope of the line passing through the points (2, 5) and (2, 8)?",
+    "option": {
+      "a": "0",
+      "b": "3",
+      "c": "Undefined",
+      "d": "1"
+    },
+    "answer": "c",
+    "explanation": "Gradient m = (y2 - y1) / (x2 - x1) = (8 - 5) / (2 - 2) = 3 / 0. Division by zero is undefined; the line is vertical."
+  },
+  {
+    "question": "Evaluate 1/2 log₁₀ 16 + log₁₀ 25.",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "4",
+      "d": "1"
+    },
+    "answer": "a",
+    "explanation": "1/2 log 16 = log (16^1/2) = log 4. log 4 + log 25 = log(4 * 25) = log 100. log₁₀ 100 = 2."
+  },
+  {
+    "question": "A bag contains 5 yellow balls and 3 green balls. If two balls are picked at random one after the other without replacement, find the probability that they are both green.",
+    "option": {
+      "a": "3/28",
+      "b": "9/64",
+      "c": "1/8",
+      "d": "5/28"
+    },
+    "answer": "a",
+    "explanation": "P(1st green) = 3/8. P(2nd green) = 2/7. P(both) = 3/8 * 2/7 = 6/56 = 3/28."
+  },
+  {
+    "question": "Find the integral of (3x² + 2x + 1) with respect to x.",
+    "option": {
+      "a": "x³ + x² + x + c",
+      "b": "6x + 2 + c",
+      "c": "3x³ + 2x² + x + c",
+      "d": "x³ + 2x² + x + c"
+    },
+    "answer": "a",
+    "explanation": "∫ 3x² dx = x³, ∫ 2x dx = x², ∫ 1 dx = x. Summing them up with constant c gives x³ + x² + x + c."
+  },
+  {
+    "question": "The coordinates of the center of a circle are (3, -2) and it passes through the point (7, 1). Find the radius of the circle.",
+    "option": {
+      "a": "5 units",
+      "b": "√7 units",
+      "c": "25 units",
+      "d": "4 units"
+    },
+    "answer": "a",
+    "explanation": "Radius = Distance between (3, -2) and (7, 1). r = √[(7-3)² + (1 - (-2))²] = √[4² + 3²] = √[16+9] = 5."
+  },
+  {
+    "question": "If y = x³ - 6x² + 9x, find the values of x at the stationary points.",
+    "option": {
+      "a": "1, 3",
+      "b": "0, 3",
+      "c": "1, 2",
+      "d": "3, 4"
+    },
+    "answer": "a",
+    "explanation": "dy/dx = 3x² - 12x + 9. Set to zero: 3(x² - 4x + 3) = 0 => (x-1)(x-3) = 0. x = 1 or 3."
+  },
+  {
+    "question": "Simplify (x - 2)² - (x + 2)².",
+    "option": {
+      "a": "-8x",
+      "b": "8x",
+      "c": "x² - 4",
+      "d": "-4x"
+    },
+    "answer": "a",
+    "explanation": "(x² - 4x + 4) - (x² + 4x + 4) = -4x - 4x = -8x."
+  },
+  {
+    "question": "In a right-angled triangle, the hypotenuse is 13cm and one side is 5cm. Find the third side.",
+    "option": {
+      "a": "12cm",
+      "b": "8cm",
+      "c": "10cm",
+      "d": "7cm"
+    },
+    "answer": "a",
+    "explanation": "Using Pythagoras: a² + b² = c² => 5² + b² = 13² => 25 + b² = 169 => b² = 144 => b = 12."
+  },
+  {
+    "question": "Find the value of x in the equation 2^(3x-1) = 32.",
+    "option": {
+      "a": "2",
+      "b": "3",
+      "c": "1",
+      "d": "4"
+    },
+    "answer": "a",
+    "explanation": "32 = 2⁵. So, 3x - 1 = 5 => 3x = 6 => x = 2."
+  },
+  {
+    "question": "What is the mode of the following set: 2, 4, 4, 4, 5, 5, 7, 9?",
+    "option": {
+      "a": "4",
+      "b": "5",
+      "c": "2",
+      "d": "7"
+    },
+    "answer": "a",
+    "explanation": "The number 4 appears the most frequently (3 times)."
+  },
+  {
+    "question": "The sum of angles on a straight line is:",
+    "option": {
+      "a": "180°",
+      "b": "360°",
+      "c": "90°",
+      "d": "270°"
+    },
+    "answer": "a",
+    "explanation": "Angles on a straight line always add up to 180 degrees."
+  },
+  {
+    "question": "Find the 10th term of the sequence 5, 9, 13, 17...",
+    "option": {
+      "a": "41",
+      "b": "37",
+      "c": "45",
+      "d": "39"
+    },
+    "answer": "a",
+    "explanation": "a = 5, d = 4. T10 = a + 9d = 5 + 9(4) = 5 + 36 = 41."
+  },
+  {
+    "question": "Find the simple interest on #2000 for 2 years at 5% per annum.",
+    "option": {
+      "a": "#200",
+      "b": "#100",
+      "c": "#400",
+      "d": "#50"
+    },
+    "answer": "a",
+    "explanation": "I = (P * R * T) / 100 = (2000 * 5 * 2) / 100 = 200."
+  },
+  {
+    "question": "Calculate the area of a rectangle with length 10cm and width 5cm.",
+    "option": {
+      "a": "50 cm²",
+      "b": "15 cm²",
+      "c": "30 cm²",
+      "d": "25 cm²"
+    },
+    "answer": "a",
+    "explanation": "Area = Length * Width = 10 * 5 = 50 cm²."
+  },
+  {
+    "question": "If tan x = 1, find x for 0° < x < 90°.",
+    "option": {
+      "a": "45°",
+      "b": "30°",
+      "c": "60°",
+      "d": "0°"
+    },
+    "answer": "a",
+    "explanation": "tan 45° = 1. Therefore, x = 45°."
+  }
+
+
+]

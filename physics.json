@@ -1,0 +1,1120 @@
+[
+  {
+    "question": "Two cars moving in the same direction have speeds of 100 kmh⁻¹ and 130 kmh⁻¹. What is the velocity of the faster car as measured by an observer in the slower car?",
+    "option": {
+      "a": "130 kmh⁻¹",
+      "b": "230 kmh⁻¹",
+      "c": "200 kmh⁻¹",
+      "d": "30 kmh⁻¹"
+    },
+    "answer": "d",
+    "explanation": "When two objects move in the same direction, the relative velocity is the difference in their speeds: 130 km/h - 100 km/h = 30 km/h."
+  },
+  {
+    "question": "The diagram above shows a velocity-time graph. The statement that is true about this motion is that, the car",
+    "option": {
+      "a": "decelerates between points F and H",
+      "b": "accelerates between points F and G",
+      "c": "has a constant speed between points E and F",
+      "d": "has no acceleration between point F and G."
+    },
+    "answer": "d",
+    "explanation": "On a velocity-time graph, a horizontal line (like segment FG) represents constant velocity. Since velocity is not changing, the acceleration is zero."
+  },
+  {
+    "question": "A stone and a feather dropped from the same height above the earth surface. Ignoring air resistance, which of the following is correct?",
+    "option": {
+      "a": "The stone and feather will both reach the ground at the same time.",
+      "b": "The stone will reach the ground first",
+      "c": "The feather will reach the ground first",
+      "d": "The feather will be blown away by the wind while stone will drop steadily."
+    },
+    "answer": "a",
+    "explanation": "In a vacuum (no air resistance), all objects fall with the same acceleration due to gravity (g), regardless of their mass."
+  },
+  {
+    "question": "A car moves with an initial velocity of 25 ms⁻¹ and reaches a velocity of 45 ms⁻¹ in 10s. What is the acceleration of the car?",
+    "option": {
+      "a": "5 ms⁻²",
+      "b": "25 ms⁻²",
+      "c": "20 ms⁻²",
+      "d": "2 ms⁻²"
+    },
+    "answer": "d",
+    "explanation": "Acceleration (a) = (v - u) / t = (45 - 25) / 10 = 20 / 10 = 2 ms⁻²."
+  },
+  {
+    "question": "An object is weighed at different locations on the earth. What will be the right observation?",
+    "option": {
+      "a": "Both the mass and weight vary",
+      "b": "The weight is constant while the mass varies",
+      "c": "The mass is constant while the weight varies",
+      "d": "Both the mass and weight are constant."
+    },
+    "answer": "c",
+    "explanation": "Mass is the amount of matter in an object and is constant. Weight depends on gravity (W = mg), which varies slightly at different locations on Earth."
+  },
+  {
+    "question": "The diagram above represents balls in an undulating surface. Which of the following option represents positions of stable equilibrium?",
+    "option": {
+      "a": "II, V and VIII",
+      "b": "I, II and VII",
+      "c": "III, VI and IX",
+      "d": "III, IV and VIII"
+    },
+    "answer": "c",
+    "explanation": "Stable equilibrium occurs at the potential energy minima, which are the lowest points (valleys) of the surface."
+  },
+  {
+    "question": "A bob of weight 0.1N hangs from a massless string of length 50cm. A variable horizontal force which increases from zero is applied to pull the bob until the string makes an angle of 60° with the vertical. The work done is",
+    "option": {
+      "a": "0.250 J",
+      "b": "0.025 J",
+      "c": "0.050 J",
+      "d": "0.500 J"
+    },
+    "answer": "b",
+    "explanation": "Vertical height (h) = L(1 - cosθ) = 0.5(1 - cos60°) = 0.25m. Work Done = PE gain = mgh = (Weight) * h = 0.1 * 0.25 = 0.025 J."
+  },
+  {
+    "question": "The surfaces of conveyor belts are made rough so as to",
+    "option": {
+      "a": "prevent the load from slipping",
+      "b": "make them stronger",
+      "c": "enable them to carry more load",
+      "d": "protect them while carrying load."
+    },
+    "answer": "a",
+    "explanation": "Rough surfaces increase the coefficient of friction, providing the necessary grip to move loads without slipping."
+  },
+  {
+    "question": "A machine of velocity ratio 6 requires an effort of 400N to raise a load of 800N through 1m. Find the efficiency of the machine.",
+    "option": {
+      "a": "50%",
+      "b": "22.2%",
+      "c": "33.3%",
+      "d": "55.6%"
+    },
+    "answer": "c",
+    "explanation": "MA = Load/Effort = 800/400 = 2. Efficiency = (MA/VR) * 100 = (2/6) * 100 = 33.3%."
+  },
+  {
+    "question": "If a wire 30cm long is extended to 30.5cm by a force of 300N. Find the strain energy of the wire.",
+    "option": {
+      "a": "7.50 J",
+      "b": "750.00 J",
+      "c": "75.00 J",
+      "d": "0.75 J"
+    },
+    "answer": "d",
+    "explanation": "Extension (e) = 30.5 - 30 = 0.5cm = 0.005m. Strain Energy = 1/2 * F * e = 0.5 * 300 * 0.005 = 0.75 J."
+  },
+  {
+    "question": "In a hydraulic press, the pump piston exerts a pressure of 100 Pa on the liquid. What force is exerted in the second piston of cross-sectional area 3 m²?",
+    "option": {
+      "a": "200 N",
+      "b": "100 N",
+      "c": "150 N",
+      "d": "300 N"
+    },
+    "answer": "d",
+    "explanation": "According to Pascal's Law, pressure is transmitted equally. Force = Pressure * Area = 100 * 3 = 300 N."
+  },
+  {
+    "question": "The accurate measurement of the relative density of a substance in its powered form is done with a beam balance and",
+    "option": {
+      "a": "an eureka can",
+      "b": "a burette",
+      "c": "a pipette",
+      "d": "a density bottle."
+    },
+    "answer": "d",
+    "explanation": "A density bottle is used for accurate measurements of relative density for liquids and powders."
+  },
+  {
+    "question": "A hydrometer is an instrument used in measuring",
+    "option": {
+      "a": "density of liquid",
+      "b": "relative density of a liquid",
+      "c": "relative humidity of a liquid",
+      "d": "vapour pressure of a fluid"
+    },
+    "answer": "a",
+    "explanation": "Hydrometers are designed to measure the density or specific gravity of liquids based on the concept of buoyancy."
+  },
+  {
+    "question": "One special advantage of alcohol water over mercury as a thermometric liquid is its",
+    "option": {
+      "a": "low freezing point",
+      "b": "low boiling point",
+      "c": "high specific heat capacity",
+      "d": "low density."
+    },
+    "answer": "a",
+    "explanation": "Alcohol has a much lower freezing point (-115°C) than mercury (-39°C), making it suitable for measuring very cold temperatures."
+  },
+  {
+    "question": "Two metals P and Q of lengths l1 and l2 are heated through the same temperature difference. If the ratio of the linear expansivities of P to Q is 2:3 and the ratio of their lengths is 3:4. What is the ratio of increase in lengths of P to Q?",
+    "option": {
+      "a": "5:7",
+      "b": "2:1",
+      "c": "1:2",
+      "d": "7:5"
+    },
+    "answer": "c",
+    "explanation": "ΔL = αLΔθ. Ratio = (α1/α2) * (L1/L2) = (2/3) * (3/4) = 6/12 = 1/2."
+  },
+  {
+    "question": "The density of a certain oil on frying becomes 0.4 kgm⁻³ with a volume of 20 m³. What will be its initial volume when its initial density is 0.8 kgm⁻³ assuming no loss of oil due to spillage?",
+    "option": {
+      "a": "10 m³",
+      "b": "5 m³",
+      "c": "8 m³",
+      "d": "12 m³"
+    },
+    "answer": "a",
+    "explanation": "Mass is constant. ρ1V1 = ρ2V2 -> 0.8 * V1 = 0.4 * 20 -> V1 = 8 / 0.8 = 10 m³."
+  },
+  {
+    "question": "Heat is radiated by all hot objects in the form of",
+    "option": {
+      "a": "light energy",
+      "b": "solar energy",
+      "c": "infrared ray",
+      "d": "x-rays."
+    },
+    "answer": "c",
+    "explanation": "Thermal radiation from objects at common temperatures occurs primarily in the infrared part of the electromagnetic spectrum."
+  },
+  {
+    "question": "If a container is filled with ice to the brim, what happens to the level of water when the ice completely melts?",
+    "option": {
+      "a": "The water in the glass outflows.",
+      "b": "The level of water drops.",
+      "c": "The level of water remains unchanged",
+      "d": "The level of water goes up."
+    },
+    "answer": "c",
+    "explanation": "According to Archimedes' principle, the ice displaces a weight of water equal to its own weight. When it melts, it turns into that exact volume of water, so the level remains unchanged."
+  },
+  {
+    "question": "The small droplet of water that forms on the grass in the early hours of the morning is",
+    "option": {
+      "a": "dew",
+      "b": "mist",
+      "c": "fog",
+      "d": "hail."
+    },
+    "answer": "a",
+    "explanation": "Dew is moisture that condenses from the air onto cool surfaces when the temperature drops to the dew point."
+  },
+  {
+    "question": "A vapour is said to be saturated when",
+    "option": {
+      "a": "a dynamic equilibrium exists such that more molecules return to the liquid than are leaving it.",
+      "b": "the vapour pressure is atmospheric",
+      "c": "the temperature of the vapour varies",
+      "d": "a dynamic equilibrium exists between liquid molecules and the vapour molecules."
+    },
+    "answer": "d",
+    "explanation": "Saturation occurs when the rate of evaporation equals the rate of condensation in a closed system."
+  },
+  {
+    "question": "The pressure of one mole of an ideal gas of volume 10⁻² m³ at a temperature of 27°C is [Molar gas constant = 8.3 J mol⁻¹ K⁻¹]",
+    "option": {
+      "a": "2.24 × 10⁴ Nm⁻²",
+      "b": "2.24 × 10⁵ Nm⁻²",
+      "c": "2.49 × 10⁵ Nm⁻²",
+      "d": "2.49 × 10⁴ Nm⁻²"
+    },
+    "answer": "c",
+    "explanation": "P = nRT/V = (1 * 8.3 * 300) / 0.01 = 2490 / 0.01 = 249,000 = 2.49 x 10⁵ Nm⁻²."
+  },
+  {
+    "question": "Which of the following has no effect on radiation?",
+    "option": {
+      "a": "density.",
+      "b": "temperature.",
+      "c": "surface area.",
+      "d": "nature of the surface."
+    },
+    "answer": "a",
+    "explanation": "Radiation depends on the surface temperature, area, and emissivity (nature of surface), but is independent of the bulk density of the material."
+  },
+  {
+    "question": "The wavelength of a wave travelling with a velocity of 420 ms⁻¹ is 42 m. What is its period?",
+    "option": {
+      "a": "1.0 s",
+      "b": "0.1 s",
+      "c": "0.5 s",
+      "d": "1.2 s"
+    },
+    "answer": "b",
+    "explanation": "f = v / λ = 420 / 42 = 10 Hz. Period (T) = 1/f = 1/10 = 0.1 s."
+  },
+  {
+    "question": "The sound of an electric bell dies down slowly when air is slowly pumped out from a bottle because",
+    "option": {
+      "a": "sound cannot pass through the bottle",
+      "b": "sound can pass through a vacuum",
+      "c": "sound needs a material medium",
+      "d": "the wavelength of sound becomes greater in the bottle."
+    },
+    "answer": "c",
+    "explanation": "Sound is a mechanical wave and requires a medium (like air) to propagate. As air is removed, there is less medium to carry the vibration."
+  },
+  {
+    "question": "During a thunderstorm, the sound is heard over a long time. This phenomenon is referred to as",
+    "option": {
+      "a": "refraction of sound",
+      "b": "reverberation",
+      "c": "superposition",
+      "d": "diffraction of sound."
+    },
+    "answer": "b",
+    "explanation": "Reverberation is the collection of reflected sounds from the surfaces in an enclosure or surrounding environment."
+  },
+  {
+    "question": "The velocity of sound in air at 16°C is 340 ms⁻¹. What will it be when the pressure is doubled and its temperature raised to 127°C?",
+    "option": {
+      "a": "4,000 ms⁻¹",
+      "b": "160,000 ms⁻¹",
+      "c": "8,000 ms⁻¹",
+      "d": "400 ms⁻¹"
+    },
+    "answer": "d",
+    "explanation": "Velocity of sound is independent of pressure. v ∝ √T. v2 = v1 * √(T2/T1) = 340 * √(400/289) = 340 * (20/17) = 400 ms⁻¹."
+  },
+  {
+    "question": "In comparing the camera and the human eye, the film of the camera functions as the",
+    "option": {
+      "a": "iris",
+      "b": "pupil",
+      "c": "cornea",
+      "d": "retina"
+    },
+    "answer": "d",
+    "explanation": "Both the camera film and the retina are the light-sensitive surfaces where the image is captured or formed."
+  },
+  {
+    "question": "An object 4 cm high is placed 15 cm from a concave mirror of focal length 5 cm. The size of the image is",
+    "option": {
+      "a": "3 cm",
+      "b": "5 cm",
+      "c": "4 cm",
+      "d": "2 cm"
+    },
+    "answer": "d",
+    "explanation": "1/v = 1/f - 1/u = 1/5 - 1/15 = 2/15 -> v = 7.5. Magnification (m) = v/u = 7.5/15 = 0.5. Image size = 0.5 * 4 = 2 cm."
+  },
+  {
+    "question": "An object is embedded in a block of ice, 10 cm below the plane surface. If the refractive index of the ice is 1.50, the apparent depth of the object below the surface is",
+    "option": {
+      "a": "6.67 cm",
+      "b": "7.63 cm",
+      "c": "7.50 cm",
+      "d": "2.50 cm"
+    },
+    "answer": "a",
+    "explanation": "Apparent depth = Real depth / n = 10 / 1.5 = 6.67 cm."
+  },
+  {
+    "question": "Which of the following is used for the correction of short-sightedness?",
+    "option": {
+      "a": "Concave lens.",
+      "b": "Concave mirror.",
+      "c": "Convex mirror.",
+      "d": "Convex lens."
+    },
+    "answer": "a",
+    "explanation": "Short-sightedness (myopia) is corrected using a diverging or concave lens to push the image back onto the retina."
+  },
+  {
+    "question": "Dispersion occurs when white light passes through a glass prism because of the",
+    "option": {
+      "a": "different speeds of the colours in the glass.",
+      "b": "high density of the glass.",
+      "c": "defects in the glass.",
+      "d": "different hidden colours in the glass."
+    },
+    "answer": "a",
+    "explanation": "Different colors of light travel at different speeds in glass, leading to different refractive indices for each color."
+  },
+  {
+    "question": "When a positively charged rod is brought nearer the cap of a positively charged electroscope, the leaves divergence will.",
+    "option": {
+      "a": "converge",
+      "b": "remain constant",
+      "c": "diverge",
+      "d": "be induced."
+    },
+    "answer": "c",
+    "explanation": "The positive rod repels more positive charges from the cap down to the leaves, increasing the repulsive force between them."
+  },
+  {
+    "question": "Three capacitors of capacitance, 2µF, 4µF and 8µF are connected in parallel and a p.d of 6V is maintained across each capacitor, the total energy stored is",
+    "option": {
+      "a": "6.90 × 10⁻⁶ J",
+      "b": "6.90 × 10⁻⁴ J",
+      "c": "2.52 × 10⁻⁴ J",
+      "d": "2.52 × 10⁻⁶ J"
+    },
+    "answer": "c",
+    "explanation": "Total C = 2+4+8 = 14µF. Energy = 1/2 * C * V² = 0.5 * 14x10⁻⁶ * 36 = 2.52 x 10⁻⁴ J."
+  },
+  {
+    "question": "A cell of emf 12V and internal resistance 4Ω is connected to an external resistor of resistance 2 Ω. Find the current flow.",
+    "option": {
+      "a": "4 A",
+      "b": "2 A",
+      "c": "3 A",
+      "d": "5 A"
+    },
+    "answer": "b",
+    "explanation": "I = E / (R + r) = 12 / (2 + 4) = 12 / 6 = 2 A."
+  },
+  {
+    "question": "Three 4Ω resistors connected in parallel have 3 potential difference of 16V applied across them. What is the total current in the circuit",
+    "option": {
+      "a": "12 A",
+      "b": "8 A",
+      "c": "10 A",
+      "d": "14 A"
+    },
+    "answer": "a",
+    "explanation": "1/Rt = 1/4 + 1/4 + 1/4 = 3/4 -> Rt = 4/3 Ω. I = V / Rt = 16 / (4/3) = 12 A."
+  },
+  {
+    "question": "In the diagram above, a 200 W bulb is lighted by a 240 V a.c mains supply. If 1kWh is sold at N40, the cost of keeping the bulb lighted for a day is.",
+    "option": {
+      "a": "N 192.00",
+      "b": "N 1.92",
+      "c": "N 19.20",
+      "d": "N 1,920.00."
+    },
+    "answer": "a",
+    "explanation": "Energy = Power * time = 0.2kW * 24h = 4.8 kWh. Cost = 4.8 * 40 = N192."
+  },
+  {
+    "question": "Power supply is transmitted at a very high voltage and low current in order to",
+    "option": {
+      "a": "increase the power supply",
+      "b": "prevent overheating of the coil",
+      "c": "make it travel fast",
+      "d": "make it pass through the transformers."
+    },
+    "answer": "b",
+    "explanation": "Power loss in cables is I²R. Reducing current (I) by increasing voltage drastically reduces heat energy loss."
+  },
+  {
+    "question": "A galvanometer with full-scale deflection of 10mA is to be converted to a voltmeter with full-scale deflection of 5 V. If a series resistance of 498Ω is used for the conversion, the resistance of the galvanometer is",
+    "option": {
+      "a": "2 Ω",
+      "b": "10 Ω",
+      "c": "5 Ω",
+      "d": "1 Ω"
+    },
+    "answer": "a",
+    "explanation": "V = Ig(Rg + R). 5 = 0.01(Rg + 498) -> 500 = Rg + 498 -> Rg = 2 Ω."
+  },
+  {
+    "question": "In alternating current circuit at resonance, the angle of lead or lag is",
+    "option": {
+      "a": "½°",
+      "b": "0°",
+      "c": "⅓°",
+      "d": "π°"
+    },
+    "answer": "b",
+    "explanation": "At resonance, the circuit is purely resistive, meaning the voltage and current are in phase (0°)."
+  },
+  {
+    "question": "In Faraday’s law of electrolysis, a graph of mass deposited against the quantity of electricity is plotted. The slope of the graph gives",
+    "option": {
+      "a": "the electrochemical equivalent",
+      "b": "the charge released",
+      "c": "the current flowing",
+      "d": "the energy released"
+    },
+    "answer": "a",
+    "explanation": "m = zQ. Therefore, the slope (m/Q) equals z, the electrochemical equivalent."
+  },
+  {
+    "question": "Transistors are used for the",
+    "option": {
+      "a": "conversion of a.c. to d.c.",
+      "b": "conversion of d.c. to a.c.",
+      "c": "amplification of signals",
+      "d": "rectification of signals."
+    },
+    "answer": "c",
+    "explanation": "One of the primary functions of a transistor is to act as an amplifier of electrical signals."
+  },
+  {
+    "question": "Which of the following is a pure semiconductor?",
+    "option": {
+      "a": "Silicon",
+      "b": "Phosphorus",
+      "c": "Transistor",
+      "d": "Carbon"
+    },
+    "answer": "a",
+    "explanation": "Silicon and Germanium are the most common intrinsic (pure) semiconductors."
+  },
+  {
+    "option": {
+      "a": "X-rays",
+      "b": "Sound waves",
+      "c": "Light waves",
+      "d": "Radio waves."
+    },
+    "answer": "B",
+    "explanation": "Sound waves are mechanical waves, which require a material medium (solid, liquid, or gas) to transmit vibrations. Electromagnetic waves like X-rays, light, and radio waves can travel through a vacuum."
+  },
+  {
+    "question": "The ground is always cold at night because the",
+    "option": [
+      "A. atmosphere reflects the sun’s energy at night",
+      "B. atmosphere absorbs the sun’s energy at night",
+      "C. earth radiates heat to the atmosphere at night",
+      "D. sun no longer shines at night."
+    ],
+    "answer": "C",
+    "explanation": "At night, the Earth's surface loses heat through terrestrial radiation, emitting infrared energy back into the atmosphere and space."
+  },
+  {
+    "option": {
+      "a": "0.40cm³",
+      "b": "0.14cm³",
+      "c": "0.12cm³",
+      "d": "1.20cm³"
+    },
+    "answer": "B",
+    "explanation": "Using the formula for volume expansion: $\\Delta V = V_0 \\gamma \\Delta T$. Since $\\gamma = 3\\alpha$, $\\gamma = 3 \\times 2.0 \\times 10^{-5} = 6.0 \\times 10^{-5} K^{-1}$. Thus, $\\Delta V = 40 \\times 6.0 \\times 10^{-5} \\times 60 = 0.144\\text{ cm}^3$. Option B is the closest."
+  },
+  {
+    "option": {
+      "a": "I, II and IV",
+      "b": "I, II, III and IV",
+      "c": "I, II and III",
+      "d": "I, III and IV."
+    },
+    "answer": "A",
+    "explanation": "Kinetic theory explains phenomena based on the motion of particles. Change of state, diffusion, and osmosis are particle-based processes. Radiation is an electromagnetic phenomenon."
+  },
+  {
+    "option": {
+      "a": "long-sightedness",
+      "b": "short-sightedness",
+      "c": "presbyopia",
+      "d": "astigmatism."
+    },
+    "answer": "C",
+    "explanation": "Presbyopia is an age-related condition where the lens of the eye loses its flexibility, leading to a loss of the power of accommodation."
+  },
+  {
+    "option": {
+      "a": "356 Hz",
+      "b": "306 Hz",
+      "c": "512 Hz",
+      "d": "488 Hz."
+    },
+    "answer": "B",
+    "explanation": "Frequency $f$ is proportional to the square root of tension $T$ ($f \\propto \\sqrt{T}$). Thus, $f_2 = 255 \\times \\sqrt{\\frac{324}{225}} = 255 \\times 1.2 = 306\\text{ Hz}$."
+  },
+  {
+    "option": {
+      "a": "0.04 D",
+      "b": "0.06 D",
+      "c": "0.02 D",
+      "d": "0.03 D."
+    },
+    "answer": "C",
+    "explanation": "Using $\\frac{1}{f} = \\frac{1}{u} + \\frac{1}{v}$ (where $v = -50\\text{cm}$ and $u = 25\\text{cm}$): $\\frac{1}{f} = \\frac{1}{25} - \\frac{1}{50} = \\frac{1}{50}$. $f = 50\\text{cm} = 0.5\\text{m}$. Power $P = \\frac{1}{f} = 2.0\\text{ D}$."
+  },
+  {
+    "option": {
+      "a": "X-rays",
+      "b": "Ultra-violet rays",
+      "c": "Radio waves",
+      "d": "Infrared-rays."
+    },
+    "answer": "A",
+    "explanation": "In the electromagnetic spectrum, frequency increases in the order: Radio < Infrared < Ultraviolet < X-rays."
+  },
+  {
+    "option": {
+      "a": "Yellow",
+      "b": "Red",
+      "c": "Blue",
+      "d": "Black"
+    },
+    "answer": "D",
+    "explanation": "A red rose reflects only red light. In blue light, there is no red to reflect, so it absorbs the blue light and appears black."
+  },
+  {
+    "question": "The eclipse of the sun occurs when the",
+    "option": [
+      "A. moon’s umbra falls on some part of the earth",
+      "B. moon is between the sun and the earth",
+      "C. earth is between the sun and the moon",
+      "D. moon is not completely hidden in the earth’s shadow."
+    ],
+    "answer": "B",
+    "explanation": "A solar eclipse occurs when the Moon passes between the Earth and the Sun, blocking the Sun's light."
+  },
+  {
+    "option": {
+      "a": "15 s",
+      "b": "20 s",
+      "c": "10 s",
+      "d": "12 s"
+    },
+    "answer": "A",
+    "explanation": "$t = \\frac{d}{v} = \\frac{4950}{333} \\approx 14.86\\text{ s}$, which rounds to 15 s."
+  },
+  {
+    "option": {
+      "a": "14 cm",
+      "b": "10cm",
+      "c": "25 cm",
+      "d": "26cm."
+    },
+    "answer": "B",
+    "explanation": "$m = 3 \\implies v = -3u$ (virtual image). $\\frac{1}{15} = \\frac{1}{u} - \\frac{1}{3u} = \\frac{2}{3u} \\implies 3u = 30 \\implies u = 10\\text{ cm}$."
+  },
+  {
+    "option": {
+      "a": "2.0",
+      "b": "0.3",
+      "c": "6.0",
+      "d": "3.0."
+    },
+    "answer": "D",
+    "explanation": "Dielectric constant $K = \\frac{C_{dielectric}}{C_{air}} = \\frac{60}{20} = 3.0$."
+  },
+  {
+    "option": {
+      "a": "9.6 A",
+      "b": "14.4 A",
+      "c": "1.0 A",
+      "d": "3.2 A."
+    },
+    "answer": "C",
+    "explanation": "In parallel, voltage is constant. $I = \\frac{V}{R} = \\frac{12}{12} = 1.0\\text{ A}$."
+  },
+  {
+    "option": {
+      "a": "₦24",
+      "b": "₦0.12",
+      "c": "₦12",
+      "d": "₦16."
+    },
+    "answer": "B",
+    "explanation": "Power = $2.5 \\times 2 = 5\\text{ W} = 0.005\\text{ kW}$. Energy = $0.005 \\times 6 = 0.03\\text{ kWh}$. Cost = $0.03 \\times 4 = ₦0.12$."
+  },
+  {
+    "option": {
+      "a": "q/(4πε₀r²)",
+      "b": "q/(4πε₀r)",
+      "c": "q/(4πε₀r²) (with 2 in num)",
+      "d": "q/(4πε₀r) (with 2)"
+    },
+    "answer": "B",
+    "explanation": "Electric potential $V$ at distance $r$ is defined as $V = \\frac{q}{4\\pi\\epsilon_0 r}$."
+  },
+  {
+    "option": {
+      "a": "6 V, 0.7 Ω",
+      "b": "6 V, 6.0 Ω",
+      "c": "2 V, 0.7 Ω",
+      "d": "2 V, 6.0 Ω"
+    },
+    "answer": "C",
+    "explanation": "Parallel cells: Total EMF remains $2\\text{V}$. Total internal resistance $r_T = \\frac{r}{n} = \\frac{2}{3} \\approx 0.7\\Omega$."
+  },
+  {
+    "option": {
+      "a": "each appliance gets the full supply voltage",
+      "b": "parallel connection does not heat up the wires",
+      "c": "series connection uses high voltage",
+      "d": "less current will be used."
+    },
+    "answer": "A",
+    "explanation": "Parallel connection ensures every appliance receives the full mains voltage and operates independently."
+  },
+  {
+    "option": {
+      "a": "3:5",
+      "b": "5:3",
+      "c": "2:9",
+      "d": "9:2"
+    },
+    "answer": "C",
+    "explanation": "Series: $R=15, P_s = \\frac{24^2}{15} = 38.4$. Parallel: $R=3.33, P_p = \\frac{24^2}{3.33} = 172.8$. Ratio $38.4 : 172.8 = 2:9$."
+  },
+  {
+    "option": {
+      "a": "The impure metal is the anode",
+      "b": "X is the anode and very high current is used",
+      "c": "X is the cathode and Y is the anode",
+      "d": "Y is the cathode and X is the anode"
+    },
+    "answer": "A",
+    "explanation": "In electrolytic purification, the impure metal is always made the anode, and the pure metal is deposited at the cathode."
+  },
+  {
+    "option": {
+      "a": "6.93 x 10⁴ s",
+      "b": "6.93 x 10⁻⁶ s",
+      "c": "6.93 x 10⁻⁵ s",
+      "d": "6.93 x 10⁵ s"
+    },
+    "answer": "A",
+    "explanation": "$T_{1/2} = \\frac{0.693}{\\lambda} = \\frac{0.693}{10^{-5}} = 6.93 \\times 10^4\\text{ s}$."
+  },
+  {
+    "option": {
+      "a": "It can easily be magnetized and demagnetized",
+      "b": "It cannot retain its magnetism longer than iron",
+      "c": "It can be used for making temporary magnets",
+      "d": "It can be used for making permanent magnets."
+    },
+    "answer": "D",
+    "explanation": "Steel is a hard magnetic material, meaning it retains its magnetism well, making it suitable for permanent magnets."
+  },
+  {
+    "option": {
+      "a": "8.85 x 10⁻¹⁸ J",
+      "b": "8.58 x 10⁻¹⁹ J",
+      "c": "8.58 x 10⁻¹⁵ J",
+      "d": "8.58 x 10⁻¹⁷ J"
+    },
+    "answer": "B",
+    "explanation": "Work function $\\Phi = h f_0 = 6.6 \\times 10^{-34} \\times 1.3 \\times 10^{15} = 8.58 \\times 10^{-19}\\text{ J}$."
+  },
+  {
+    "option": {
+      "a": "1/√2",
+      "b": "√2",
+      "c": "2",
+      "d": "1/2"
+    },
+    "answer": "A",
+    "explanation": "$I_{rms} = \\frac{I_{peak}}{\\sqrt{2}}$. The ratio is $1 : \\sqrt{2}$."
+  },
+  {
+    "option": {
+      "a": "600 J",
+      "b": "500 J",
+      "c": "50 J",
+      "d": "133 J."
+    },
+    "answer": "A",
+    "explanation": "$L_{total} = 12\\text{H}$. Energy $= \\frac{1}{2} L I^2 = 0.5 \\times 12 \\times 10^2 = 600\\text{ J}$."
+  },
+  {
+    "option": {
+      "a": "High pressure and high p.d",
+      "b": "Low pressure and low p.d",
+      "c": "Low pressure and high p.d",
+      "d": "High pressure and low p.d"
+    },
+    "answer": "C",
+    "explanation": "Gas discharge (conduction) occurs effectively at low pressure and high potential difference."
+  },
+  {
+    "option": {
+      "a": "hot wire ammeter",
+      "b": "d.c. ammeter",
+      "c": "moving coil ammeter",
+      "d": "moving iron ammeter."
+    },
+    "answer": "A",
+    "explanation": "Hot-wire ammeters work on the heating effect of current ($I^2R$), making them independent of frequency."
+  },
+  {
+    "option": {
+      "a": "electrovalent",
+      "b": "covalent",
+      "c": "ionic",
+      "d": "dative."
+    },
+    "answer": "B",
+    "explanation": "Silicon and Germanium are Group IV elements; they form covalent bonds by sharing electrons."
+  },
+  {
+    "option": {
+      "a": "Electrolyte",
+      "b": "Water",
+      "c": "Metals",
+      "d": "Wood."
+    },
+    "answer": "C",
+    "explanation": "Metals have a positive temperature coefficient, meaning their resistance increases as temperature rises."
+  },
+  {
+    "option": {
+      "a": "doping",
+      "b": "saturation",
+      "c": "bonding",
+      "d": "amplification."
+    },
+    "answer": "A",
+    "explanation": "Doping is the process of adding specific impurities to a semiconductor to change its conductivity."
+  },
+  {
+    "option": {
+      "a": "slantingly towards the left on the markings",
+      "b": "slantingly towards the right on the markings",
+      "c": "vertically downwards on the markings",
+      "d": "vertically upwards on the markings."
+    },
+    "answer": "C",
+    "explanation": "Focusing vertically downwards ensures the line of sight is perpendicular to the scale, eliminating parallax."
+  },
+  {
+    "option": {
+      "a": "1524N",
+      "b": "1350N",
+      "c": "1260N",
+      "d": "1061N"
+    },
+    "answer": "D",
+    "explanation": "At uniform speed, Frictional Force = Horizontal component of tension. $F = 1500 \\times \\cos 45^\\circ = 1500 \\times 0.707 = 1061\\text{ N}$."
+  },
+  {
+    "option": {
+      "a": "Deceleration.",
+      "b": "Initial velocity.",
+      "c": "Total distance travelled.",
+      "d": "Initial acceleration"
+    },
+    "answer": "D",
+    "explanation": "Initial acceleration cannot be determined directly from a graph starting with constant velocity or a specific initial state without a slope at $t=0$."
+  },
+  {
+    "option": {
+      "a": "5500m",
+      "b": "4500m",
+      "c": "4200m",
+      "d": "3000m."
+    },
+    "answer": "B",
+    "explanation": "Using $v^2 = u^2 + 2as$: $0 = 30^2 + 2(-0.1)s \\implies 0.2s = 900 \\implies s = 4500\\text{ m}$."
+  },
+  {
+    "option": {
+      "a": "6km",
+      "b": "12km",
+      "c": "18km",
+      "d": "24km."
+    },
+    "answer": "A",
+    "explanation": "$s = ut + \\frac{1}{2}at^2 = 0 + 0.5 \\times 30 \\times 20^2 = 15 \\times 400 = 6000\\text{ m} = 6\\text{ km}$."
+  },
+  {
+    "option": {
+      "a": "increase as distance reduces",
+      "b": "increase as G varies",
+      "c": "remains constant",
+      "d": "decrease as distance r increases"
+    },
+    "answer": "D",
+    "explanation": "Newton's law states $F \\propto 1/r^2$. As distance $r$ increases, the gravitational force $F$ decreases."
+  },
+  {
+    "option": {
+      "a": "acceleration is directly proportional to the displacement",
+      "b": "motion is directed away from the equilibrium point",
+      "c": "acceleration is directly proportional to the square of the displacement",
+      "d": "velocity is minimum at the equilibrium point."
+    },
+    "answer": "A",
+    "explanation": "In Simple Harmonic Motion, the restoring force (and thus acceleration) is directly proportional to the displacement from equilibrium."
+  },
+  {
+    "option": {
+      "a": "8 rads⁻¹",
+      "b": "4 rads⁻¹",
+      "c": "2 rads⁻¹",
+      "d": "1 rads⁻¹"
+    },
+    "answer": "C",
+    "explanation": "$\\omega = \\frac{v}{r} = \\frac{1}{0.5} = 2\\text{ rad/s}$."
+  },
+  {
+    "option": {
+      "a": "sin α",
+      "b": "tan α",
+      "c": "cot α",
+      "d": "cos α"
+    },
+    "answer": "B",
+    "explanation": "At the point of sliding, the component of weight down the plane equals friction ($mg \\sin\\alpha = \\mu mg \\cos\\alpha$), so $\\mu = \\tan\\alpha$."
+  },
+  {
+    "option": {
+      "a": "0.2",
+      "b": "0.3",
+      "c": "0.5",
+      "d": "0.6"
+    },
+    "answer": "D",
+    "explanation": "$\\mu = \\tan 30^\\circ = \\frac{1}{\\sqrt{3}} \\approx 0.577$, which rounds to 0.6."
+  },
+  {
+    "option": {
+      "a": "62.5%",
+      "b": "73.3%",
+      "c": "33.3%",
+      "d": "94.3%"
+    },
+    "answer": "C",
+    "explanation": "Work Output = $25 \\times 30 = 750\\text{ J}$. Work Input = Work Output + Friction = $750 + 1500 = 2250\\text{ J}$. Efficiency = $\\frac{750}{2250} \\times 100 = 33.3\\%$."
+  },
+  {
+    "option": {
+      "a": "866 Nm⁻¹",
+      "b": "833 Nm⁻¹",
+      "c": "769 Nm⁻¹",
+      "d": "667 Nm⁻¹"
+    },
+    "answer": "B",
+    "explanation": "$k = \\frac{F}{e} = \\frac{1 \\times 10}{0.012} = 833.3\\text{ Nm}^{-1}$."
+  },
+  {
+    "option": {
+      "a": "20 N",
+      "b": "10 N",
+      "c": "2 N",
+      "d": "1 N"
+    },
+    "answer": "B",
+    "explanation": "Apparent weight = Actual weight ($mg$) - Upthrust ($V \\rho g$). Actual weight = $2 \\times 10 = 20\\text{ N}$. Upthrust = $1 \\times 1 \\times 10 = 10\\text{ N}$. Apparent weight = $20 - 10 = 10\\text{ N}$."
+  },
+  {
+    "option": {
+      "a": "depth and the density",
+      "b": "mass and the volume",
+      "c": "quantity and the surface area",
+      "d": "surface area and the viscosity."
+    },
+    "answer": "A",
+    "explanation": "Hydrostatic pressure is given by the formula $P = \\rho gh$, where $\\rho$ is the density of the liquid and $h$ is the depth. It is independent of the shape or surface area of the container."
+  },
+  {
+    "option": {
+      "a": "3000N",
+      "b": "3800N",
+      "c": "3900N",
+      "d": "4200N"
+    },
+    "answer": "C",
+    "explanation": "Upthrust equals the weight of the fluid displaced. Upthrust = $V_{balloon} \\times \\rho_{air} \\times g = 300 \\times 1.3 \\times 10 = 3900\\text{ N}$."
+  },
+  {
+    "option": {
+      "a": "pressure gas thermometer",
+      "b": "resistance thermometer",
+      "c": "alcohol thermometer",
+      "d": "mercury-in-glass thermometer."
+    },
+    "answer": "D",
+    "explanation": "Clinical thermometers typically use mercury in glass because mercury has a high boiling point and expands linearly with temperature. They also feature a constriction to prevent mercury from flowing back into the bulb immediately."
+  },
+  {
+    "option": {
+      "a": "1:2",
+      "b": "2:1",
+      "c": "8:9",
+      "d": "9:8"
+    },
+    "answer": "A",
+    "explanation": "Increase in length $\\Delta L = L \\alpha \\Delta T$. The ratio $\\frac{\\Delta L_P}{\\Delta L_Q} = \\frac{L_P \\alpha_P \\Delta T}{L_Q \\alpha_Q \\Delta T} = \\frac{3}{4} \\times \\frac{2}{3} = \\frac{6}{12} = 1:2$."
+  },
+  {
+    "option": {
+      "a": "1896.5cm³",
+      "b": "1767.3cm³",
+      "c": "1676.3cm³",
+      "d": "1456.5cm³"
+    },
+    "answer": "B",
+    "explanation": "Using the combined gas law $\\frac{P_1V_1}{T_1} = \\frac{P_2V_2}{T_2}$: $V_2 = \\frac{700 \\times 2000 \\times 273}{300 \\times 760} \\approx 1676.3\\text{cm}^3$. Note: There may be a discrepancy in the provided key (B vs C) based on standard STP values."
+  },
+  {
+    "option": {
+      "a": "12.1°C",
+      "b": "2.1°C",
+      "c": "1.2°C",
+      "d": "0.1°C"
+    },
+    "answer": "C",
+    "explanation": "Using $Q = mc\\Delta T$: $\\Delta T = \\frac{500}{0.1 \\times 4200} = \\frac{500}{420} \\approx 1.19\\text{ } ^\\circ C$, which rounds to 1.2°C."
+  },
+  {
+    "option": {
+      "a": "Increase in the pressure of the atmosphere",
+      "b": "Rise in temperature",
+      "c": "Increase in the average speed of the molecules of water",
+      "d": "Increase in the kinetic energy of the molecules of water."
+    },
+    "answer": "A",
+    "explanation": "Increasing atmospheric pressure makes it harder for water molecules to escape the surface, thereby decreasing the rate of evaporation."
+  },
+  {
+    "option": {
+      "a": "4.13 x 10⁵ J",
+      "b": "4.13 x 10⁵ J",
+      "c": "3.56 x 10⁴ J",
+      "d": "3.56 x 10² J"
+    },
+    "answer": "A",
+    "explanation": "Total Heat = Heat to warm ice to 0°C + Heat to melt ice. $Q = (1 \\times 2100 \\times 30) + (1 \\times 3.5 \\times 10^5) = 63000 + 350000 = 413,000\\text{ J} = 4.13 \\times 10^5\\text{ J}$."
+  },
+  {
+    "option": {
+      "a": "I, II and III",
+      "b": "II, III and IV only",
+      "c": "I, III and IV only",
+      "d": "I, II and IV only"
+    },
+    "answer": "D",
+    "explanation": "Brownian motion occurs in both liquids and gases. Statement III is incorrect because it is not limited to gases. Statements I, II, and IV correctly describe the nature and implications of the motion."
+  },
+  {
+    "option": {
+      "a": "60m",
+      "b": "15m",
+      "c": "5m",
+      "d": "2m"
+    },
+    "answer": "C",
+    "explanation": "The general wave equation is $y = A \\sin(\\frac{2\\pi}{\\lambda}(vt - x))$. Comparing this to the given equation, $\\lambda = 5\\text{ m}$."
+  },
+  {
+    "option": {
+      "a": "2πx/λ",
+      "b": "x/λ",
+      "c": "−λ/2x",
+      "d": "λ/x"
+    },
+    "answer": "A",
+    "explanation": "Phase difference $\\phi$ is related to path difference $x$ by the formula $\\phi = \\frac{2\\pi x}{\\lambda}$."
+  },
+  {
+    "option": {
+      "a": "An increase in the pitch of the sound",
+      "b": "An increase in the loudness of the sound",
+      "c": "Wind travelling in the same direction of the sound",
+      "d": "A change in the atmospheric pressure at constant temperature."
+    },
+    "answer": "C",
+    "explanation": "Wind speed adds to or subtracts from the velocity of sound relative to the ground. Pitch and loudness do not change the speed, and pressure changes do not affect sound speed if temperature remains constant."
+  },
+  {
+    "option": {
+      "a": "Frequency",
+      "b": "Overtone",
+      "c": "Wavelength",
+      "d": "Amplitude"
+    },
+    "answer": "D",
+    "explanation": "Intensity of a wave is directly proportional to the square of its amplitude. Higher amplitude leads to a louder or more intense sound."
+  },
+  {
+    "option": {
+      "a": "between the centre of curvature and the principle focus",
+      "b": "at principle focus",
+      "c": "between the principle focus and the pole",
+      "d": "At the centre of the curvature"
+    },
+    "answer": "C",
+    "explanation": "When an object is placed between the principal focus and the pole of a concave mirror, it produces a virtual, erect, and magnified image."
+  },
+  {
+    "option": {
+      "a": "25m",
+      "b": "50m",
+      "c": "100m",
+      "d": "150m"
+    },
+    "answer": "D",
+    "explanation": "Using the magnification formula $\\frac{h_i}{h_o} = \\frac{v}{u}$: $\\frac{2.5}{h_o} = \\frac{5}{30000}$ (converting meters to cm). $h_o = \\frac{2.5 \\times 30000}{5} = 15000\\text{ cm} = 150\\text{ m}$."
+  },
+  {
+    "option": {
+      "a": "6.0",
+      "b": "1.0",
+      "c": "0.7",
+      "d": "0.6"
+    },
+    "answer": "B",
+    "explanation": "A plane mirror always produces an image that is the same size as the object, resulting in a magnification of exactly 1.0."
+  },
+  {
+    "option": {
+      "a": "At the radius of curvature",
+      "b": "At the focus",
+      "c": "Beyond the radius of curvature",
+      "d": "Between the focus and radius of curvature"
+    },
+    "answer": "B",
+    "explanation": "Rays coming from the sun are considered parallel. Parallel rays incident on a concave mirror always converge at the principal focus after reflection."
+  },
+  {
+    "option": {
+      "a": "3.33cm",
+      "b": "5.00cm",
+      "c": "6.67cm",
+      "d": "8.50cm"
+    },
+    "answer": "A",
+    "explanation": "Displacement (apparent shift) = $t(1 - \\frac{1}{n})$. Using the refractive index of glass ($n = 1.5$): $10(1 - \\frac{1}{1.5}) = 10(1 - \\frac{2}{3}) = 10 \\times \\frac{1}{3} = 3.33\\text{ cm}$."
+  },
+  {
+    "option": {
+      "a": "I & II only",
+      "b": "I & III only",
+      "c": "II & III only",
+      "d": "II only"
+    },
+    "answer": "C",
+    "explanation": "Total Internal Reflection (TIR) occurs when light travels from a denser to a rarer medium and the angle of incidence exceeds the critical angle."
+  },
+  {
+    "question": "The use of lenses is NOT applicable in the",
+    "option": {
+      "a": "projector",
+      "b": "human eye",
+      "c": "periscope",
+      "d": "telescope"
+    },
+    "answer": "C",
+    "explanation": "A simple periscope typically uses two plane mirrors at a 45-degree angle. While advanced perisopes use prisms and lenses, the standard periscope model taught in basic physics is lens-free."
+  },
+  {
+    "question": "Dispersion of white light is the ability of white light to",
+    "option": {
+      "a": "Penetrate air, water and glass",
+      "b": "Move in a straight line",
+      "c": "Move around corners",
+      "d": "Separate to its component colours"
+    },
+    "answer": "D",
+    "explanation": "Dispersion occurs when white light passes through a prism and splits into its constituent spectrum (red, orange, yellow, green, blue, indigo, violet) due to different wavelengths refracting at different angles."
+  },
+  {
+    "question": "A newly charged 12V accumulator can easily start a car whereas eight new dry cells in series with an effective e.m.f. of 12V cannot start the same car because",
+    "option": {
+      "a": "The current capacity is high",
+      "b": "The current capacity is low",
+      "c": "series connection uses high voltage",
+      "d": "less current will be used."
+    },
+    "answer": "B",
+    "explanation": "Starting a car requires a very high current. Dry cells have a high internal resistance compared to an accumulator, which limits their current capacity despite having the same total EMF."
+  }
+
+]

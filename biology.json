@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Which organelle is known as the 'powerhouse of the cell'?",
+    "option": { "a": "Nucleus", "b": "Ribosome", "c": "Mitochondrion", "d": "Golgi apparatus" },
+    "answer": "c",
+    "explanation": "Mitochondria produce ATP via cellular respiration, supplying energy for the cell."
+  },
+  {
+    "question": "The process by which plants make food using sunlight is called:",
+    "option": { "a": "Respiration", "b": "Transpiration", "c": "Photosynthesis", "d": "Digestion" },
+    "answer": "c",
+    "explanation": "Photosynthesis: 6CO₂ + 6H₂O + light energy → C₆H₁₂O₆ + 6O₂."
+  },
+  {
+    "question": "Which blood group is the universal donor?",
+    "option": { "a": "A", "b": "B", "c": "AB", "d": "O" },
+    "answer": "d",
+    "explanation": "Blood group O has no A or B antigens, so it can be donated to any ABO blood group recipient."
+  },
+  {
+    "question": "The basic structural and functional unit of the kidney is the:",
+    "option": { "a": "Neuron", "b": "Nephron", "c": "Alveolus", "d": "Villus" },
+    "answer": "b",
+    "explanation": "Each nephron filters blood and produces urine through a series of tubular processes."
+  },
+  {
+    "question": "Which of the following vitamins is produced in the skin on exposure to sunlight?",
+    "option": { "a": "Vitamin A", "b": "Vitamin B12", "c": "Vitamin C", "d": "Vitamin D" },
+    "answer": "d",
+    "explanation": "UV radiation from sunlight triggers the synthesis of Vitamin D₃ (cholecalciferol) in the skin."
+  }
+]

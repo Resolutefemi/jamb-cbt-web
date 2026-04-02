@@ -1,0 +1,32 @@
+[
+  {
+    "question": "What is the atomic number of Carbon?",
+    "option": { "a": "4", "b": "6", "c": "8", "d": "12" },
+    "answer": "b",
+    "explanation": "Carbon has 6 protons, giving it an atomic number of 6."
+  },
+  {
+    "question": "Which of the following is an example of a physical change?",
+    "option": { "a": "Burning wood", "b": "Rusting iron", "c": "Melting ice", "d": "Digesting food" },
+    "answer": "c",
+    "explanation": "Melting ice is a physical change — the water molecule (H₂O) is unchanged, only the state changes."
+  },
+  {
+    "question": "The pH of a neutral solution at 25°C is:",
+    "option": { "a": "0", "b": "7", "c": "14", "d": "1" },
+    "answer": "b",
+    "explanation": "At 25°C, a neutral solution has equal concentrations of H⁺ and OH⁻, giving pH = 7."
+  },
+  {
+    "question": "Which gas is produced when zinc reacts with dilute hydrochloric acid?",
+    "option": { "a": "Oxygen", "b": "Chlorine", "c": "Hydrogen", "d": "Nitrogen" },
+    "answer": "c",
+    "explanation": "Zn + 2HCl → ZnCl₂ + H₂↑. Hydrogen gas is liberated."
+  },
+  {
+    "question": "Which of the following is a noble gas?",
+    "option": { "a": "Nitrogen", "b": "Oxygen", "c": "Fluorine", "d": "Argon" },
+    "answer": "d",
+    "explanation": "Argon (Ar) is in Group 18 of the periodic table — the noble gases (inert gases)."
+  }
+]

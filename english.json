@@ -1,0 +1,1099 @@
+﻿[
+  {
+    "question": "Which Use of English Paper Type is given to you?",
+    "option": [
+      "Type A",
+      "Type B",
+      "Type C",
+      "Type D"
+    ],
+    "answer": "Type A",
+    "explanation": "The answer is directly from the answer key on page 10, where question 1 is answered as 'A'."
+  },
+  {
+    "question": "According to the writer, the exciting thing about Spaceship Earth is that",
+    "option": [
+      "has no instruction manual",
+      "it is not difficult to maintain",
+      "is peculiar to other automobiles",
+      "is relatively easy to operate"
+    ],
+    "answer": "has no instruction manual",
+    "explanation": "The passage states, 'Now there is one outstanding important fact regarding Spaceship Earth, and this is that no instruction book came with it.'"
+  },
+  {
+    "question": "The absence of instruction manual in Spaceship Earth has",
+    "option": [
+      "made the operation of the Spaceship Earth difficult",
+      "forced man to devise other means of travelling in spacecraft",
+      "challenged man's inquisitiveness",
+      "made man helpless"
+    ],
+    "answer": "challenged man's inquisitiveness",
+    "explanation": "The passage explains that the lack of an instruction manual forced man to devise scientific experimental procedures and learn how to survive, thus challenging his inquisitiveness."
+  },
+  {
+    "question": "From the passage, it can be deduced that man",
+    "option": [
+      "learns by experiment and education",
+      "learns by chance and accidentally",
+      "is incapable of solving all his problems",
+      "by his nature is in constant search of knowledge"
+    ],
+    "answer": "by his nature is in constant search of knowledge",
+    "explanation": "The passage describes how man was forced to learn and discover principles, indicating a constant search for knowledge driven by the need to survive."
+  },
+  {
+    "question": "The writer's mood in the passage is that of",
+    "option": [
+      "non-committal",
+      "pessimism",
+      "optimism",
+      "frustration"
+    ],
+    "answer": "optimism",
+    "explanation": "The writer presents the lack of an instruction book as a deliberate and purposeful design that has forced man to learn and grow, which is an optimistic view."
+  },
+  {
+    "question": "The expression, ... stress is an issue everybody can relate to experimentally, means that",
+    "option": [
+      "it is better understood when experienced",
+      "its problem can be solved by everybody",
+      "everybody avoids it",
+      "everybody encounters it."
+    ],
+    "answer": "everybody encounters it.",
+    "explanation": "The phrase 'can relate to' means they have personal experience or understanding of it, implying everyone encounters stress."
+  },
+  {
+    "question": "Which of the following is true according to the passage?",
+    "option": [
+      "Stress is mostly caused by internal factors",
+      "Stress can only be avoided during relaxation",
+      "Stress is better handled by the individual",
+      "The issues of stress can be solved with no effort"
+    ],
+    "answer": "Stress can only be avoided during relaxation",
+    "explanation": "The passage discusses the 'relaxation response' as a state where the physiologic events of stress are reversed, indicating stress is avoided during relaxation. (Note: This is the best match based on the provided answer key. The text states stress is mostly self-generated, making internal factors a major cause, but 'A' is not listed as the correct answer in the key)."
+  },
+  {
+    "question": "According to the passage, the major step in controlling stress is",
+    "option": [
+      "changing one's attitude to stressors",
+      "understanding the history of disease",
+      "visiting family doctors for check-up and treatment",
+      "constant exercise to dissipate every energy"
+    ],
+    "answer": "changing one's attitude to stressors",
+    "explanation": "The passage states, 'To master stress- change, you have to figure out what you are doing that is contributing to your problem and change it. These changes fall into behaviour, thinking, lifestyle choices...' which is a change in attitude."
+  },
+  {
+    "question": "The experts feel one can control one's stress because",
+    "option": [
+      "its causes are understandable",
+      "it is not difficult to control",
+      "external factors contribute less stress",
+      "it is individually initiated"
+    ],
+    "answer": "it is individually initiated",
+    "explanation": "The passage says, 'Experts tell us that we create the majority of our upset... because we cause most of our own stress, we can do something about it.'"
+  },
+  {
+    "question": "From the passage, it can be deduced that stress is",
+    "option": [
+      "hormonal disorder in the body system",
+      "individually induced problems",
+      "bodily reaction to internal factors",
+      "bodily reaction to external factors"
+    ],
+    "answer": "bodily reaction to internal factors",
+    "explanation": "While stress is a bodily reaction, the passage emphasizes that 'most of the stress people experience is self- generated,' making it a reaction to internal factors."
+  },
+  {
+    "question": "According to the writer, corruption is triggered off by",
+    "option": [
+      "unnecessary affluence",
+      "selfish interest",
+      "private officials",
+      "public officers"
+    ],
+    "answer": "unnecessary affluence",
+    "explanation": "The passage states, 'One of them is the affluent living habit of the public official compared to his / her income. Corruption occurs when a public official expects to be induced...'"
+  },
+  {
+    "question": "From the passage, one of the consequences of corruption is that",
+    "option": [
+      "large projects are executed",
+      "it is beneficial to wealth people whole stole public wealth",
+      "it impedes the progress of a nation",
+      "people get what they want with so much money to spend"
+    ],
+    "answer": "it impedes the progress of a nation",
+    "explanation": "The passage mentions that corruption can 'slow down development' and 'distortion of governmental expenditure', which impedes progress."
+  },
+  {
+    "question": "Who, according to the writer should prevent corruption?",
+    "option": [
+      "Lawyers and Police",
+      "Corrupt public officers",
+      "The government",
+      "The people"
+    ],
+    "answer": "The government",
+    "explanation": "The passage discusses 'raising the ethical standard of governance' and 'redesigning political and regulatory structures,' implying the government has a key role in prevention."
+  },
+  {
+    "question": "Which of the following is an indication of ethical standard of governance?",
+    "option": [
+      "Fundamental human right",
+      "Socio-economic instability",
+      "Democratic governance",
+      "Bloated expenditure"
+    ],
+    "answer": "Democratic governance",
+    "explanation": "The passage links fighting corruption to promoting good governance and development, implying that democratic governance would be an indicator of higher ethical standards."
+  },
+  {
+    "question": "The essence of fighting corruption, according to the passage, is to",
+    "option": [
+      "send the corrupt to yell",
+      "promote good governance",
+      "punish corrupt politicians",
+      "make people richer"
+    ],
+    "answer": "promote good governance",
+    "explanation": "The passage states, 'Fighting corruption and promoting governance is therefore crucial to developing an environment that facilitates the social, political and economic development of the people.'"
+  },
+  {
+    "question": "Drought is a word that invokes strong emotions. This is not surprising as the ... 16 ... [A. ideology B. phenomenon C. idea D. component] is usually accompanied by a number of unpleasant developments.",
+    "option": [
+      "ideology",
+      "phenomenon",
+      "idea",
+      "component"
+    ],
+    "answer": "phenomenon",
+    "explanation": "A drought is a natural 'phenomenon,' which is an observable event or fact. The other options are not suitable for describing a natural occurrence like drought."
+  },
+  {
+    "question": "These developments have ... 17 ... [A. feedback B. Results C. Implications D. outcomes] for all citizens, starting from the peasant farmers to the state and federal governments...",
+    "option": [
+      "feedback",
+      "Results",
+      "Implications",
+      "outcomes"
+    ],
+    "answer": "Implications",
+    "explanation": "The word 'implications' refers to the possible consequences or effects of the developments, which fits the context of impacting various levels of society."
+  },
+  {
+    "question": "...which, if not successfully ...18... [A. managed B. examined D. studied] could result in social unrest.",
+    "option": [
+      "managed",
+      "examined",
+      "studied"
+    ],
+    "answer": "managed",
+    "explanation": "In the context of a crisis or emergency, the appropriate verb is 'managed,' meaning to handle or control the situation effectively."
+  },
+  {
+    "question": "The timeliness of the onset of the rains in various regions of the country and their adequate distribution thereafter have become ...19... [A. objects B. subjects C. issues D. topics] of considerable anxiety to all people.",
+    "option": [
+      "objects",
+      "subjects",
+      "issues",
+      "topics"
+    ],
+    "answer": "subjects",
+    "explanation": "The correct phrase is 'subjects of considerable anxiety,' where 'subjects' refers to the topics or focuses of a particular feeling or situation."
+  },
+  {
+    "question": "The fact, however, is that periodic reduction in normal ...20... [A. amount B. supply C. size D. flood] of rainfall in the country is not new.",
+    "option": [
+      "amount",
+      "supply",
+      "size",
+      "flood"
+    ],
+    "answer": "supply",
+    "explanation": "In the context of rainfall, the term 'supply' is most appropriate, as we talk about the supply of water or rainfall."
+  },
+  {
+    "question": "Since large areas of the country are drought prone, the consequences are ...21... [A. effective B. disastrous C. evident D. inevitable ].",
+    "option": [
+      "effective",
+      "disastrous",
+      "evident",
+      "inevitable"
+    ],
+    "answer": "inevitable",
+    "explanation": "If an area is 'drought prone,' it means it is susceptible to drought, so the consequences are 'inevitable' or unavoidable."
+  },
+  {
+    "question": "There are two aspects of coping with drought. One has to do with emergency measures and the other with ...22... [A. routine B. organized C. urgent D. delayed] measures.",
+    "option": [
+      "routine",
+      "organized",
+      "urgent",
+      "delayed"
+    ],
+    "answer": "routine",
+    "explanation": "Emergency measures are for immediate crises. The contrasting type of measure would be 'routine' or long-term, systematic ones."
+  },
+  {
+    "question": "In addition, where whole populations are forced to abandon their lands or pastures in search of food, there are bound to be other lasting and ...23... [A. longitudinal B. objective C. simultaneous D. parallel ] consequences such as distress, sales of cattle by livestock owners...",
+    "option": [
+      "longitudinal",
+      "objective",
+      "simultaneous",
+      "parallel"
+    ],
+    "answer": "parallel",
+    "explanation": "The consequences (distress, sale of cattle) occur at the same time as the abandonment, making them 'parallel' events. 'Simultaneous' is a synonym but was not the correct option according to the answer key."
+  },
+  {
+    "question": "Government should provide farmers with agricultural inputs and ensure that they have easy access to these inputs under the relief ...24... [A. action B. process C. scheme D. plan].",
+    "option": [
+      "action",
+      "process",
+      "scheme",
+      "plan"
+    ],
+    "answer": "scheme",
+    "explanation": "A 'relief scheme' is a structured, official program designed to provide aid, which fits the context of government action."
+  },
+  {
+    "question": "Emergency measures will be much more ...25... [A. normal B. correct C. idealistic D. effective] if a mechanism is established to ensure adequate preparedness and defense against the occurrence of drought.",
+    "option": [
+      "normal",
+      "correct",
+      "idealistic",
+      "effective"
+    ],
+    "answer": "effective",
+    "explanation": "The purpose of preparedness is to make emergency measures 'effective' or successful in achieving their goal."
+  },
+  {
+    "question": "Though Mr. Iro is a new chairman, he views other members with jaundiced eye.",
+    "option": [
+      "He takes a rather forceful position on dealing with his members",
+      "He takes an unfavourable position concerning his members",
+      "He takes a sickly view of his members",
+      "He takes a rather hazy view of his members"
+    ],
+    "answer": "He takes an unfavourable position concerning his members",
+    "explanation": "To view something with a 'jaundiced eye' means to look at it with prejudice, bitterness, or a negative, unfavorable attitude."
+  },
+  {
+    "question": "People are not interested in who rules.",
+    "option": [
+      "People are not ruled by the leaders they want",
+      "People are not concerned about who rules them",
+      "The rulers are not concerned about the people",
+      "People who rule are not interested in the ruled"
+    ],
+    "answer": "People are not concerned about who rules them",
+    "explanation": "The sentence is a simple statement of apathy: the people lack interest in the identity of their rulers."
+  },
+  {
+    "question": "It was good to steer a middle course in whatever one does.",
+    "option": [
+      "It is always good to get midway in anything one does",
+      "It is always good to act with moderation",
+      "It is always good to move away from the forefront",
+      "It is always good to work very hard."
+    ],
+    "answer": "It is always good to act with moderation",
+    "explanation": "To 'steer a middle course' is a metaphor meaning to avoid extremes and choose a moderate, balanced path."
+  },
+  {
+    "question": "The witness said he had no axe to grind with his brothers",
+    "option": [
+      "He had no hatred for the brothers",
+      "He had no axe and therefore stole the matchet",
+      "He had no axe and therefore borrowed their matchet",
+      "He had no vested interest in the brothers"
+    ],
+    "answer": "He had no hatred for the brothers",
+    "explanation": "The idiom 'to have an axe to grind' means to have a private or selfish motive, or a grievance. Saying he had none means he had no personal issue or quarrel with them."
+  },
+  {
+    "question": "The footballers moved with their tails between their legs.",
+    "option": [
+      "they moved happily because they won the match",
+      "they were unhappy because they had been despised by their opponents",
+      "they were ashamed because they had been defeated",
+      "they moved with their tails between their legs."
+    ],
+    "answer": "they were ashamed because they had been defeated",
+    "explanation": "The idiom 'with one's tail between one's legs' signifies a state of shame, defeat, or humiliation."
+  },
+  {
+    "question": "The headmaster managed to talk his way out of having to give a speech",
+    "option": [
+      "he delivered a speech despite the difficulty",
+      "he managed to give a speech out of a difficult situation",
+      "he managed to get himself out of a difficult situation",
+      "he managed to talk on his way."
+    ],
+    "answer": "he managed to get himself out of a difficult situation",
+    "explanation": "To 'talk one's way out of' something means to use persuasive language to avoid an obligation or escape a predicament."
+  },
+  {
+    "question": "As regards the matter, we have crossed the rubicon",
+    "option": [
+      "we are completely at a loss",
+      "we are irrevocably committed",
+      "we are already qualified",
+      "we are perfectly committed"
+    ],
+    "answer": "we are irrevocably committed",
+    "explanation": "'Crossing the Rubicon' is a historical idiom that means to pass a point of no return, making a decision that cannot be reversed."
+  },
+  {
+    "question": "Uche is full of himself",
+    "option": [
+      "He is conceited",
+      "He is complete"
+    ],
+    "answer": "He is conceited",
+    "explanation": "To be 'full of oneself' means to be self-absorbed, arrogant, and conceited."
+  },
+  {
+    "question": "As debutants in that tournament, the Super Eagles were up against their first opponents by three goals to nil",
+    "option": [
+      "The Super Eagles were playing in the tournament for the first time, but they won their match by three goals to nothing",
+      "Though the Super Eagles were rated as the weakest side in the tournament, they won their first match by three goals to nil",
+      "Even though the Super Eagles were playing without some of their regulars, they won their match by three goals to nil.",
+      "As the best attackers in the match, the Super Eagles easily defeated their opponents by three goals to nothing."
+    ],
+    "answer": "The Super Eagles were playing in the tournament for the first time, but they won their match by three goals to nothing",
+    "explanation": "A 'debutant' is someone making their first appearance. The phrase 'by three goals to nil' indicates a score of 3-0."
+  },
+  {
+    "question": "The woman was mournful as her husband was found dead drunk",
+    "option": [
+      "She was sad because of her husband was absolutely drunk",
+      "She was apprehensive that her husband would drink again as soon he recovered from the drunken stupor",
+      "She was sad because her husband was drunk and always as helpless as a dead man",
+      "She was mourning because her husband drank and died"
+    ],
+    "answer": "She was sad because her husband was drunk and always as helpless as a dead man",
+    "explanation": "'Dead drunk' is an idiom meaning extremely drunk. The woman was mournful (sad) because of his extreme state of drunkenness."
+  },
+  {
+    "question": "I am optimistic about the interview though it was a mind-bending exercise",
+    "option": [
+      "An enervating",
+      "A debilitating",
+      "A difficult",
+      "An easy"
+    ],
+    "answer": "An easy",
+    "explanation": "The question asks for the opposite of 'mind-bending' (which means mentally challenging or complex). 'Easy' is the most direct antonym."
+  },
+  {
+    "question": "The trader was amused by the cut-throat rush for the goods",
+    "option": [
+      "Worrisome",
+      "Strange",
+      "Lacklustre",
+      "Mad"
+    ],
+    "answer": "Lacklustre",
+    "explanation": "'Cut-throat' in this context means fiercely competitive and ruthless. The opposite would be 'lacklustre', meaning dull, unenthusiastic, or not competitive."
+  },
+  {
+    "question": "The teacher said that Ali's essay was full of many redundant details",
+    "option": [
+      "Unexplained",
+      "Strange",
+      "Necessary",
+      "Useful"
+    ],
+    "answer": "Necessary",
+    "explanation": "'Redundant' means unnecessary or superfluous. Its opposite is 'necessary' or 'essential'."
+  },
+  {
+    "question": "His father surmounted the myriad of obstacles on his way",
+    "option": [
+      "Most",
+      "Few",
+      "All",
+      "Many"
+    ],
+    "answer": "Few",
+    "explanation": "'Myriad' means a countless or extremely large number. The opposite is a small number, such as 'few'."
+  },
+  {
+    "question": "Her ingenuous smile drew our attention",
+    "option": [
+      "Witty",
+      "Naive",
+      "Clever",
+      "Arrogant"
+    ],
+    "answer": "Arrogant",
+    "explanation": "'Ingenuous' means innocent, naive, and artless. The opposite is 'arrogant' (or perhaps 'disingenuous'), which suggests a lack of innocence or a cunning nature."
+  },
+  {
+    "question": "Ndeni gave a flawless speech at the party",
+    "option": [
+      "A wonderful",
+      "A careless",
+      "An interesting",
+      "An imperfect"
+    ],
+    "answer": "An imperfect",
+    "explanation": "'Flawless' means perfect, without any mistakes or imperfections. Its opposite is 'imperfect'."
+  },
+  {
+    "question": "Beneath Ado's guff exterior, he's really very kind- hearted",
+    "option": [
+      "Nice",
+      "Harsh",
+      "Rough",
+      "Gentle"
+    ],
+    "answer": "Gentle",
+    "explanation": "'Gruff' (likely 'guff' was a typo in the original) means rough, harsh, or curt in manner. The opposite is 'gentle'."
+  },
+  {
+    "question": "The captain says sports is being debased by commercial sponsorship",
+    "option": [
+      "Localized",
+      "Perverted",
+      "Elevated",
+      "Overvalued"
+    ],
+    "answer": "Elevated",
+    "explanation": "To 'debase' something means to lower its quality, value, or dignity. The opposite is to 'elevate' it."
+  },
+  {
+    "question": "Governing a country is not always as straightforward as people sometimes imagine",
+    "option": [
+      "Complicated",
+      "Troublesome",
+      "Untoward",
+      "Irksome"
+    ],
+    "answer": "Complicated",
+    "explanation": "'Straightforward' means simple, clear, and uncomplicated. Its opposite is 'complicated'."
+  },
+  {
+    "question": "The crowd was very receptive to the speaker's suggestion",
+    "option": [
+      "Disobedient",
+      "Repellent",
+      "Alert",
+      "Hostile"
+    ],
+    "answer": "Hostile",
+    "explanation": "'Receptive' means willing to consider or accept new ideas. The opposite is 'hostile', meaning opposed or unfriendly."
+  },
+  {
+    "question": "There was a general acquiescence on the new drug law",
+    "option": [
+      "Resistance",
+      "Discrepancy",
+      "Compromise",
+      "Agreement"
+    ],
+    "answer": "Resistance",
+    "explanation": "'Acquiescence' means passive acceptance or agreement. The opposite is 'resistance'."
+  },
+  {
+    "question": "Aisha seems to feel ambivalent about her future",
+    "option": [
+      "Decisive",
+      "Anxious",
+      "Ambitious",
+      "Inconsiderate"
+    ],
+    "answer": "Decisive",
+    "explanation": "'Ambivalent' means having mixed feelings or contradictory ideas. The opposite is 'decisive', meaning able to make decisions firmly."
+  },
+  {
+    "question": "The report of the committee contained a plethora of details",
+    "option": [
+      "Shortage",
+      "Simplicity",
+      "Multitude",
+      "Spectrum"
+    ],
+    "answer": "Shortage",
+    "explanation": "'Plethora' means an excessive amount or abundance. The opposite is a 'shortage' or lack."
+  },
+  {
+    "question": "The weather was still very heavy and sultry",
+    "option": [
+      "Wintry and shadowy",
+      "Cold and friendly",
+      "Cloudy and thundery",
+      "Hot and uncomfortable"
+    ],
+    "answer": "Cold and friendly",
+    "explanation": "'Sultry' means hot and humid. The opposite would be cold. 'Friendly' is the opposite of the oppressive feeling of sultry weather."
+  },
+  {
+    "question": "Ada gave her husband a look that made words superfluous",
+    "option": [
+      "Redundant",
+      "Spurious",
+      "Unnecessary",
+      "Scanty"
+    ],
+    "answer": "Scanty",
+    "explanation": "The question asks for the opposite. 'Superfluous' means unnecessary or excessive. 'Scanty' means insufficient or meager, which is the opposite."
+  },
+  {
+    "question": "A political Impasse does not offer the best opportunity for merrymaking",
+    "option": [
+      "manifesto",
+      "party",
+      "gridlock",
+      "rally"
+    ],
+    "answer": "gridlock",
+    "explanation": "An 'impasse' is a situation in which no progress is possible, especially because of disagreement; a deadlock or 'gridlock'."
+  },
+  {
+    "question": "We were all enthusiastic as we awaited the result of the election",
+    "option": [
+      "bemused",
+      "agitated",
+      "elated",
+      "nervous"
+    ],
+    "answer": "agitated",
+    "explanation": "'Enthusiastic' means having intense excitement and interest. 'Agitated' is a close synonym, implying a state of nervous excitement or disturbance."
+  },
+  {
+    "question": "The uniform makes the guards look absurd",
+    "option": [
+      "dirty",
+      "smart",
+      "sensible",
+      "ridiculous"
+    ],
+    "answer": "ridiculous",
+    "explanation": "'Absurd' means wildly unreasonable, illogical, or inappropriate; it is synonymous with 'ridiculous'."
+  },
+  {
+    "question": "The law is often tardy in reacting to changing attitude",
+    "option": [
+      "quick",
+      "slow",
+      "exclusive",
+      "generous"
+    ],
+    "answer": "slow",
+    "explanation": "'Tardy' means slow or late. It is nearest in meaning to 'slow'."
+  },
+  {
+    "question": "Isa and Ihu ate sumptuous meal on their brother's wedding day",
+    "option": [
+      "expensive",
+      "foreign",
+      "insipid",
+      "cheap"
+    ],
+    "answer": "expensive",
+    "explanation": "'Sumptuous' means splendid and expensive-looking. It is nearest in meaning to 'expensive'."
+  },
+  {
+    "question": "Kaltume crouched over the paper on her desk",
+    "option": [
+      "wrote on",
+      "stood on",
+      "walked over",
+      "bent over"
+    ],
+    "answer": "bent over",
+    "explanation": "To 'crouch over' something means to bend low, often with the knees bent, to get closer to it. 'Bent over' is a good synonym."
+  },
+  {
+    "question": "The panacea for a country's economic mess lies in systematic planning and hardwork",
+    "option": [
+      "cure",
+      "hope",
+      "foresight",
+      "trouble"
+    ],
+    "answer": "cure",
+    "explanation": "A 'panacea' is a solution or remedy for all difficulties or diseases. It is synonymous with 'cure'."
+  },
+  {
+    "question": "Thousands of workers have been victims of retrenchment since the military came back to power",
+    "option": [
+      "Unemployment",
+      "Trench mentality",
+      "Suffering",
+      "Increase in penny"
+    ],
+    "answer": "Unemployment",
+    "explanation": "'Retrenchment' refers to the reduction of costs, often by laying off employees, which leads to 'unemployment'."
+  },
+  {
+    "question": "The principal gave his speech offhand at the sports meeting",
+    "option": [
+      "calmly",
+      "beautifully",
+      "unconcerned",
+      "unprepared"
+    ],
+    "answer": "unprepared",
+    "explanation": "To do something 'offhand' means to do it without preparation or thought. It is nearest in meaning to 'unprepared'."
+  },
+  {
+    "question": "Jankoli was dressed in an old assortment of clothes",
+    "option": [
+      "Avalanche",
+      "Homogeneity",
+      "Sameness",
+      "Melange"
+    ],
+    "answer": "Melange",
+    "explanation": "An 'assortment' is a miscellaneous collection of things. 'Melange' is a synonym meaning a varied mixture."
+  },
+  {
+    "question": "The girl's father was astounded to see her appear from the shrine",
+    "option": [
+      "collected",
+      "Overwhelmed",
+      "embarrassed",
+      "Astonished"
+    ],
+    "answer": "Astonished",
+    "explanation": "'Astounded' means shocked or greatly surprised, which is a synonym for 'astonished'."
+  },
+  {
+    "question": "The director's remark was extremely apposite to the issue being discussed",
+    "option": [
+      "Appropriate",
+      "Inconsequential",
+      "Emphatic",
+      "Adequate"
+    ],
+    "answer": "Appropriate",
+    "explanation": "'Apposite' means very appropriate or suitable for a particular situation. It is a synonym for 'appropriate'."
+  },
+  {
+    "question": "Her reputation is without a blemish",
+    "option": [
+      "Struggle",
+      "Problem",
+      "Fault",
+      "Blessing"
+    ],
+    "answer": "Fault",
+    "explanation": "A 'blemish' is a mark or fault that spoils the appearance or reputation of someone. It is synonymous with 'fault'."
+  },
+  {
+    "question": "Ugo is eligible for the post of secretary",
+    "option": [
+      "Nominated",
+      "Invited",
+      "Qualified",
+      "Intelligent"
+    ],
+    "answer": "Qualified",
+    "explanation": "To be 'eligible' for a post means to have the necessary qualifications or meet the requirements. It is a synonym for 'qualified'."
+  },
+  {
+    "question": "This is an abridged version of No Longer at Ease",
+    "option": [
+      "An outdated",
+      "An enlarged",
+      "An illustrated",
+      "A shortened"
+    ],
+    "answer": "A shortened",
+    "explanation": "An 'abridged' version of a book is one that has been shortened or condensed. It is a synonym for 'shortened'."
+  },
+  {
+    "question": "Lemoti... as a painter, but also as a sculptor",
+    "option": [
+      "is a gifted only not",
+      "is only not gifted",
+      "is gifted not only",
+      "is only gifted"
+    ],
+    "answer": "is gifted not only",
+    "explanation": "The correct correlative conjunction structure is 'not only... but also'."
+  },
+  {
+    "question": "He can recall the important dates in the nation's history, it is interesting to listen as he rattles",
+    "option": [
+      "off",
+      "over",
+      "up",
+      "out"
+    ],
+    "answer": "off",
+    "explanation": "The phrasal verb 'rattle off' means to say something quickly and easily from memory."
+  },
+  {
+    "question": "The boy told his mother...",
+    "option": [
+      "that was the girl he told her about",
+      "that was the girl I told you about her",
+      "that was the girl I told her about",
+      "that is the girl he told her about"
+    ],
+    "answer": "that was the girl he told her about",
+    "explanation": "This option correctly uses the past tense for reported speech and maintains consistent pronouns (he told her)."
+  },
+  {
+    "question": "Last Monday his father asked me...",
+    "option": [
+      "if I had come some days before",
+      "if I had come the day before",
+      "did you come yesterday",
+      "had I come yesterday"
+    ],
+    "answer": "if I had come the day before",
+    "explanation": "In reported speech, 'yesterday' changes to 'the day before', and the verb tense shifts to past perfect ('had come')."
+  },
+  {
+    "question": "His wife was badly injured in the fracas, but I think she will pull ......",
+    "option": [
+      "up",
+      "over",
+      "through",
+      "back"
+    ],
+    "answer": "through",
+    "explanation": "The phrasal verb 'pull through' means to recover from a serious illness or injury."
+  },
+  {
+    "question": "A wide range of options ...... made available to students in the final year last year",
+    "option": [
+      "is",
+      "were",
+      "are",
+      "was"
+    ],
+    "answer": "was",
+    "explanation": "The subject is 'A wide range', which is singular, and the time marker is 'last year', so the singular past tense 'was' is correct."
+  },
+  {
+    "question": "One of the women who......in the premises ...... been ordered to quit",
+    "option": [
+      "sells/have",
+      "sell/has",
+      "sell/have",
+      "sells/has"
+    ],
+    "answer": "sells/has",
+    "explanation": "The first blank refers to 'the women', so the plural verb 'sell' is needed. The subject for the second blank is 'One', which is singular, so the singular verb 'has' is correct. (Note: The answer key on page 10 shows 'D', which is 'sells/has', but 'sells' is singular. A better analysis would be 'sell/has'.)"
+  },
+  {
+    "question": "The new trade agreement should facilitate ......",
+    "option": [
+      "more economic rapid growth",
+      "economic more rapid growth",
+      "rapid economic more growth",
+      "more rapid economic growth"
+    ],
+    "answer": "more rapid economic growth",
+    "explanation": "The correct order of adjectives is opinion/degree (more), then quality (rapid), then origin/type (economic), then the noun (growth)."
+  },
+  {
+    "question": "The principal said that he was pleased...... my effort.",
+    "option": [
+      "on",
+      "of",
+      "with",
+      "about"
+    ],
+    "answer": "with",
+    "explanation": "The correct preposition to use with 'pleased' when referring to a specific thing or action is 'with'."
+  },
+  {
+    "question": "Paper is made ...... Wood pulp",
+    "option": [
+      "on",
+      "of",
+      "from",
+      "with"
+    ],
+    "answer": "from",
+    "explanation": "'Made from' is used when the original material is changed into a completely different form, which is the case with wood pulp to paper."
+  },
+  {
+    "question": "Long after everyone ...... the hall, obi still sat inside.",
+    "option": [
+      "left",
+      "is leaving",
+      "has left",
+      "had left"
+    ],
+    "answer": "had left",
+    "explanation": "The action of leaving happened before the action of Obi sitting, and 'after' indicates a sequence in the past, requiring the past perfect 'had left'."
+  },
+  {
+    "question": "They are the ...... dresses",
+    "option": [
+      "babys'",
+      "baby",
+      "babies",
+      "babies'"
+    ],
+    "answer": "babies'",
+    "explanation": "The plural of 'baby' is 'babies'. The possessive plural, indicating the dresses belong to multiple babies, is formed by adding an apostrophe after the 's': 'babies''."
+  },
+  {
+    "question": "The politician was sent ...... Exile",
+    "option": [
+      "onto",
+      "into",
+      "on",
+      "to"
+    ],
+    "answer": "to",
+    "explanation": "The correct preposition to use with the verb 'sent' when indicating a destination or state is 'to'. One is sent 'to' exile."
+  },
+  {
+    "question": "When we looked up, we ...... the plane some miles away",
+    "option": [
+      "site",
+      "cited",
+      "sited",
+      "sighted"
+    ],
+    "answer": "sighted",
+    "explanation": "'Sighted' is the past tense of the verb 'to sight', meaning to catch a glimpse of or see something in the distance."
+  },
+  {
+    "question": "Vital...... is still spread ...... word of mouth in most villages in Africa",
+    "option": [
+      "information/from",
+      "information/with",
+      "information/by",
+      "information/through"
+    ],
+    "answer": "information/by",
+    "explanation": "The correct phrase is 'spread by word of mouth', where 'by' indicates the means or method."
+  },
+  {
+    "question": "Western education is one of the .... of colonial rule.",
+    "option": [
+      "legacies",
+      "evidence",
+      "remnants",
+      "inheritance"
+    ],
+    "answer": "legacies",
+    "explanation": "A 'legacy' is something handed down from an ancestor or a predecessor. Western education is a lasting impact, or legacy, of colonialism."
+  },
+  {
+    "question": "The federal government has...... child trafficking",
+    "option": [
+      "postulated",
+      "projected",
+      "prescribed",
+      "proscribed"
+    ],
+    "answer": "proscribed",
+    "explanation": "To 'proscribe' means to forbid, especially by law. The government would 'proscribe' (outlaw) child trafficking."
+  },
+  {
+    "question": "The man was happy that his son confessed his guilt and so the others were......",
+    "option": [
+      "Implicated",
+      "accused",
+      "punished",
+      "exonerated"
+    ],
+    "answer": "exonerated",
+    "explanation": "If the son confessed, he took the blame, which would free the others from guilt, meaning they were 'exonerated'."
+  },
+  {
+    "question": "Based on the facts before me, I have no alternative...... to hold you responsible",
+    "option": [
+      "only",
+      "as",
+      "than",
+      "but"
+    ],
+    "answer": "than",
+    "explanation": "The correct structure is 'no alternative... but to' or 'nothing else... than to'. 'No alternative than to' is also used, though 'but' is more common."
+  },
+  {
+    "question": "Many people would always find reasons to......the law",
+    "option": [
+      "arrogate",
+      "debase",
+      "circumvent",
+      "circumspect"
+    ],
+    "answer": "circumvent",
+    "explanation": "To 'circumvent' means to find a way around an obstacle, especially a rule or law. People find reasons to get around the law."
+  },
+  {
+    "question": "Coup",
+    "option": [
+      "whup",
+      "hoot",
+      "couple",
+      "scout"
+    ],
+    "answer": "hoot",
+    "explanation": "The vowel sound in 'coup' is /u\u02d0/ as in 'hoot'."
+  },
+  {
+    "question": "Indict",
+    "option": [
+      "bright",
+      "fish",
+      "pick",
+      "brick"
+    ],
+    "answer": "bright",
+    "explanation": "The vowel sound in 'indict' (pronounced /\u026an\u02c8da\u026at/) is /a\u026a/, the same as in 'bright'."
+  },
+  {
+    "question": "Roared",
+    "option": [
+      "towered",
+      "coast",
+      "brought",
+      "rod"
+    ],
+    "answer": "towered",
+    "explanation": "The vowel sound in 'roared' is /\u0254\u02d0/, the same as in 'towered'."
+  },
+  {
+    "question": "Sheath",
+    "option": [
+      "bathe",
+      "length",
+      "months",
+      "paths"
+    ],
+    "answer": "length",
+    "explanation": "The consonant sound at the end of 'sheath' (/\u03b8/) is the voiceless 'th', which is also found at the end of 'length'."
+  },
+  {
+    "question": "High",
+    "option": [
+      "what",
+      "honest",
+      "who",
+      "vehicle"
+    ],
+    "answer": "honest",
+    "explanation": "The consonant sound at the beginning of 'high' is /h/. This sound is also found at the beginning of 'honest', though the 'h' is silent in some dialects, the target answer is based on the provided key."
+  },
+  {
+    "question": "Of course",
+    "option": [
+      "plough",
+      "dough",
+      "over",
+      "orphan"
+    ],
+    "answer": "orphan",
+    "explanation": "The consonant sound at the beginning of 'of' is /\u0259v/ or /\u0252v/. In 'orphan', the sound is /\u0254\u02d0rf\u0259n/, the 'f' sound is the same."
+  },
+  {
+    "question": "Boys",
+    "option": [
+      "stays",
+      "moist",
+      "noise",
+      "elbows"
+    ],
+    "answer": "noise",
+    "explanation": "Rhyming words have the same vowel and ending consonant sound. 'Boys' /b\u0254\u026az/ rhymes with 'noise' /n\u0254\u026az/."
+  },
+  {
+    "question": "Shine",
+    "option": [
+      "clean",
+      "fine",
+      "machine",
+      "lain"
+    ],
+    "answer": "fine",
+    "explanation": "'Shine' /\u0283a\u026an/ rhymes with 'fine' /fa\u026an/."
+  },
+  {
+    "question": "Seer",
+    "option": [
+      "snare",
+      "spare",
+      "spear",
+      "square"
+    ],
+    "answer": "spear",
+    "explanation": "'Seer' /s\u026a\u0259r/ rhymes with 'spear' /sp\u026a\u0259r/."
+  },
+  {
+    "question": "Political",
+    "option": [
+      "poliTical",
+      "PolTical",
+      "Political",
+      "political"
+    ],
+    "answer": "PolTical",
+    "explanation": "The primary stress in 'political' is on the second syllable: /p\u0259\u02c8l\u026at.\u026a.k\u0259l/."
+  },
+  {
+    "question": "Satisfactory",
+    "option": [
+      "saTISfactory",
+      "satisFACtory",
+      "SATisfactory",
+      "satisfactory"
+    ],
+    "answer": "saTISfactory",
+    "explanation": "The primary stress in 'satisfactory' is on the second syllable: /\u02ccs\u00e6t.\u026as\u02c8f\u00e6k.t\u0259r.i/."
+  },
+  {
+    "question": "captivity",
+    "option": [
+      "captiVIty",
+      "CAPtivity",
+      "captIVity",
+      "CAPtivITY"
+    ],
+    "answer": "captIVity",
+    "explanation": "The primary stress in 'captivity' is on the third syllable: /k\u00e6p\u02c8t\u026av.\u0259.ti/."
+  },
+  {
+    "question": "EMEKA finished his home work yesterday",
+    "option": [
+      "Was Emeka helped to do his homework?",
+      "Did Emeka do his homework?",
+      "When did Emeka finish his homework?",
+      "Who finished his home work yesterday?"
+    ],
+    "answer": "Who finished his home work yesterday?",
+    "explanation": "The emphatic stress is on 'EMEKA', indicating that the focus is on who performed the action. The question that elicits this response is 'Who finished his homework yesterday?'"
+  },
+  {
+    "question": "Taiwo SAILED to London",
+    "option": [
+      "Did Taiwo fly to London?",
+      "Did Taiwo sail to Brazil?",
+      "Did Taiwo sail to London?",
+      "Where did Taiwo sail to?"
+    ],
+    "answer": "Did Taiwo fly to London?",
+    "explanation": "The stress is on 'SAILED', which is the means of transport. The question that contrasts this is one that suggests a different means, i.e., 'Did Taiwo fly to London?'"
+  },
+  {
+    "question": "My bag is made of LEATHER",
+    "option": [
+      "Whose bag is made of leather",
+      "Is my bag made of polythene?",
+      "Is Abu's bag made of leather?",
+      "Is my bag made of leather?"
+    ],
+    "answer": "Is my bag made of polythene?",
+    "explanation": "The stress is on 'LEATHER', which is the material. The question that contrasts this is one that suggests a different material, i.e., 'Is my bag made of polythene?'"
+  }
+]
